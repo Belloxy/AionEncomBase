@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Fly Ring 5.3
+	Made By (Encom)
+	Recode: 10 November 2016
+ -->
 <fly_rings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="fly_rings.xsd">
+	<!-- RESHANTA 5.3 -->
 	<fly_ring name="RESHANTA_AIR_BOOSTER_1" map="400010000" radius="6.0">
 		<center x="477.13464" y="2365.0405" z="2831.462"/>
 		<left x="479.98218" y="2365.2595" z="2831.462"/>
@@ -265,6 +271,8 @@
 		<left z="1441.7015" y="1009.33795" x="2528.417"/>
 		<right z="1441.3077" y="1012.3309" x="2523.9072"/>
 	</fly_ring>
+	
+	<!-- ELTNEN -->
 	<fly_ring name="ELTNEN_AIR_BOOSTER_1" map="210020000" radius="6.0">
 		<center z="262.0014" y="2727.5862" x="415.29517"/>
 		<left z="262.0014" y="2729.3127" x="412.29865"/>
@@ -295,6 +303,8 @@
 		<left z="247.84998" y="2707.7632" x="293.77847"/>
 		<right z="248.32098" y="2702.326" x="294.48636"/>
 	</fly_ring>
+	
+	<!-- MORHEIM -->
 	<fly_ring name="MORHEIM_AIR_BOOSTER_1" map="220020000" radius="6.0">
 		<center z="470.8097" y="2296.745" x="311.12042"/>
 		<left z="470.8097" y="2297.251" x="307.89148"/>
@@ -325,6 +335,8 @@
 		<left z="490.62576" y="2346.5898" x="264.81155"/>
 		<right z="490.37128" y="2343.675" x="259.88235"/>
 	</fly_ring>
+	
+	<!-- ERACUS TEMPLE -->
 	<fly_ring name="ERACUS_TEMPLE_AIR_BOOSTER_1" map="210020000" radius="6.0">
  		<center z="281.3297" y="398.7803" x="395.9434"/>
  		<left z="286.3297" y="398.7803" x="393.9434"/>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="320110000" name="ALQUIMIA_RESEARCH_CENTER_320110000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="6">
+    <zone mapid="320110000" name="ALQUIMIA_RESEARCH_CENTER_320110000" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
         <points bottom="181.69247" top="281.69247">
             <point x="250.34686" y="460.2708"/>
             <point x="378.24896" y="459.6114"/>
@@ -13,8 +12,7 @@
             <point x="251.07477" y="546.6419"/>
         </points>
     </zone>
-    <zone mapid="320110000" name="DAEVIC_GENESIS_LAB_320110000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="6">
+    <zone mapid="320110000" name="DAEVIC_GENESIS_LAB_320110000" area_type="POLYGON" zone_type="SUB" priority="15" flags="6">
         <points bottom="181.79251" top="281.7925">
             <point x="464.82584" y="478.16776"/>
             <point x="464.43408" y="579.0388"/>
@@ -38,8 +36,7 @@
             <point x="510.2949" y="517.1171"/>
         </points>
     </zone>
-    <zone mapid="320110000" name="LEPHARIST_SANCTUARY_320110000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="6">
+    <zone mapid="320110000" name="LEPHARIST_SANCTUARY_320110000" area_type="POLYGON" zone_type="SUB" priority="14" flags="6">
         <points bottom="181.79251" top="281.7925">
             <point x="255.08603" y="465.76096"/>
             <point x="376.36804" y="464.7907"/>

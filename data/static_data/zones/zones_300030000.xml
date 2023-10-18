@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300030000" name="IDAB1_MINICASTLE_ITEMUSEAREA_Q3072" area_type="POLYGON" zone_type="ITEM_USE"
-          flags="0">
+    <zone mapid="300030000" name="IDAB1_MINICASTLE_ITEMUSEAREA_Q3072" area_type="POLYGON" zone_type="ITEM_USE" flags="0">
         <points bottom="373.505" top="423.505">
             <point x="325.0758" y="358.82883"/>
             <point x="367.3839" y="352.7778"/>
@@ -11,8 +10,7 @@
             <point x="328.09335" y="369.7275"/>
         </points>
     </zone>
-    <zone mapid="300030000" name="NOCHSANA_FORTRESS_GATE_300030000" area_type="POLYGON" zone_type="SUB" priority="2"
-          flags="0">
+    <zone mapid="300030000" name="NOCHSANA_FORTRESS_GATE_300030000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
         <points bottom="320.33383" top="520.33386">
             <point x="252.34714" y="394.93555"/>
             <point x="272.69476" y="474.7531"/>
@@ -23,8 +21,7 @@
             <point x="440.27863" y="356.90012"/>
         </points>
     </zone>
-    <zone mapid="300030000" name="NOCHSANA_TRAINING_CAMP_300030000" area_type="POLYGON" zone_type="SUB" priority="3"
-          flags="0">
+    <zone mapid="300030000" name="NOCHSANA_TRAINING_CAMP_300030000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
         <points bottom="244.74103" top="544.741">
             <point x="38.84504" y="468.80618"/>
             <point x="156.06018" y="185.99069"/>
@@ -34,8 +31,7 @@
             <point x="378.6668" y="877.8912"/>
         </points>
     </zone>
-    <zone mapid="300030000" name="NOCHSANA_TRAINING_FORTRESS_300030000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300030000" name="NOCHSANA_TRAINING_FORTRESS_300030000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="320.43387" top="520.43384">
             <point x="236.50531" y="307.6795"/>
             <point x="260.75873" y="253.7513"/>

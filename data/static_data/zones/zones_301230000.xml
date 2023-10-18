@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="301230000" name="SZ_SECTOR_A_301230000" area_type="POLYGON" zone_type="SUB" priority="10" flags="0">
+	<zone mapid="301230000" name="EAST_PLATFORM_301230000" area_type="POLYGON" zone_type="SUB" priority="10" flags="0">
         <points bottom="219.122849" top="369.122849">
             <point x="239.411346" y="276.459351"/>
             <point x="182.616455" y="361.546387"/>
@@ -8,7 +8,7 @@
             <point x="276.932312" y="278.159058"/>
         </points>
     </zone>
-    <zone mapid="301230000" name="SZ_SECTOR_B_301230000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
+	<zone mapid="301230000" name="WEST_PLATFORM_301230000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
         <points bottom="211.901093" top="361.901093">
             <point x="276.949432" y="240.056015"/>
             <point x="310.593170" y="197.833206"/>
@@ -17,7 +17,7 @@
             <point x="243.727646" y="235.120453"/>
         </points>
     </zone>
-    <zone mapid="301230000" name="SZ_SECTOR_C_301230000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+	<zone mapid="301230000" name="SOUTH_PLATFORM_301230000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
         <points bottom="216.405518" top="366.405518">
             <point x="274.980988" y="277.992310"/>
             <point x="317.287415" y="309.032288"/>
@@ -26,7 +26,7 @@
             <point x="276.687073" y="235.605637"/>
         </points>
     </zone>
-    <zone mapid="301230000" name="SZ_SECTOR_D_301230000" area_type="POLYGON" zone_type="SUB" priority="12" flags="0">
+	<zone mapid="301230000" name="NORTH_PLATFORM_301230000" area_type="POLYGON" zone_type="SUB" priority="12" flags="0">
         <points bottom="218.466583" top="368.466583">
             <point x="243.035934" y="234.120377"/>
             <point x="201.020370" y="195.688385"/>
@@ -35,8 +35,7 @@
             <point x="240.956680" y="276.109375"/>
         </points>
     </zone>
-    <zone mapid="301230000" name="SHIELD_GENERATION_HUB_301230000" area_type="POLYGON" zone_type="SUB" priority="12"
-          flags="0">
+	<zone mapid="301230000" name="SHIELD_GENERATION_HUB_301230000" area_type="POLYGON" zone_type="SUB" priority="12" flags="0">
         <points bottom="423.481720" top="523.481720">
             <point x="211.906479" y="202.936432"/>
             <point x="252.126007" y="187.481689"/>
@@ -52,8 +51,7 @@
             <point x="202.596390" y="213.922302"/>
         </points>
     </zone>
-    <zone mapid="301230000" name="ILLUMINARY_OBELISK_301230000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="0">
+	<zone mapid="301230000" name="ILLUMINARY_OBELISK_301230000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
         <points bottom="-24.782446" top="675.217554">
             <point x="-6.788910" y="-4.500717"/>
             <point x="485.499176" y="1.410172"/>

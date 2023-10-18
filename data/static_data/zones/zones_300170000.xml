@@ -13,8 +13,7 @@
             <point x="941.6687" y="9.696136"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="AETHERIC_FIELD_ROOM_300170000" area_type="POLYGON" zone_type="SUB" priority="4"
-          flags="0">
+    <zone mapid="300170000" name="AETHERIC_FIELD_ROOM_300170000" area_type="POLYGON" zone_type="SUB" priority="4" flags="0">
         <points bottom="160.0" top="300.0">
             <point x="1346.8066" y="135.35057"/>
             <point x="1368.8066" y="135.35057"/>
@@ -24,8 +23,7 @@
             <point x="1315.3066" y="120.35057"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="BESHMUNDIRS_WALK_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="BESHMUNDIRS_WALK_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="160.0" top="300.0">
             <point x="1408.5" y="215.80287"/>
             <point x="1409.2933" y="451.925"/>
@@ -33,8 +31,7 @@
             <point x="1506.0" y="215.80287"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="BLUE_FLAME_INCINERATOR_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="BLUE_FLAME_INCINERATOR_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="160.0" top="410.0">
             <point x="1445.8394" y="1082.51"/>
             <point x="1459.5553" y="1111.3511"/>
@@ -44,8 +41,7 @@
             <point x="1477.1786" y="1010.24115"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="CONTEMPLATION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="CONTEMPLATION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="250.0" top="550.0">
             <point x="1478.23" y="1541.66"/>
             <point x="1515.8954" y="1538.312"/>
@@ -56,8 +52,7 @@
             <point x="1467.7673" y="1592.09"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="COURTYARD_OF_ETERNITY_300170000" area_type="POLYGON" zone_type="SUB" priority="2"
-          flags="0">
+    <zone mapid="300170000" name="COURTYARD_OF_ETERNITY_300170000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
         <points bottom="250.0" top="550.0">
             <point x="1392.11" y="1358.95"/>
             <point x="1434.0325" y="1326.5552"/>
@@ -68,8 +63,7 @@
             <point x="1330.6086" y="1450.896"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="CRYPT_OF_THE_VANQUISHED_300170000" area_type="POLYGON" zone_type="SUB" priority="3"
-          flags="0">
+    <zone mapid="300170000" name="CRYPT_OF_THE_VANQUISHED_300170000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
         <points bottom="160.0" top="300.0">
             <point x="1010.7048" y="461.12134"/>
             <point x="1067.3424" y="381.32248"/>
@@ -78,8 +72,7 @@
             <point x="1010.3066" y="646.0644"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="FORGOTTEN_STOREROOM_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="FORGOTTEN_STOREROOM_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="160.1" top="260.1">
             <point x="1230.7789" y="377.569"/>
             <point x="1231.1296" y="426.41165"/>
@@ -94,8 +87,7 @@
             <point x="1274.0507" y="377.75507"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="GARDEN_OF_THE_DEAD_300170000" area_type="POLYGON" zone_type="SUB" priority="5"
-          flags="0">
+    <zone mapid="300170000" name="GARDEN_OF_THE_DEAD_300170000" area_type="POLYGON" zone_type="SUB" priority="5" flags="0">
         <points bottom="160.0" top="410.0">
             <point x="1076.3846" y="664.6615"/>
             <point x="1209.7504" y="575.7606"/>
@@ -107,8 +99,7 @@
             <point x="956.4278" y="1031.5605"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="GARDEN_OF_THE_ENTOMBED_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="GARDEN_OF_THE_ENTOMBED_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="160.0" top="410.0">
             <point x="1199.9097" y="1159.84"/>
             <point x="1229.4934" y="1191.777"/>
@@ -136,8 +127,7 @@
             <point x="1169.6528" y="480.63092"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="MACUNBELLOS_REFUGE_300170000" area_type="POLYGON" zone_type="SUB" priority="2"
-          flags="0">
+    <zone mapid="300170000" name="MACUNBELLOS_REFUGE_300170000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
         <points bottom="160.0" top="300.0">
             <point x="934.56165" y="96.307556"/>
             <point x="934.56165" y="171.80756"/>
@@ -145,8 +135,7 @@
             <point x="1024.0616" y="96.307556"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="MEDITATION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="MEDITATION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="250.0" top="550.0">
             <point x="1471.78" y="1539.29"/>
             <point x="1437.5557" y="1526.7078"/>
@@ -157,8 +146,7 @@
             <point x="1467.8042" y="1592.4402"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="ORACULAR_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="3"
-          flags="0">
+    <zone mapid="300170000" name="ORACULAR_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
         <points bottom="160.0" top="300.0">
             <point x="1312.028" y="409.79443"/>
             <point x="1324.5605" y="426.1205"/>
@@ -170,8 +158,7 @@
             <point x="1312.028" y="324.0"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="PETITION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="PETITION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="250.0" top="550.0">
             <point x="1584.4568" y="1416.9508"/>
             <point x="1586.9612" y="1453.1682"/>
@@ -207,8 +194,7 @@
             <point x="1555.1793" y="1594.069"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="SUPPLICATION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1"
-          flags="0">
+    <zone mapid="300170000" name="SUPPLICATION_CHAMBER_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="250.0" top="550.0">
             <point x="1585.95" y="1459.2"/>
             <point x="1573.0427" y="1494.6467"/>
@@ -219,8 +205,7 @@
             <point x="1638.7349" y="1463.2455"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="TEMPLE_OF_ETERNITY_ENTRANCE_300170000" area_type="POLYGON" zone_type="SUB"
-          priority="1" flags="0">
+    <zone mapid="300170000" name="TEMPLE_OF_ETERNITY_ENTRANCE_300170000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
         <points bottom="249.99997" top="549.99994">
             <point x="1401.3506" y="1306.6045"/>
             <point x="1383.09" y="1321.9845"/>
@@ -228,8 +213,7 @@
             <point x="1423.326" y="1336.4476"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="TWISTING_PASSAGE_300170000" area_type="POLYGON" zone_type="SUB" priority="4"
-          flags="0">
+    <zone mapid="300170000" name="TWISTING_PASSAGE_300170000" area_type="POLYGON" zone_type="SUB" priority="4" flags="0">
         <points bottom="160.0" top="300.0">
             <point x="1172.8763" y="270.3169"/>
             <point x="1070.5852" y="270.05774"/>
@@ -243,8 +227,7 @@
             <point x="1197.5" y="237.36124"/>
         </points>
     </zone>
-    <zone mapid="300170000" name="VAULT_OF_THE_CONQUERORS_300170000" area_type="POLYGON" zone_type="SUB" priority="3"
-          flags="0">
+    <zone mapid="300170000" name="VAULT_OF_THE_CONQUERORS_300170000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
         <points bottom="160.0" top="300.0">
             <point x="1013.9963" y="8.499998"/>
             <point x="1013.4151" y="272.0432"/>

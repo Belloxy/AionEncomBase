@@ -1,21 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	라이브 파티 콘서트장 4.3
+	Spawn By (Encom)
+ -->
+<spawns>
 	<spawn_map map_id="600080000">
-		<!-- Exit Elyos -->
-		<spawn npc_id="831668" respawn_time="295">
-			<spot x="1508.753296" y="1482.785889" z="565.87964" h="0"/>
+		<!-- Concert Hall Exit Usher (Elyos) -->
+		<spawn npc_id="831668">
+            <spot x="1508.4463" y="1481.5912" z="565.8798" h="16"/>
 		</spawn>
-		<!-- Exit Elyos -->
-		<spawn npc_id="831669" respawn_time="295">
-			<spot x="1505.003296" y="1486.285889" z="565.8799" h="0"/>
+		<!-- Concert Hall Exit Usher (Elyos) -->
+		<spawn npc_id="831669">
+            <spot x="1504.3192" y="1486.1263" z="565.8801" h="15"/>
 		</spawn>
-		<!-- Exit Asmodians -->
-		<spawn npc_id="831670" respawn_time="295">
-			<spot x="1505.003296" y="1537.035889" z="565.88" h="0"/>
+		<!-- Concert Hall Exit Usher (Asmodians) -->
+		<spawn npc_id="831670">
+            <spot x="1508.9333" y="1541.1277" z="565.87976" h="106"/>
 		</spawn>
-		<!-- Exit Asmodians -->
-		<spawn npc_id="831671" respawn_time="295">
-			<spot x="1508.503296" y="1540.285889" z="565.8797" h="0"/>
+		<!-- Concert Hall Exit Usher (Asmodians) -->
+		<spawn npc_id="831671">
+            <spot x="1504.3848" y="1536.7886" z="565.8801" h="106"/>
+		</spawn>
+		<!-- Live Party Concert Operating Helper -->
+		<spawn npc_id="831708">
+            <spot x="1492.5629" y="1511.4586" z="565.99805" h="119"/>
 		</spawn>
 	</spawn_map>
 </spawns>

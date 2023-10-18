@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300120000" name="KYSIS_ARTIFACT_CONTROL_ROOM_300120000" area_type="POLYGON" zone_type="SUB"
-          priority="8" flags="2">
+    <zone mapid="300120000" name="KYSIS_ARTIFACT_CONTROL_ROOM_300120000" area_type="POLYGON" zone_type="SUB" priority="8" flags="2">
         <points bottom="180.0" top="230.0">
             <point x="502.61" y="750.55"/>
             <point x="502.61" y="798.303"/>
@@ -9,8 +8,7 @@
             <point x="553.37897" y="750.55"/>
         </points>
     </zone>
-    <zone mapid="300120000" name="KYSIS_ASCENSION_CHAMBER_300120000" area_type="POLYGON" zone_type="SUB" priority="11"
-          flags="2">
+    <zone mapid="300120000" name="KYSIS_ASCENSION_CHAMBER_300120000" area_type="POLYGON" zone_type="SUB" priority="11" flags="2">
         <points bottom="180.0" top="260.0">
             <point x="458.48" y="796.77"/>
             <point x="458.48" y="915.2498"/>
@@ -18,7 +16,7 @@
             <point x="598.16144" y="796.873"/>
         </points>
     </zone>
-    <zone mapid="300120000" name="KYSIS_CHAMBER_300120000" area_type="POLYGON" zone_type="SUB" priority="20" flags="2">
+    <zone mapid="300120000" name="GRAVE_OF_STEEL_STOREROOM_300120000" area_type="POLYGON" zone_type="SUB" priority="20" flags="2">
         <points bottom="130.0" top="280.0">
             <point x="332.93" y="63.75"/>
             <point x="332.92996" y="947.3623"/>
@@ -26,8 +24,7 @@
             <point x="711.7469" y="63.75002"/>
         </points>
     </zone>
-    <zone mapid="300120000" name="OPERATIONS_ROOM_300120000" area_type="POLYGON" zone_type="SUB" priority="10"
-          flags="2">
+    <zone mapid="300120000" name="OPERATIONS_ROOM_300120000" area_type="POLYGON" zone_type="SUB" priority="10" flags="2">
         <points bottom="170.0" top="220.0">
             <point x="481.61136" y="242.45901"/>
             <point x="481.61136" y="632.6836"/>

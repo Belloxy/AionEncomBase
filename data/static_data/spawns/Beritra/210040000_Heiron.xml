@@ -1,81 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Beritra Invasion
+	インタルディカ 4.8
+	Spawn By (Encom)
+ -->
 <spawns>
     <spawn_map map_id="210040000">
 		<beritra_spawn id="7">
 			<beritra_type bstate="INVASION">
-				<!-- WorldRaid_Control_Effect -->
-				<spawn npc_id="702529">
-					<spot x="383.20038" y="2930.0217" z="101.836" h="103"/>
-				</spawn>
-				<!-- WorldRaid_Advent_Effect -->
-				<spawn npc_id="702549">
-					<spot x="383.20038" y="2930.0217" z="101.836" h="103"/>
-				</spawn>
-				<!-- Warning Area -->
+				<!-- 경보 지역 -->
 				<spawn npc_id="832819">
-					<spot x="383.20038" y="2930.0217" z="101.836" h="103"/>
+					<spot x="382.0" y="2929.0" z="100.25" h="42"/>
 				</spawn>
-				<!-- Elite Benoid I -->
+				<!-- 베노이드 일반 3급 병기 -->
 				<spawn npc_id="236739">
-					<spot x="383.20038" y="2930.0217" z="101.836" h="103"/>
+					<spot x="382.0" y="2929.0" z="100.25" h="42" walker_id="LF3_WORLDRAID_SANDWORM_WAY_01"/>
 				</spawn>
 			</beritra_type>
 			<beritra_type bstate="PEACE">
 			    <!-- WorldRaid_SP_Object -->
 				<spawn npc_id="702548">
-					<spot x="383.20038" y="2930.0217" z="101.836" h="103"/>
+					<spot x="382.0" y="2929.0" z="100.25" h="42"/>
 				</spawn>
 			</beritra_type>
 		</beritra_spawn>
 		<beritra_spawn id="8">
 			<beritra_type bstate="INVASION">
-				<!-- WorldRaid_Control_Effect -->
-				<spawn npc_id="702530">
-					<spot x="1470.0549" y="1891.9877" z="106.22974" h="7"/>
-				</spawn>
-				<!-- WorldRaid_Advent_Effect -->
-				<spawn npc_id="702549">
-					<spot x="1470.0549" y="1891.9877" z="106.22974" h="7"/>
-				</spawn>
-				<!-- Warning Area -->
+				<!-- 경보 지역 -->
 				<spawn npc_id="832819">
-					<spot x="1470.0549" y="1891.9877" z="106.22974" h="7"/>
+					<spot x="1470.0549" y="1890.8654" z="106.22974" h="7"/>
 				</spawn>
-				<!-- Elite Magnorion I -->
+				<!-- 마그노리온 일반 2급 병기 -->
 				<spawn npc_id="236740">
-					<spot x="1470.0549" y="1891.9877" z="106.22974" h="7"/>
+					<spot x="1470.0549" y="1890.8654" z="106.22974" h="7"/>
 				</spawn>
 			</beritra_type>
 			<beritra_type bstate="PEACE">
 			    <!-- WorldRaid_SP_Object -->
 				<spawn npc_id="702548">
-					<spot x="1470.0549" y="1891.9877" z="106.22974" h="7"/>
+					<spot x="1470.0549" y="1890.8654" z="106.22974" h="7"/>
 				</spawn>
 			</beritra_type>
 		</beritra_spawn>
 		<beritra_spawn id="9">
 			<beritra_type bstate="INVASION">
-				<!-- WorldRaid_Control_Effect -->
-				<spawn npc_id="702531">
-					<spot x="540.073" y="2109.0107" z="103.375" h="107"/>
-				</spawn>
-				<!-- WorldRaid_Advent_Effect -->
-				<spawn npc_id="702549">
-					<spot x="540.073" y="2109.0107" z="103.375" h="107"/>
-				</spawn>
-				<!-- Warning Area -->
+				<!-- 경보 지역 -->
 				<spawn npc_id="832819">
-					<spot x="540.073" y="2109.0107" z="103.375" h="107"/>
+					<spot x="540.073" y="2107.656" z="103.375" h="107"/>
 				</spawn>
-				<!-- Elite Eiter I -->
+				<!-- 에이터 일반 3급 병기 -->
 				<spawn npc_id="236741">
-					<spot x="540.073" y="2109.0107" z="103.375" h="107"/>
+					<spot x="540.073" y="2107.656" z="103.375" h="107"/>
 				</spawn>
 			</beritra_type>
 			<beritra_type bstate="PEACE">
 			    <!-- WorldRaid_SP_Object -->
 				<spawn npc_id="702548">
-					<spot x="540.073" y="2109.0107" z="103.375" h="107"/>
+					<spot x="540.073" y="2107.656" z="103.375" h="107"/>
 				</spawn>
 			</beritra_type>
 		</beritra_spawn>

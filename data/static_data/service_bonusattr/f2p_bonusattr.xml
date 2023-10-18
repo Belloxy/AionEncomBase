@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	F2P Bonus 4.3/4.8/4.9/5.3
+	Made By (Encom)
+	Author: Ace (Encom)
+-->
 <f2p_bonus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="f2p_bonusattr.xsd">
 	<!-- Gold Pack -->
 	<f2p buff_id="1">

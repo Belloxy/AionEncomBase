@@ -9,8 +9,7 @@
             <point x="172.0" y="347.0"/>
         </points>
     </zone>
-    <zone mapid="320020000" name="FLOATING_ISLAND_A_2_320020000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="6">
+    <zone mapid="320020000" name="FLOATING_ISLAND_A_2_320020000" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
         <points bottom="0.1" top="500.1">
             <point x="46.0" y="152.0"/>
             <point x="116.0" y="180.0"/>
@@ -26,8 +25,7 @@
             <point x="159.0" y="900.0"/>
         </points>
     </zone>
-    <zone mapid="320020000" name="VANPERN_OBELISK_2_320020000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="6">
+    <zone mapid="320020000" name="VANPERN_OBELISK_2_320020000" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
         <points bottom="0.1" top="500.1">
             <point x="409.0" y="444.0"/>
             <point x="410.0" y="374.0"/>

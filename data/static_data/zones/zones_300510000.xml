@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300510000" name="DREDGION_COMMAND_CENTER_300510000" area_type="POLYGON" zone_type="SUB" priority="3"
-          flags="0">
+    <zone mapid="300510000" name="DREDGION_COMMAND_CENTER_300510000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="1067.3629" y="333.43433"/>
             <point x="1067.0695" y="262.08905"/>
@@ -9,8 +8,7 @@
             <point x="992.87366" y="333.49805"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="DREDGION_CONTROL_CENTER_2_300510000" area_type="POLYGON" zone_type="SUB" priority="9"
-          flags="0">
+    <zone mapid="300510000" name="DREDGION_CONTROL_CENTER_2_300510000" area_type="POLYGON" zone_type="SUB" priority="9" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="1162.7596" y="416.1484"/>
             <point x="1162.4662" y="228.56293"/>
@@ -18,8 +16,7 @@
             <point x="945.82574" y="416.21213"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="ENGINEERING_LAB_300510000" area_type="POLYGON" zone_type="SUB" priority="11"
-          flags="0">
+    <zone mapid="300510000" name="ENGINEERING_LAB_300510000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="946.16" y="866.28"/>
             <point x="1162.1328" y="865.85565"/>
@@ -35,8 +32,7 @@
             <point x="704.8176" y="1435.9824"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="GLORIOUS_HOLY_GROUND_300510000" area_type="POLYGON" zone_type="SUB" priority="9"
-          flags="0">
+    <zone mapid="300510000" name="GLORIOUS_HOLY_GROUND_300510000" area_type="POLYGON" zone_type="SUB" priority="9" flags="0">
         <points bottom="750.0" top="850.0">
             <point x="1101.8839" y="1012.1"/>
             <point x="1143.0167" y="1011.94574"/>
@@ -54,8 +50,7 @@
             <point x="895.31" y="1177.401"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="GRAVITY_CONTROL_LAB_300510000" area_type="POLYGON" zone_type="SUB" priority="10"
-          flags="0">
+    <zone mapid="300510000" name="GRAVITY_CONTROL_LAB_300510000" area_type="POLYGON" zone_type="SUB" priority="10" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="1162.7596" y="545.28"/>
             <point x="1162.4662" y="411.92313"/>
@@ -99,8 +94,7 @@
             <point x="1039.6343" y="331.73254"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="LAKSYAKA_LEGION_HQ_300510000" area_type="POLYGON" zone_type="SUB" priority="3"
-          flags="0">
+    <zone mapid="300510000" name="LAKSYAKA_LEGION_HQ_300510000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="565.4634" y="1266.7279"/>
             <point x="705.0181" y="1266.8112"/>
@@ -166,8 +160,7 @@
             <point x="919.3011" y="1179.2424"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="REPENTANCE_CHAMBER_300510000" area_type="POLYGON" zone_type="SUB" priority="4"
-          flags="0">
+    <zone mapid="300510000" name="REPENTANCE_CHAMBER_300510000" area_type="POLYGON" zone_type="SUB" priority="4" flags="0">
         <points bottom="350.0" top="480.0">
             <point x="705.24097" y="1295.4827"/>
             <point x="754.0538" y="1295.5659"/>
@@ -175,8 +168,7 @@
             <point x="705.27527" y="1345.6676"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="SAVAGE_GAUNTLET_300510000" area_type="POLYGON" zone_type="SUB" priority="11"
-          flags="0">
+    <zone mapid="300510000" name="SAVAGE_GAUNTLET_300510000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="729.77155" y="985.39"/>
             <point x="899.20013" y="983.83795"/>
@@ -184,8 +176,7 @@
             <point x="729.9232" y="1155.676"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="STRONGHOLD_APPROACH_300510000" area_type="POLYGON" zone_type="SUB" priority="10"
-          flags="0">
+    <zone mapid="300510000" name="STRONGHOLD_APPROACH_300510000" area_type="POLYGON" zone_type="SUB" priority="10" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="1260.42" y="1012.06"/>
             <point x="1544.9419" y="1012.3075"/>
@@ -193,8 +184,7 @@
             <point x="1260.2083" y="1125.6342"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="STRONGHOLD_GATEWAY_300510000" area_type="POLYGON" zone_type="SUB" priority="11"
-          flags="0">
+    <zone mapid="300510000" name="STRONGHOLD_GATEWAY_300510000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="1158.44" y="1011.96"/>
             <point x="1262.8884" y="1011.9327"/>
@@ -202,8 +192,7 @@
             <point x="1158.31" y="1125.5342"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="TAHABATA_LEGION_HQ_300510000" area_type="POLYGON" zone_type="SUB" priority="10"
-          flags="0">
+    <zone mapid="300510000" name="TAHABATA_LEGION_HQ_300510000" area_type="POLYGON" zone_type="SUB" priority="10" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="586.4314" y="985.39"/>
             <point x="733.31586" y="983.83795"/>
@@ -211,8 +200,7 @@
             <point x="586.583" y="1155.676"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="TIAMAT_STRONGHOLD_1_300510000" area_type="POLYGON" zone_type="SUB" priority="9"
-          flags="0">
+    <zone mapid="300510000" name="TIAMAT_STRONGHOLD_1_300510000" area_type="POLYGON" zone_type="SUB" priority="9" flags="0">
         <points bottom="350.0" top="650.0">
             <point x="1541.9" y="1012.54"/>
             <point x="1641.6769" y="1012.7875"/>
@@ -220,8 +208,7 @@
             <point x="1541.7057" y="1126.114"/>
         </points>
     </zone>
-    <zone mapid="300510000" name="TIAMAT_STRONGHOLD_300510000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="0">
+    <zone mapid="300510000" name="TIAMAT_STRONGHOLD_300510000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
         <points bottom="1.0" top="1001.0">
             <point x="101.74408" y="100.0"/>
             <point x="1901.7441" y="100.0"/>

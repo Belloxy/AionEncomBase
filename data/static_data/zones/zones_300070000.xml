@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300070000" name="CHAMBER_OF_ROAH_300070000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="2">
+    <zone mapid="300070000" name="HAMATE_ISLE_STOREROOM_300070000" area_type="POLYGON" zone_type="SUB" priority="16" flags="2">
         <points bottom="58.82705" top="158.82704">
             <point x="467.1452" y="365.95755"/>
             <point x="465.29074" y="442.38174"/>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="310080000" name="SANCTUM_UNDERGROUND_ARENA_310080000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="2">
+    <zone mapid="310080000" name="SANCTUM_UNDERGROUND_ARENA_310080000" area_type="POLYGON" zone_type="SUB" priority="16" flags="2">
         <points bottom="134.42346" top="234.42346">
             <point x="204.16914" y="129.64948"/>
             <point x="355.68823" y="129.21283"/>

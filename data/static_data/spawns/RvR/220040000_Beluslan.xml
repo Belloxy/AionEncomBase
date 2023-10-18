@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+	[R.V.R Beluslan]
+	エリュシオン 4.9.1
+	"Brigade General's Urgent Order"
+	Spawn By (Encom)
+ -->
 <spawns>
     <spawn_map map_id="220040000">
+		<!--
+		WAILING WOODS
+		ASHENSAND ISLAND
+		FANGDROP ISLAND
+		BESFER ISLAND -->
 		<rvr_spawn id="2">
 			<rvr_type rstate="RVR">
-				<!-- Legion Infiltration Corridor -->
+			    <!-- Legion Infiltration Corridor -->
 				<spawn npc_id="703095">
 				    <spot x="400.92197" y="416.92264" z="222.11166" h="0"/>
 				</spawn>

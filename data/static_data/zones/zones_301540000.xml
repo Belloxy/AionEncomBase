@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="301540000" name="ARCHIVE_OF_MEN_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="48">
-        <points bottom="456.100006" top="556.099976">
-            <point x="532.599487" y="490.06134"/>
-            <point x="526.599487" y="499.06134"/>
-            <point x="524.599487" y="511.06134"/>
-            <point x="526.599487" y="523.06134"/>
-            <point x="532.599487" y="532.06134"/>
-            <point x="541.599487" y="538.06134"/>
-            <point x="554.599487" y="540.06134"/>
-            <point x="564.599487" y="538.06134"/>
-            <point x="573.599487" y="532.06134"/>
-            <point x="579.599487" y="523.06134"/>
-            <point x="581.599487" y="512.06134"/>
-            <point x="580.599487" y="500.06134"/>
-            <point x="573.599487" y="491.06134"/>
-            <point x="564.599487" y="485.06134"/>
-            <point x="553.599487" y="483.06134"/>
-            <point x="542.599487" y="484.06134"/>
-        </points>
-    </zone>
-    <zone mapid="301540000" name="ARCHIVE_OF_THE_INCEPTION_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="48">
-        <points bottom="450.451569" top="600.451538">
+	<zone mapid="301540000" name="ARCHIVES_OF_ETERNITY_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+        <points bottom="456.100006" top="556.100006">
+            <point x="716.125000" y="490.125000"/>
+            <point x="710.125000" y="499.125000"/>
+            <point x="708.125000" y="511.125000"/>
+            <point x="710.125000" y="523.125000"/>
+            <point x="716.125000" y="532.125000"/>
+            <point x="725.125000" y="538.125000"/>
+            <point x="738.125000" y="540.125000"/>
+            <point x="748.125000" y="538.125000"/>
+            <point x="757.125000" y="532.125000"/>
+            <point x="763.125000" y="523.125000"/>
+            <point x="765.125000" y="512.125000"/>
+            <point x="764.125000" y="500.125000"/>
+            <point x="757.125000" y="491.125000"/>
+            <point x="748.125000" y="485.125000"/>
+            <point x="737.125000" y="483.125000"/>
+            <point x="726.125000" y="484.125000"/>
+		</points>
+	</zone>
+	<zone mapid="301540000" name="ARCHIVES_OF_ALL_KNOWLEDGE_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+        <points bottom="450.451569" top="600.451569">
             <point x="275.844086" y="561.604858"/>
             <point x="279.007904" y="547.642517"/>
             <point x="283.875092" y="537.650513"/>
             <point x="298.362793" y="529.635559"/>
             <point x="301.991272" y="524.293945"/>
-            <point x="302.881653" y="517.54126"/>
+            <point x="302.881653" y="517.541260"/>
             <point x="302.766357" y="505.825012"/>
             <point x="301.154358" y="499.261017"/>
             <point x="297.544861" y="494.218414"/>
             <point x="284.616119" y="486.961853"/>
-            <point x="273.700165" y="461.57959"/>
+            <point x="273.700165" y="461.579590"/>
             <point x="104.740143" y="461.619476"/>
             <point x="104.494598" y="560.827393"/>
-        </points>
-    </zone>
-    <zone mapid="301540000" name="ARCHIVE_OF_THE_LORD_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="48">
-        <points bottom="456.100006" top="556.099976">
+		</points>
+	</zone>
+	<zone mapid="301540000" name="EMPYREAN_LORD_ARCHIVES_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+        <points bottom="456.100006" top="556.100006">
             <point x="440.781433" y="651.179932"/>
             <point x="434.781433" y="660.179932"/>
             <point x="432.781433" y="672.179932"/>
@@ -55,10 +55,30 @@
             <point x="472.781433" y="646.179932"/>
             <point x="461.781433" y="644.179932"/>
             <point x="450.781433" y="645.179932"/>
-        </points>
+		</points>
+	</zone>
+	<zone mapid="301540000" name="HUMAN_HISTORY_ARCHIVES_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+        <points bottom="456.100006" top="556.100006">
+            <point x="532.599487" y="490.061340"/>
+            <point x="526.599487" y="499.061340"/>
+            <point x="524.599487" y="511.061340"/>
+            <point x="526.599487" y="523.061340"/>
+            <point x="532.599487" y="532.061340"/>
+            <point x="541.599487" y="538.061340"/>
+            <point x="554.599487" y="540.061340"/>
+            <point x="564.599487" y="538.061340"/>
+            <point x="573.599487" y="532.061340"/>
+            <point x="579.599487" y="523.061340"/>
+            <point x="581.599487" y="512.061340"/>
+            <point x="580.599487" y="500.061340"/>
+            <point x="573.599487" y="491.061340"/>
+            <point x="564.599487" y="485.061340"/>
+            <point x="553.599487" y="483.061340"/>
+            <point x="542.599487" y="484.061340"/>
+		</points>
     </zone>
-    <zone mapid="301540000" name="ATREIA_ARCHIVE_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="48">
-        <points bottom="456.100006" top="556.099976">
+    <zone mapid="301540000" name="ATREIA_HISTORY_ARCHIVES_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+        <points bottom="456.100006" top="556.100006">
             <point x="441.172485" y="329.855316"/>
             <point x="435.172485" y="338.855316"/>
             <point x="433.172485" y="350.855316"/>
@@ -75,26 +95,6 @@
             <point x="473.172485" y="324.855316"/>
             <point x="462.172485" y="322.855316"/>
             <point x="451.172485" y="323.855316"/>
-        </points>
-    </zone>
-    <zone mapid="301540000" name="ROOM_OF_DECISION_301540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="48">
-        <points bottom="456.100006" top="556.099976">
-            <point x="716.125" y="490.125"/>
-            <point x="710.125" y="499.125"/>
-            <point x="708.125" y="511.125"/>
-            <point x="710.125" y="523.125"/>
-            <point x="716.125" y="532.125"/>
-            <point x="725.125" y="538.125"/>
-            <point x="738.125" y="540.125"/>
-            <point x="748.125" y="538.125"/>
-            <point x="757.125" y="532.125"/>
-            <point x="763.125" y="523.125"/>
-            <point x="765.125" y="512.125"/>
-            <point x="764.125" y="500.125"/>
-            <point x="757.125" y="491.125"/>
-            <point x="748.125" y="485.125"/>
-            <point x="737.125" y="483.125"/>
-            <point x="726.125" y="484.125"/>
-        </points>
-    </zone>
+		</points>
+	</zone>
 </zones>

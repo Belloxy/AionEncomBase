@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300100000" name="ANCHOR_HANGAR_1_300100000" area_type="POLYGON" zone_type="SUB" priority="12"
-          flags="2">
+    <zone mapid="300100000" name="ANCHOR_POINT_1_300100000" area_type="POLYGON" zone_type="SUB" priority="12" flags="2">
         <points bottom="854.99854" top="904.99854">
             <point x="723.84766" y="447.55295"/>
             <point x="739.62396" y="449.23746"/>
@@ -11,7 +10,7 @@
             <point x="713.9226" y="461.31284"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="ANCHOR_HANGAR_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
+    <zone mapid="300100000" name="ANCHOR_POINT_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
         <points bottom="1003.9579" top="1053.9579">
             <point x="628.72406" y="449.54007"/>
             <point x="648.7869" y="444.11163"/>
@@ -24,8 +23,7 @@
             <point x="628.483" y="459.65265"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="ANTIQUE_STORAGE_300100000" area_type="POLYGON" zone_type="SUB" priority="13"
-          flags="2">
+    <zone mapid="300100000" name="ANTIQUE_STORAGE_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
         <points bottom="880.0" top="930.0">
             <point x="292.17172" y="546.8179"/>
             <point x="323.69348" y="546.74866"/>
@@ -58,7 +56,7 @@
             <point x="354.86124" y="575.4071"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="CARGO_ELEVATOR_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
+    <zone mapid="300100000" name="CARGO_ELEVATOR_1_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
         <points bottom="890.0" top="990.0">
             <point x="274.1" y="441.72"/>
             <point x="291.77625" y="441.6185"/>
@@ -66,18 +64,7 @@
             <point x="274.19058" y="456.44073"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="CENTRAL_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="15" flags="2">
-        <points bottom="1005.0" top="1155.0">
-            <point x="348.37" y="419.42"/>
-            <point x="656.1535" y="420.12592"/>
-            <point x="656.85046" y="517.7537"/>
-            <point x="698.7809" y="517.7537"/>
-            <point x="698.75305" y="596.00726"/>
-            <point x="348.213" y="595.83356"/>
-        </points>
-    </zone>
-    <zone mapid="300100000" name="CENTRAL_ENGINE_ROOM_300100000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="2">
+    <zone mapid="300100000" name="CENTRAL_ENGINE_ROOM_300100000" area_type="POLYGON" zone_type="SUB" priority="15" flags="2">
         <points bottom="847.3375" top="917.3375">
             <point x="536.45" y="421.5529"/>
             <point x="657.66705" y="444.63583"/>
@@ -89,8 +76,7 @@
             <point x="536.4576" y="436.36942"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="DRANA_GENERATOR_CHAMBER_300100000" area_type="POLYGON" zone_type="SUB" priority="13"
-          flags="2">
+    <zone mapid="300100000" name="DRANA_GENERATOR_CHAMBER_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
         <points bottom="855.0" top="915.0">
             <point x="657.31" y="476.28"/>
             <point x="712.48114" y="456.94785"/>
@@ -101,8 +87,7 @@
             <point x="657.3978" y="535.6008"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="EMERGENCY_ESCAPE_EXIT_300100000" area_type="POLYGON" zone_type="SUB" priority="12"
-          flags="2">
+    <zone mapid="300100000" name="EMERGENCY_ESCAPE_EXIT_300100000" area_type="POLYGON" zone_type="SUB" priority="12" flags="2">
         <points bottom="855.0" top="925.0">
             <point x="497.64023" y="423.35458"/>
             <point x="511.9459" y="423.3165"/>
@@ -110,8 +95,7 @@
             <point x="497.56107" y="434.8561"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="GUN_REPAIR_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="13"
-          flags="2">
+    <zone mapid="300100000" name="GUN_REPAIR_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
         <points bottom="1003.9579" top="1053.9579">
             <point x="654.8981" y="517.1009"/>
             <point x="699.54755" y="516.9603"/>
@@ -122,7 +106,7 @@
             <point x="656.08594" y="551.8714"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="IDSHULACK_ITEMUSEAREA_Q3200_1" area_type="POLYGON" zone_type="ITEM_USE" flags="2">
+    <zone mapid="300100000" name="IDSHULACK_ITEMUSEAREA_Q3200_Q4200" area_type="POLYGON" zone_type="ITEM_USE" flags="7">
         <points bottom="881.2694" top="901.2694">
             <point x="399.24817" y="499.79865"/>
             <point x="399.22714" y="520.091"/>
@@ -130,8 +114,7 @@
             <point x="420.0052" y="499.94574"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="INSIDE_STEEL_RAKE_1_300100000" area_type="POLYGON" zone_type="SUB" priority="20"
-          flags="2">
+    <zone mapid="300100000" name="INSIDE_STEEL_RAKE_1_300100000" area_type="POLYGON" zone_type="SUB" priority="20" flags="2">
         <points bottom="849.406" top="1149.406">
             <point x="199.80598" y="397.33426"/>
             <point x="810.93854" y="398.59296"/>
@@ -139,8 +122,7 @@
             <point x="200.11874" y="645.75055"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="INSIDE_THE_PRISON_CELL_ON_STEEL_RAKE_300100000" area_type="POLYGON" zone_type="SUB"
-          priority="12" flags="2">
+    <zone mapid="300100000" name="INSIDE_THE_PRISON_CELL_ON_STEEL_RAKE_300100000" area_type="POLYGON" zone_type="SUB" priority="12" flags="2">
         <points bottom="855.0" top="925.0">
             <point x="398.61163" y="501.00296"/>
             <point x="418.66733" y="500.96487"/>
@@ -156,13 +138,22 @@
             <point x="723.1162" y="566.92194"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="LOWER_LEVEL_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="18"
-          flags="2">
+    <zone mapid="300100000" name="LOWER_LEVEL_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="18" flags="2">
         <points bottom="849.406" top="934.406">
             <point x="212.81439" y="408.27298"/>
             <point x="783.66956" y="408.273"/>
             <point x="783.66956" y="637.4113"/>
             <point x="213.12717" y="637.80914"/>
+        </points>
+    </zone>
+    <zone mapid="300100000" name="MAIN_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="15" flags="2">
+        <points bottom="1005.0" top="1155.0">
+            <point x="348.37" y="419.42"/>
+            <point x="656.1535" y="420.12592"/>
+            <point x="656.85046" y="517.7537"/>
+            <point x="698.7809" y="517.7537"/>
+            <point x="698.75305" y="596.00726"/>
+            <point x="348.213" y="595.83356"/>
         </points>
     </zone>
     <zone mapid="300100000" name="MENAGERIE_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
@@ -235,8 +226,7 @@
             <point x="443.03348" y="523.31494"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="UPPER_LEVEL_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="18"
-          flags="2">
+    <zone mapid="300100000" name="UPPER_LEVEL_DECK_300100000" area_type="POLYGON" zone_type="SUB" priority="18" flags="2">
         <points bottom="979.1417" top="1119.1417">
             <point x="353.60352" y="408.27298"/>
             <point x="826.7798" y="408.273"/>
@@ -244,8 +234,7 @@
             <point x="353.9163" y="596.5789"/>
         </points>
     </zone>
-    <zone mapid="300100000" name="WARDENS_CHAMBER_300100000" area_type="POLYGON" zone_type="SUB" priority="13"
-          flags="2">
+    <zone mapid="300100000" name="WARDENS_CHAMBER_300100000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
         <points bottom="855.0" top="925.0">
             <point x="447.57" y="554.32"/>
             <point x="476.05222" y="554.2819"/>

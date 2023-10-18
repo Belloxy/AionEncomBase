@@ -138,8 +138,7 @@
             <point x="2282.9443" y="2396.5896"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="ALTAR_OF_THE_CRIMSON_DRAGON_210030000" area_type="POLYGON" zone_type="SUB"
-          priority="16" flags="55">
+    <zone mapid="210030000" name="ALTAR_OF_THE_CRIMSON_DRAGON_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="100.0" top="250.0">
             <point x="1700.0813" y="2571.2864"/>
             <point x="1713.675" y="2584.0208"/>
@@ -283,8 +282,7 @@
             <point x="2215.2524" y="912.89874"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="CONTAMINATED_SWAMP_210030000" area_type="POLYGON" zone_type="SUB" priority="19"
-          flags="55">
+    <zone mapid="210030000" name="CONTAMINATED_SWAMP_210030000" area_type="POLYGON" zone_type="SUB" priority="19" flags="55">
         <points bottom="180.0" top="380.0">
             <point x="1914.78" y="2737.39"/>
             <point x="1908.643" y="2718.2334"/>
@@ -453,8 +451,7 @@
             <point x="822.79974" y="2315.83"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="DUKAKI_SETTLEMENT_210030000" area_type="POLYGON" zone_type="SUB" priority="19"
-          flags="55">
+    <zone mapid="210030000" name="DUKAKI_SETTLEMENT_210030000" area_type="POLYGON" zone_type="SUB" priority="19" flags="55">
         <points bottom="72.0" top="317.0">
             <point x="718.3" y="2368.731"/>
             <point x="725.46576" y="2413.1294"/>
@@ -510,8 +507,7 @@
             <point x="590.5404" y="2370.4473"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="ELLUN_RIVER_MOUTH_210030000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="55">
+    <zone mapid="210030000" name="ELLUN_RIVER_MOUTH_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="70.0" top="240.0">
             <point x="1393.3848" y="1317.6852"/>
             <point x="1443.1179" y="1083.7727"/>
@@ -586,8 +582,7 @@
             <point x="1385.3352" y="1439.3293"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="FRILLNECK_WOODS_210030000" area_type="POLYGON" zone_type="SUB" priority="17"
-          flags="55">
+    <zone mapid="210030000" name="FRILLNECK_WOODS_210030000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
         <points bottom="80.0" top="330.0">
             <point x="1506.8649" y="2453.7751"/>
             <point x="1506.7036" y="2440.1575"/>
@@ -667,8 +662,7 @@
             <point x="1503.1132" y="2465.0305"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="GEOLUS_CAMPSITE_210030000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="55">
+    <zone mapid="210030000" name="GEOLUS_CAMPSITE_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="70.0" top="270.0">
             <point x="1664.5825" y="2246.5618"/>
             <point x="1664.3077" y="2239.3604"/>
@@ -692,9 +686,6 @@
             <point x="1655.6093" y="2272.6538"/>
             <point x="1657.2493" y="2261.1733"/>
         </points>
-    </zone>
-    <zone mapid="210030000" name="HARAMEL_SECRET_ENTRANCE_210030000" area_type="SPHERE" zone_type="SUB" priority="15" flags="55">
-        <sphere x="2529.679" y="834.5913" z="103.967476" r="15"/>
     </zone>
     <zone mapid="210030000" name="KRAKAS_DEN_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="34.98" top="284.98">
@@ -932,6 +923,11 @@
             <point x="1875.7291" y="1270.7922"/>
             <point x="1996.6599" y="1323.2062"/>
             <point x="2082.9646" y="1477.5795"/>
+            <point x="2074.6787" y="1523.6461"/>
+            <point x="2056.577" y="1533.2955"/>
+            <point x="2053.8323" y="1545.4437"/>
+            <point x="2058.117" y="1560.2418"/>
+            <point x="2069.1243" y="1571.6431"/>
             <point x="2055.998" y="1661.6244"/>
             <point x="1939.9874" y="1755.7021"/>
             <point x="1874.9764" y="1788.6088"/>
@@ -959,8 +955,7 @@
             <point x="1677.0895" y="1525.0507"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="MIRAJUS_HOLY_GROUND_210030000" area_type="POLYGON" zone_type="SUB" priority="19"
-          flags="55">
+    <zone mapid="210030000" name="MIRAJUS_HOLY_GROUND_210030000" area_type="POLYGON" zone_type="SUB" priority="19" flags="55">
         <points bottom="90.0" top="440.0">
             <point x="2128.0835" y="2014.3254"/>
             <point x="2175.6782" y="2023.527"/>
@@ -1008,8 +1003,7 @@
             <point x="2120.8438" y="1994.7078"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="MYSTERIOUS_SHIPWRECK_210030000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="55">
+    <zone mapid="210030000" name="MYSTERIOUS_SHIPWRECK_210030000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
         <points bottom="50.47" top="200.47">
             <point x="2053.1562" y="587.5279"/>
             <point x="2075.8005" y="566.88513"/>
@@ -1024,8 +1018,7 @@
             <point x="2075.1978" y="622.9793"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="NORTHERN_TOLBAS_FOREST_210030000" area_type="POLYGON" zone_type="SUB" priority="18"
-          flags="55">
+    <zone mapid="210030000" name="NORTHERN_TOLBAS_FOREST_210030000" area_type="POLYGON" zone_type="SUB" priority="18" flags="55">
         <points bottom="30.0" top="270.0">
             <point x="1134.8103" y="1476.5858"/>
             <point x="1447.3424" y="1601.8027"/>
@@ -1167,8 +1160,7 @@
             <point x="956.8353" y="1801.3478"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="ODIUM_REFINING_CAULDRON_210030000" area_type="POLYGON" zone_type="SUB" priority="17"
-          flags="55">
+    <zone mapid="210030000" name="ODIUM_REFINING_CAULDRON_210030000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
         <points bottom="50.1" top="350.1">
             <point x="788.652" y="2471.0176"/>
             <point x="777.74945" y="2488.0981"/>
@@ -1182,8 +1174,7 @@
             <point x="797.73737" y="2476.1055"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="PILGRIMS_RESPITE_210030000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="55">
+    <zone mapid="210030000" name="PILGRIMS_RESPITE_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="200.0" top="400.0">
             <point x="2039.8002" y="2395.4312"/>
             <point x="2030.0491" y="2409.0842"/>
@@ -1197,8 +1188,7 @@
             <point x="2062.159" y="2385.2556"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="ROAD_TO_ELTNEN_210030000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="55">
+    <zone mapid="210030000" name="ROAD_TO_ELTNEN_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="100.0" top="300.0">
             <point x="2627.9495" y="1814.5316"/>
             <point x="2628.9507" y="1849.873"/>
@@ -1214,8 +1204,7 @@
             <point x="2663.0393" y="1806.2053"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="SOUTHERN_TOLBAS_FOREST_210030000" area_type="POLYGON" zone_type="SUB" priority="19"
-          flags="55">
+    <zone mapid="210030000" name="SOUTHERN_TOLBAS_FOREST_210030000" area_type="POLYGON" zone_type="SUB" priority="19" flags="55">
         <points bottom="30.0" top="270.0">
             <point x="1410.9299" y="1773.5277"/>
             <point x="1426.7825" y="1762.3188"/>
@@ -1398,8 +1387,7 @@
             <point x="1147.0438" y="2791.3533"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="TOLBAS_VILLAGE_210030000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="55">
+    <zone mapid="210030000" name="TOLBAS_VILLAGE_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="135.0" top="195.0">
             <point x="1209.4604" y="2240.0176"/>
             <point x="1190.6575" y="2207.6206"/>
@@ -1448,8 +1436,7 @@
             <point x="1224.409" y="2271.0425"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="TURSIN_GARRISON_210030000" area_type="POLYGON" zone_type="SUB" priority="17"
-          flags="55">
+    <zone mapid="210030000" name="TURSIN_GARRISON_210030000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
         <points bottom="116.0" top="296.0">
             <point x="2217.5103" y="1115.7905"/>
             <point x="2169.5066" y="1166.865"/>
@@ -1544,8 +1531,7 @@
             <point x="2277.4941" y="1099.969"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="TURSIN_OUTPOST_210030000" area_type="POLYGON" zone_type="SUB" priority="18"
-          flags="55">
+    <zone mapid="210030000" name="TURSIN_OUTPOST_210030000" area_type="POLYGON" zone_type="SUB" priority="18" flags="55">
         <points bottom="55.0" top="305.0">
             <point x="1674.9945" y="1047.393"/>
             <point x="1677.3585" y="1059.9167"/>
@@ -1674,8 +1660,7 @@
             <point x="1650.8298" y="1090.0095"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="TURSIN_OUTPOST_ENTRANCE_210030000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="55">
+    <zone mapid="210030000" name="TURSIN_OUTPOST_ENTRANCE_210030000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
         <points bottom="50.0" top="200.0">
             <point x="1656.6089" y="1087.8971"/>
             <point x="1649.0569" y="1101.4371"/>
@@ -1713,8 +1698,7 @@
             <point x="1676.2053" y="1052.753"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="TURSIN_TOTEM_POLE_210030000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="55">
+    <zone mapid="210030000" name="TURSIN_TOTEM_POLE_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="0.1" top="300.1">
             <point x="2371.4456" y="1116.8969"/>
             <point x="2380.0703" y="1116.2406"/>
@@ -1725,8 +1709,7 @@
             <point x="2368.6333" y="1121.4904"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="VERTERON_AETHERIC_FIELD_OBSERVATORY_210030000" area_type="POLYGON" zone_type="SUB"
-          priority="16" flags="55">
+    <zone mapid="210030000" name="VERTERON_AETHERIC_FIELD_OBSERVATORY_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="10.42" top="210.42">
             <point x="2353.9055" y="824.90283"/>
             <point x="2360.4368" y="809.339"/>
@@ -1740,8 +1723,7 @@
             <point x="2353.3499" y="842.2732"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="VERTERON_CITADEL_210030000" area_type="POLYGON" zone_type="SUB" priority="16"
-          flags="55">
+    <zone mapid="210030000" name="VERTERON_CITADEL_210030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
         <points bottom="112.0" top="212.0">
             <point x="1618.1505" y="1445.5221"/>
             <point x="1642.2509" y="1426.7073"/>
@@ -1762,8 +1744,7 @@
             <point x="1602.9999" y="1492.2935"/>
         </points>
     </zone>
-    <zone mapid="210030000" name="VERTERON_SWAMP_210030000" area_type="POLYGON" zone_type="SUB" priority="17"
-          flags="55">
+    <zone mapid="210030000" name="VERTERON_SWAMP_210030000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
         <points bottom="77.0" top="377.0">
             <point x="1421.41" y="1629.9"/>
             <point x="1471.48" y="1671.5728"/>

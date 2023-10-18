@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
+    <zone mapid="300460000" name="CREW_QUARTERS_300460000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+        <points bottom="938.0" top="988.0">
+            <point x="361.3206" y="456.65485"/>
+            <point x="391.89636" y="457.40665"/>
+            <point x="415.1966" y="499.71158"/>
+            <point x="404.3085" y="546.06134"/>
+            <point x="427.00195" y="567.04565"/>
+            <point x="421.25204" y="609.98096"/>
+            <point x="382.168" y="609.8371"/>
+            <point x="372.4879" y="604.7285"/>
+            <point x="372.85513" y="558.70404"/>
+            <point x="367.43082" y="552.35236"/>
+            <point x="367.97394" y="495.64484"/>
+            <point x="361.43747" y="493.06555"/>
+        </points>
+    </zone>
     <zone mapid="300460000" name="GROGGETS_SAFE_300460000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
         <points bottom="928.0" top="988.0">
             <point x="770.0226" y="469.29745"/>
@@ -16,8 +32,7 @@
             <point x="420.0052" y="499.94574"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="INSIDE_STEEL_RAKE_300460000" area_type="POLYGON" zone_type="SUB" priority="20"
-          flags="0">
+    <zone mapid="300460000" name="INSIDE_STEEL_RAKE_300460000" area_type="POLYGON" zone_type="SUB" priority="20" flags="0">
         <points bottom="849.406" top="1149.406">
             <point x="199.80598" y="397.33426"/>
             <point x="810.93854" y="398.59296"/>
@@ -25,8 +40,7 @@
             <point x="200.11874" y="645.75055"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="LOOT_DEPOSITORY_300460000" area_type="POLYGON" zone_type="SUB" priority="13"
-          flags="0">
+    <zone mapid="300460000" name="LOOT_DEPOSITORY_300460000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
         <points bottom="928.0" top="988.0">
             <point x="535.2" y="495.41"/>
             <point x="598.21454" y="495.56763"/>
@@ -38,8 +52,7 @@
             <point x="535.2071" y="510.37805"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="MERCENARY_QUARTERS_300460000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
+    <zone mapid="300460000" name="MERCENARY_QUARTERS_300460000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
         <points bottom="938.0" top="988.0">
             <point x="408.87543" y="524.16174"/>
             <point x="431.8666" y="518.57043"/>
@@ -49,8 +62,7 @@
             <point x="403.80548" y="546.3584"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="NAVIGATION_RESOURCE_ROOM_300460000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
+    <zone mapid="300460000" name="NAVIGATION_RESOURCE_ROOM_300460000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
         <points bottom="938.0" top="988.0">
             <point x="347.47" y="582.92"/>
             <point x="362.80054" y="582.8997"/>
@@ -73,8 +85,7 @@
             <point x="306.06393" y="611.58795"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="RESTRICTED_ZONE_300460000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
+    <zone mapid="300460000" name="RESTRICTED_ZONE_300460000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
         <points bottom="928.0" top="988.0">
             <point x="776.79" y="437.07"/>
             <point x="776.94696" y="556.95685"/>
@@ -82,25 +93,7 @@
             <point x="665.3223" y="437.28647"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="SAILOR_QUARTERS_300460000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
-        <points bottom="938.0" top="988.0">
-            <point x="361.3206" y="456.65485"/>
-            <point x="391.89636" y="457.40665"/>
-            <point x="415.1966" y="499.71158"/>
-            <point x="404.3085" y="546.06134"/>
-            <point x="427.00195" y="567.04565"/>
-            <point x="421.25204" y="609.98096"/>
-            <point x="382.168" y="609.8371"/>
-            <point x="372.4879" y="604.7285"/>
-            <point x="372.85513" y="558.70404"/>
-            <point x="367.43082" y="552.35236"/>
-            <point x="367.97394" y="495.64484"/>
-            <point x="361.43747" y="493.06555"/>
-        </points>
-    </zone>
-    <zone mapid="300460000" name="SAILOR_WAITING_ROOM_300460000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="0">
+    <zone mapid="300460000" name="SAILOR_WAITING_ROOM_300460000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
         <points bottom="938.0" top="988.0">
             <point x="308.28" y="494.89"/>
             <point x="324.02185" y="494.70578"/>
@@ -116,8 +109,7 @@
             <point x="308.64194" y="539.96344"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="SEA_SONG_TAVERN_300460000" area_type="POLYGON" zone_type="SUB" priority="12"
-          flags="0">
+    <zone mapid="300460000" name="SEA_SONG_TAVERN_300460000" area_type="POLYGON" zone_type="SUB" priority="12" flags="0">
         <points bottom="938.0" top="988.0">
             <point x="443.23" y="469.81"/>
             <point x="509.3295" y="460.1698"/>
@@ -141,8 +133,7 @@
             <point x="323.67944" y="464.65836"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="TAVERN_AIR_VENT_300460000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
+    <zone mapid="300460000" name="TAVERN_AIR_VENT_300460000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
         <points bottom="938.0" top="988.0">
             <point x="496.1966" y="551.98254"/>
             <point x="504.18353" y="552.0422"/>
@@ -157,8 +148,7 @@
             <point x="496.38788" y="565.41046"/>
         </points>
     </zone>
-    <zone mapid="300460000" name="THE_STERN_OF_STEEL_RAKE_300460000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
+    <zone mapid="300460000" name="THE_STERN_OF_STEEL_RAKE_300460000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
         <points bottom="938.0" top="988.0">
             <point x="215.87" y="448.77"/>
             <point x="273.22913" y="448.4521"/>

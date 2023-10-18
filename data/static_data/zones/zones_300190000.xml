@@ -17,8 +17,7 @@
             <point x="521.7925" y="859.61957"/>
         </points>
     </zone>
-    <zone mapid="300190000" name="COCCOONING_CHAMBER_300190000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="0">
+    <zone mapid="300190000" name="COCCOONING_CHAMBER_300190000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
         <points bottom="1000.0" top="1500.0">
             <point x="110.6132" y="387.7566"/>
             <point x="128.26425" y="378.57172"/>
@@ -40,8 +39,7 @@
             <point x="411.738" y="771.34625"/>
         </points>
     </zone>
-    <zone mapid="300190000" name="FUNGALSODDEN_GROVE_300190000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
+    <zone mapid="300190000" name="FUNGALSODDEN_GROVE_300190000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
         <points bottom="1000.0" top="1500.0">
             <point x="349.95" y="797.23"/>
             <point x="362.69614" y="774.4691"/>
@@ -92,8 +90,7 @@
             <point x="211.59875" y="688.3773"/>
         </points>
     </zone>
-    <zone mapid="300190000" name="KLAWTIRA_BROODLAIR_300190000" area_type="POLYGON" zone_type="SUB" priority="14"
-          flags="0">
+    <zone mapid="300190000" name="KLAWTIRA_BROODLAIR_300190000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
         <points bottom="1000.0" top="1500.0">
             <point x="407.27" y="997.64"/>
             <point x="408.386" y="966.76416"/>
@@ -115,8 +112,7 @@
             <point x="616.9332" y="911.93176"/>
         </points>
     </zone>
-    <zone mapid="300190000" name="MUCULENT_GROTTO_300190000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="0">
+    <zone mapid="300190000" name="MUCULENT_GROTTO_300190000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
         <points bottom="1000.0" top="1500.0">
             <point x="186.32" y="438.96"/>
             <point x="194.66185" y="487.34268"/>
@@ -212,8 +208,7 @@
             <point x="309.0069" y="597.21625"/>
         </points>
     </zone>
-    <zone mapid="300190000" name="THE_SWARMSPRING_300190000" area_type="POLYGON" zone_type="SUB" priority="15"
-          flags="0">
+    <zone mapid="300190000" name="THE_SWARMSPRING_300190000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
         <points bottom="1000.0" top="1500.0">
             <point x="85.02" y="710.27"/>
             <point x="119.19469" y="657.7241"/>
