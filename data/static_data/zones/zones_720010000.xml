@@ -10,10 +10,10 @@
     </zone>
     <zone mapid="720010000" name="HOUSE_2001" area_type="POLYGON" zone_type="HOUSE">
         <points bottom="221.54" top="227.54">
-            <point x="358.53323" y="300.78262"/>
-            <point x="361.23608" y="288.0667"/>
-            <point x="373.952" y="290.76956"/>
-            <point x="371.24915" y="303.48547"/>
+            <point x="358.62177" y="300.9164"/>
+            <point x="361.1023" y="288.15524"/>
+            <point x="373.86346" y="290.63577"/>
+            <point x="371.38293" y="303.39694"/>
         </points>
     </zone>
     <zone mapid="720010000" name="STUDIO_1_720010000" area_type="POLYGON" zone_type="SUB" priority="10" flags="2">

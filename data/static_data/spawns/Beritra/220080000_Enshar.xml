@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	Beritra Invasion
-	시그니아 4.8
-	Spawn By (Encom)
- -->
 <spawns>
-    <spawn_map map_id="220080000">
+    <spawn_map map_id="220080000"><!-- 4.8 Map -->
 		<beritra_spawn id="54">
 			<beritra_type bstate="INVASION">
-				<!-- 경보 지역 -->
+				<!-- WorldRaid_Control_Effect -->
+				<spawn npc_id="702529">
+					<spot x="2651.8286" y="2716.1633" z="202.89534" h="80"/>
+				</spawn>
+				<!-- WorldRaid_Advent_Effect -->
+				<spawn npc_id="702549">
+					<spot x="2651.8286" y="2716.1633" z="202.89534" h="80"/>
+				</spawn>
+				<!-- Warning Area -->
 				<spawn npc_id="832819">
 					<spot x="2651.8286" y="2716.1633" z="202.89534" h="80"/>
 				</spawn>
-				<!-- 에이터 일반 3급 병기 -->
+				<!-- Prime Tarmat I -->
 				<spawn npc_id="219998">
 					<spot x="2651.8286" y="2716.1633" z="202.89534" h="80"/>
 				</spawn>
@@ -26,13 +29,21 @@
 		</beritra_spawn>
 		<beritra_spawn id="55">
 			<beritra_type bstate="INVASION">
-				<!-- 경보 지역 -->
-				<spawn npc_id="832819">
+				<!-- WorldRaid_Control_Effect -->
+				<spawn npc_id="702529">
 					<spot x="192.61913" y="527.22363" z="196.70428" h="103"/>
 				</spawn>
-				<!-- 마그노리온 일반 2급 병기 -->
+				<!-- WorldRaid_Advent_Effect -->
+				<spawn npc_id="702549">
+					<spot x="192.86804" y="526.93805" z="203.43486" h="119"/>
+				</spawn>
+				<!-- Warning Area -->
+				<spawn npc_id="832819">
+					<spot x="192.86804" y="526.93805" z="203.43486" h="119"/>
+				</spawn>
+				<!-- Prime Benoid I -->
 				<spawn npc_id="219999">
-					<spot x="192.61913" y="527.22363" z="196.70428" h="103"/>
+					<spot x="192.86804" y="526.93805" z="203.43486" h="119"/>
 				</spawn>
 			</beritra_type>
 			<beritra_type bstate="PEACE">
@@ -44,11 +55,19 @@
 		</beritra_spawn>
 		<beritra_spawn id="56">
 			<beritra_type bstate="INVASION">
-				<!-- 경보 지역 -->
+				<!-- WorldRaid_Control_Effect -->
+				<spawn npc_id="702529">
+					<spot x="1583.1567" y="1106.1504" z="132.79529" h="87"/>
+				</spawn>
+				<!-- WorldRaid_Advent_Effect -->
+				<spawn npc_id="702549">
+					<spot x="1583.1567" y="1106.1504" z="132.79529" h="87"/>
+				</spawn>
+				<!-- Warning Area -->
 				<spawn npc_id="832819">
 					<spot x="1583.1567" y="1106.1504" z="132.79529" h="87"/>
 				</spawn>
-				<!-- 베노이드 일반 3급 병기 -->
+				<!-- Prime Eiter I -->
 				<spawn npc_id="220000">
 					<spot x="1583.1567" y="1106.1504" z="132.79529" h="87"/>
 				</spawn>

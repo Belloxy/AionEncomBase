@@ -12,7 +12,8 @@
             <point x="305.29037" y="376.66336"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DANUAR_BREEZEWAY_301130000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+    <zone mapid="301130000" name="DANUAR_BREEZEWAY_301130000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="0">
         <points bottom="42.88736" top="492.88736">
             <point x="462.0887" y="422.86887"/>
             <point x="500.18903" y="422.88644"/>
@@ -22,7 +23,8 @@
             <point x="462.36166" y="500.8443"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DANUAR_MEDITATION_GARDEN_301130000" area_type="POLYGON" zone_type="SUB" priority="12" flags="0">
+    <zone mapid="301130000" name="DANUAR_MEDITATION_GARDEN_301130000" area_type="POLYGON" zone_type="SUB" priority="12"
+          flags="0">
         <points bottom="48.22" top="498.22">
             <point x="470.37613" y="498.31787"/>
             <point x="470.42233" y="480.15652"/>
@@ -34,7 +36,8 @@
             <point x="540.0465" y="498.23868"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DANUAR_OMPHANIUM_1_301130000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="301130000" name="DANUAR_OMPHANIUM_1_301130000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="62.621056" top="512.62103">
             <point x="815.61957" y="816.84656"/>
             <point x="815.61957" y="975.5948"/>
@@ -42,7 +45,8 @@
             <point x="990.1527" y="816.89355"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DANUAR_OMPHANIUM_2_301130000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="301130000" name="DANUAR_OMPHANIUM_2_301130000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="62.621056" top="512.62103">
             <point x="224.0875" y="815.81726"/>
             <point x="224.0875" y="974.5655"/>
@@ -50,7 +54,8 @@
             <point x="398.62067" y="815.86426"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DANUAR_OMPHANIUM_301130000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="301130000" name="DANUAR_OMPHANIUM_301130000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="62.621056" top="512.62103">
             <point x="615.6887" y="816.8465"/>
             <point x="615.6887" y="975.5947"/>
@@ -58,7 +63,8 @@
             <point x="790.2219" y="816.8935"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DANUAR_OMPHANIUM_3_301130000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="301130000" name="DANUAR_OMPHANIUM_3_301130000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="62.621056" top="512.62103">
             <point x="420.20074" y="815.36554"/>
             <point x="420.20074" y="974.1138"/>
@@ -66,7 +72,8 @@
             <point x="594.7339" y="815.41254"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DANUAR_OMPHANIUM_4_301130000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="301130000" name="DANUAR_OMPHANIUM_4_301130000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="62.621056" top="512.62103">
             <point x="24.492277" y="816.7101"/>
             <point x="24.49227" y="975.4583"/>
@@ -74,7 +81,8 @@
             <point x="199.02545" y="816.7571"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DEFENSE_COORDINATION_ROOM_301130000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+    <zone mapid="301130000" name="DEFENSE_COORDINATION_ROOM_301130000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="0">
         <points bottom="-85.59613" top="364.40387">
             <point x="586.21295" y="335.9482"/>
             <point x="586.21295" y="374.26138"/>
@@ -82,7 +90,8 @@
             <point x="616.86346" y="335.9482"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="DEFILED_DANUAR_TEMPLE_301130000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+    <zone mapid="301130000" name="DEFILED_DANUAR_TEMPLE_301130000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="0">
         <points bottom="45.49127" top="495.49127">
             <point x="575.82135" y="445.4009"/>
             <point x="564.8088" y="451.4316"/>
@@ -106,7 +115,8 @@
             <point x="582.99286" y="438.7679"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="ETERNAL_SPIRIT_BRIDGE_301130000" area_type="POLYGON" zone_type="SUB" priority="9" flags="0">
+    <zone mapid="301130000" name="ETERNAL_SPIRIT_BRIDGE_301130000" area_type="POLYGON" zone_type="SUB" priority="9"
+          flags="0">
         <points bottom="41.449486" top="491.4495">
             <point x="435.78275" y="311.9508"/>
             <point x="435.88916" y="274.38156"/>
@@ -130,7 +140,8 @@
             <point x="305.4312" y="401.05267"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="HEAD_RESEARCHERS_OFFICE_301130000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
+    <zone mapid="301130000" name="HEAD_RESEARCHERS_OFFICE_301130000" area_type="POLYGON" zone_type="SUB" priority="11"
+          flags="0">
         <points bottom="181.225" top="631.225">
             <point x="460.76596" y="353.89618"/>
             <point x="498.71103" y="353.8962"/>
@@ -138,7 +149,8 @@
             <point x="460.766" y="317.7139"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="LOST_TREE_OF_DEVOTION_301130000" area_type="POLYGON" zone_type="SUB" priority="10" flags="0">
+    <zone mapid="301130000" name="LOST_TREE_OF_DEVOTION_301130000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="0">
         <points bottom="42.52054" top="492.52054">
             <point x="457.62396" y="318.32928"/>
             <point x="508.6749" y="318.32928"/>
@@ -150,7 +162,8 @@
             <point x="434.37292" y="313.01086"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="MORIATAS_QUARTERS_301130000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
+    <zone mapid="301130000" name="MORIATAS_QUARTERS_301130000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="0">
         <points bottom="81.8406" top="531.8406">
             <point x="136.04399" y="402.96054"/>
             <point x="122.57848" y="411.5415"/>
@@ -442,7 +455,8 @@
             <point x="275.19745" y="350.5942"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="SAURO_MILITARY_SUPPLY_BASE_301130000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="301130000" name="SAURO_MILITARY_SUPPLY_BASE_301130000" area_type="POLYGON" zone_type="SUB"
+          priority="16" flags="0">
         <points bottom="48.261765" top="548.2618">
             <point x="45.174328" y="33.622658"/>
             <point x="43.621464" y="721.5181"/>
@@ -450,7 +464,8 @@
             <point x="743.9395" y="33.62269"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="SHEBAN_IDE_EXPERIMENT_PENS_301130000" area_type="POLYGON" zone_type="SUB" priority="12" flags="0">
+    <zone mapid="301130000" name="SHEBAN_IDE_EXPERIMENT_PENS_301130000" area_type="POLYGON" zone_type="SUB"
+          priority="12" flags="0">
         <points bottom="48.148773" top="498.14877">
             <point x="465.4004" y="348.86148"/>
             <point x="465.4004" y="369.56735"/>
@@ -464,7 +479,8 @@
             <point x="509.5491" y="348.7425"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="SHEBAN_OFFICERS_BARRACKS_301130000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+    <zone mapid="301130000" name="SHEBAN_OFFICERS_BARRACKS_301130000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="0">
         <points bottom="186.3041" top="201.3041">
             <point x="612.2812" y="499.5329"/>
             <point x="607.3467" y="502.08865"/>
@@ -476,7 +492,8 @@
             <point x="622.1546" y="518.1919"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="SHEBAN_OFFICERS_MESS_301130000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+    <zone mapid="301130000" name="SHEBAN_OFFICERS_MESS_301130000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="0">
         <points bottom="185.60301" top="200.60301">
             <point x="594.5969" y="462.23767"/>
             <point x="598.88513" y="464.61942"/>
@@ -501,7 +518,8 @@
             <point x="320.8091" y="306.85376"/>
         </points>
     </zone>
-    <zone mapid="301130000" name="SUPPLY_BASE_APPROACH_301130000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
+    <zone mapid="301130000" name="SUPPLY_BASE_APPROACH_301130000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="0">
         <points bottom="33.85897" top="483.85898">
             <point x="578.3021" y="229.84648"/>
             <point x="714.8352" y="230.6357"/>

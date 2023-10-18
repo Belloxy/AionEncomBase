@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="110010000" name="AIRSHIP_DOCK_1_110010000" area_type="POLYGON" zone_type="SUB" priority="14" flags="54">
+    <zone mapid="110010000" name="AIRSHIP_DOCK_1_110010000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="54">
         <points bottom="526.25586" top="626.25586">
             <point x="1663.9354" y="1487.176"/>
             <point x="1658.9613" y="1489.7032"/>
@@ -50,7 +51,8 @@
             <point x="1407.9386" y="1355.7347"/>
         </points>
     </zone>
-    <zone mapid="110010000" name="DIONYSIA_TAVERN_110010000" area_type="POLYGON" zone_type="SUB" priority="15" flags="54">
+    <zone mapid="110010000" name="DIONYSIA_TAVERN_110010000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="54">
         <points bottom="528.0" top="548.0">
             <point x="1816.26" y="2178.12"/>
             <point x="1813.088" y="2181.6216"/>
@@ -127,7 +129,8 @@
             <point x="1337.0854" y="1451.9939"/>
         </points>
     </zone>
-    <zone mapid="110010000" name="GALLERIA_OF_GRANDEUR_110010000" area_type="POLYGON" zone_type="SUB" priority="14" flags="54">
+    <zone mapid="110010000" name="GALLERIA_OF_GRANDEUR_110010000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="54">
         <points bottom="545.0" top="566.0">
             <point x="1598.72" y="1482.59"/>
             <point x="1599.0905" y="1476.6617"/>
@@ -155,7 +158,8 @@
             <point x="1599.8314" y="1490.7413"/>
         </points>
     </zone>
-    <zone mapid="110010000" name="HALL_OF_PROSPERITY_110010000" area_type="POLYGON" zone_type="SUB" priority="15" flags="54">
+    <zone mapid="110010000" name="HALL_OF_PROSPERITY_110010000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="54">
         <points bottom="560.0" top="660.0">
             <point x="1281.805" y="1415.3293"/>
             <point x="1322.2672" y="1328.4349"/>
@@ -243,7 +247,8 @@
             <point x="1451.7059" y="1341.4465"/>
         </points>
     </zone>
-    <zone mapid="110010000" name="LEGIONS_BOARD_1_110010000" area_type="POLYGON" zone_type="SUB" priority="15" flags="54">
+    <zone mapid="110010000" name="LEGIONS_BOARD_1_110010000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="54">
         <points bottom="560.79517" top="660.79517">
             <point x="1896.6603" y="1398.7772"/>
             <point x="1909.1556" y="1376.4619"/>
@@ -255,7 +260,8 @@
             <point x="1905.6993" y="1403.6742"/>
         </points>
     </zone>
-    <zone mapid="110010000" name="LIBRARY_OF_THE_SAGES_110010000" area_type="POLYGON" zone_type="SUB" priority="15" flags="54">
+    <zone mapid="110010000" name="LIBRARY_OF_THE_SAGES_110010000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="54">
         <points bottom="556.2383" top="656.2383">
             <point x="1952.9314" y="1499.55"/>
             <point x="1974.7013" y="1498.643"/>
@@ -317,7 +323,8 @@
             <point x="1744.9258" y="1969.2828"/>
         </points>
     </zone>
-    <zone mapid="110010000" name="PROTECTORS_HALL_110010000" area_type="POLYGON" zone_type="SUB" priority="14" flags="54">
+    <zone mapid="110010000" name="PROTECTORS_HALL_110010000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="54">
         <points bottom="650.3323" top="850.3323">
             <point x="1829.1714" y="1509.34"/>
             <point x="1832.5186" y="1493.7201"/>
@@ -386,7 +393,8 @@
             <point x="1632.5315" y="1358.4641"/>
         </points>
     </zone>
-    <zone mapid="110010000" name="TEMPEST_SHIPYARD_110010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="110010000" name="TEMPEST_SHIPYARD_110010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="543.62555" top="643.62555">
             <point x="1837.868" y="1716.4727"/>
             <point x="1865.8959" y="1700.707"/>

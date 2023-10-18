@@ -30,7 +30,8 @@
             <point x="99.20508" y="0.569124"/>
         </points>
     </zone>
-    <zone mapid="320050000" name="SKY_TEMPLE_INTERIOR_320050000" area_type="POLYGON" zone_type="SUB" priority="30" flags="6">
+    <zone mapid="320050000" name="SKY_TEMPLE_INTERIOR_320050000" area_type="POLYGON" zone_type="SUB" priority="30"
+          flags="6">
         <points bottom="1.0" top="900.0">
             <point x="-26.826588" y="-80.727715"/>
             <point x="-26.489159" y="571.35767"/>

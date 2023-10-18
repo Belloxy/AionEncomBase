@@ -18,7 +18,8 @@
             <point x="784.17694" y="531.025"/>
         </points>
     </zone>
-    <zone mapid="300040000" name="ANUHART_HEADQUARTERS_300040000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="300040000" name="ANUHART_HEADQUARTERS_300040000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="0.1" top="500.1">
             <point x="1039.3368" y="1246.3237"/>
             <point x="1092.2288" y="1104.141"/>
@@ -44,7 +45,8 @@
             <point x="365.76917" y="877.51575"/>
         </points>
     </zone>
-    <zone mapid="300040000" name="DRAGRINT_PLANTATION_300040000" area_type="POLYGON" zone_type="SUB" priority="17" flags="0">
+    <zone mapid="300040000" name="DRAGRINT_PLANTATION_300040000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="0">
         <points bottom="0.1" top="300.1">
             <point x="361.51" y="1036.92"/>
             <point x="366.11337" y="957.89575"/>
@@ -69,7 +71,8 @@
             <point x="173.08708" y="418.0372"/>
         </points>
     </zone>
-    <zone mapid="300040000" name="LABORATORY_OF_HEWAHEWA_300040000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="300040000" name="LABORATORY_OF_HEWAHEWA_300040000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="0.1" top="300.1">
             <point x="128.24" y="410.17"/>
             <point x="135.27718" y="396.58948"/>
@@ -95,7 +98,8 @@
             <point x="802.0717" y="564.1137"/>
         </points>
     </zone>
-    <zone mapid="300040000" name="ROOM_OF_DIMENSION_300040000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="300040000" name="ROOM_OF_DIMENSION_300040000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="0.1" top="300.1">
             <point x="207.41888" y="327.4914"/>
             <point x="204.50427" y="292.33273"/>
@@ -122,7 +126,8 @@
             <point x="651.7095" y="1208.5098"/>
         </points>
     </zone>
-    <zone mapid="300040000" name="TELEPATHY_CONTROL_ROOM_300040000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="300040000" name="TELEPATHY_CONTROL_ROOM_300040000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="0.1" top="300.1">
             <point x="216.69" y="417.02"/>
             <point x="233.69382" y="392.67056"/>
@@ -133,7 +138,8 @@
             <point x="222.81139" y="438.3768"/>
         </points>
     </zone>
-    <zone mapid="300040000" name="THE_DRANA_FIELDS_300040000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="300040000" name="THE_DRANA_FIELDS_300040000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="0.1" top="300.1">
             <point x="226.71" y="997.71"/>
             <point x="334.24493" y="1020.611"/>
@@ -151,7 +157,8 @@
             <point x="105.93719" y="1055.0157"/>
         </points>
     </zone>
-    <zone mapid="300040000" name="THE_LOST_FOREST_300040000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+    <zone mapid="300040000" name="THE_LOST_FOREST_300040000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="0">
         <points bottom="0.1" top="300.1">
             <point x="544.1" y="549.92"/>
             <point x="602.0282" y="576.1897"/>

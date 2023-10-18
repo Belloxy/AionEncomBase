@@ -8,7 +8,8 @@
             <point x="1245.9211" y="1992.6674"/>
         </points>
     </zone>
-    <zone mapid="301100000" name="ANCIENT_SANDY_SHRINE_2_301100000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="301100000" name="ANCIENT_SANDY_SHRINE_2_301100000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="230.18112" top="830.18115">
             <point x="84.10742" y="858.96704"/>
             <point x="811.46893" y="864.3354"/>
@@ -16,7 +17,8 @@
             <point x="83.237" y="1393.9214"/>
         </points>
     </zone>
-    <zone mapid="301100000" name="BURNING_LAVA_CALDERA_1_301100000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="301100000" name="BURNING_LAVA_CALDERA_1_301100000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="134.12212" top="934.12213">
             <point x="1183.0322" y="-25.829704"/>
             <point x="1990.746" y="-11.089653"/>
@@ -32,7 +34,8 @@
             <point x="554.5461" y="1746.8818"/>
         </points>
     </zone>
-    <zone mapid="301100000" name="FORGOTTEN_LABYRINTH_1_301100000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="301100000" name="FORGOTTEN_LABYRINTH_1_301100000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="157.97813" top="857.97815">
             <point x="1137.7843" y="774.48596"/>
             <point x="2072.9116" y="771.42004"/>
@@ -116,7 +119,8 @@
             <point x="575.49084" y="1845.6364"/>
         </points>
     </zone>
-    <zone mapid="301100000" name="IDARENA_PVP_ITEMUSEAREA_ALL_LOSE_3" area_type="POLYGON" zone_type="ITEM_USE" flags="4">
+    <zone mapid="301100000" name="IDARENA_PVP_ITEMUSEAREA_ALL_LOSE_3" area_type="POLYGON" zone_type="ITEM_USE"
+          flags="4">
         <points bottom="21.48404" top="621.484">
             <point x="1639.5564" y="1582.7698"/>
             <point x="2008.6418" y="1584.3363"/>
@@ -312,7 +316,8 @@
             <point x="421.95944" y="467.61203"/>
         </points>
     </zone>
-    <zone mapid="301100000" name="SKY_AETHER_VALLEY_1_301100000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="301100000" name="SKY_AETHER_VALLEY_1_301100000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="35.530533" top="835.5305">
             <point x="88.281006" y="1564.3932"/>
             <point x="1008.445" y="1557.8458"/>
@@ -320,7 +325,8 @@
             <point x="88.811584" y="2035.4945"/>
         </points>
     </zone>
-    <zone mapid="301100000" name="TREPONE_FLOATING_TOWER_2_301100000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="301100000" name="TREPONE_FLOATING_TOWER_2_301100000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="16.5" top="616.5">
             <point x="15.807068" y="-9.01104"/>
             <point x="954.3092" y="-0.346245"/>

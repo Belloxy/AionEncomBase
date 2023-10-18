@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="301120000" name="ASMODIAN_ARMORY_1_301120000" area_type="POLYGON" zone_type="SUB" priority="11" flags="6">
+    <zone mapid="301120000" name="ASMODIAN_ARMORY_1_301120000" area_type="POLYGON" zone_type="SUB" priority="11"
+          flags="6">
         <points bottom="500.0" top="800.0">
             <point x="1340.5" y="1659.36"/>
             <point x="1329.4073" y="1650.827"/>
@@ -12,7 +13,8 @@
             <point x="1380.2206" y="1680.3623"/>
         </points>
     </zone>
-    <zone mapid="301120000" name="BIVARUS_TAVERN_1_301120000" area_type="POLYGON" zone_type="SUB" priority="11" flags="6">
+    <zone mapid="301120000" name="BIVARUS_TAVERN_1_301120000" area_type="POLYGON" zone_type="SUB" priority="11"
+          flags="6">
         <points bottom="500.0" top="800.0">
             <point x="1336.34" y="1206.81"/>
             <point x="1291.3999" y="1233.9967"/>
@@ -23,7 +25,8 @@
             <point x="1357.1951" y="1234.753"/>
         </points>
     </zone>
-    <zone mapid="301120000" name="DRANA_RESEARCH_LIBRARY_301120000" area_type="POLYGON" zone_type="SUB" priority="10" flags="6">
+    <zone mapid="301120000" name="DRANA_RESEARCH_LIBRARY_301120000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="6">
         <points bottom="500.0" top="800.0">
             <point x="1424.32" y="1574.01"/>
             <point x="1447.6085" y="1597.1744"/>
@@ -75,7 +78,8 @@
             <point x="1578.362" y="1543.6228"/>
         </points>
     </zone>
-    <zone mapid="301120000" name="JOTUN_RESEARCH_LIBRARY_1_301120000" area_type="POLYGON" zone_type="SUB" priority="10" flags="6">
+    <zone mapid="301120000" name="JOTUN_RESEARCH_LIBRARY_1_301120000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="6">
         <points bottom="500.0" top="800.0">
             <point x="1277.87" y="1417.6"/>
             <point x="1255.4244" y="1452.51"/>
@@ -110,7 +114,8 @@
             <point x="1187.428" y="1483.4366"/>
         </points>
     </zone>
-    <zone mapid="301120000" name="KAMAR_BATTLEFIELD_301120000" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+    <zone mapid="301120000" name="KAMAR_BATTLEFIELD_301120000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="6">
         <points bottom="1.0" top="1001.0">
             <point x="100.0" y="100.0"/>
             <point x="2900.0" y="100.0"/>
@@ -118,7 +123,8 @@
             <point x="100.0" y="2900.0"/>
         </points>
     </zone>
-    <zone mapid="301120000" name="KAMAR_ENTRANCE_1_301120000" area_type="POLYGON" zone_type="SUB" priority="14" flags="6">
+    <zone mapid="301120000" name="KAMAR_ENTRANCE_1_301120000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="6">
         <points bottom="500.0" top="800.0">
             <point x="1073.72" y="1517.35"/>
             <point x="1117.0897" y="1520.2589"/>

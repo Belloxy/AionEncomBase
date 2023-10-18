@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300250000" name="CENTRAL_CONTROL_ROOM_300250000" area_type="POLYGON" zone_type="SUB" priority="11" flags="2">
+    <zone mapid="300250000" name="CENTRAL_CONTROL_ROOM_300250000" area_type="POLYGON" zone_type="SUB" priority="11"
+          flags="2">
         <points bottom="175.0" top="225.0">
             <point x="1289.68" y="1192.49"/>
             <point x="1304.393" y="1203.0396"/>
@@ -35,7 +36,8 @@
             <point x="1220.2789" y="501.91086"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="DRANA_ESOTERRACE_300250000" area_type="POLYGON" zone_type="SUB" priority="14" flags="2">
+    <zone mapid="300250000" name="DRANA_ESOTERRACE_300250000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="2">
         <points bottom="50.0" top="550.0">
             <point x="1138.1222" y="312.06897"/>
             <point x="1068.6185" y="489.12036"/>
@@ -57,7 +59,8 @@
             <point x="1431.278" y="308.9206"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="DRANA_PRODUCTION_LAB_300250000" area_type="POLYGON" zone_type="SUB" priority="14" flags="2">
+    <zone mapid="300250000" name="DRANA_PRODUCTION_LAB_300250000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="2">
         <points bottom="50.0" top="550.0">
             <point x="964.05206" y="830.124"/>
             <point x="964.0041" y="996.88745"/>
@@ -86,7 +89,8 @@
             <point x="11.204693" y="1520.9268"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="ESOTERRACE_BIO_LAB_300250000" area_type="POLYGON" zone_type="SUB" priority="10" flags="2">
+    <zone mapid="300250000" name="ESOTERRACE_BIO_LAB_300250000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="2">
         <points bottom="40.0" top="150.0">
             <point x="1246.43" y="1222.02"/>
             <point x="1276.181" y="1245.6672"/>
@@ -102,7 +106,8 @@
             <point x="1231.6385" y="1172.6805"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="ESOTERRACE_BIO_LAB_ENTRY_300250000" area_type="POLYGON" zone_type="SUB" priority="11" flags="2">
+    <zone mapid="300250000" name="ESOTERRACE_BIO_LAB_ENTRY_300250000" area_type="POLYGON" zone_type="SUB" priority="11"
+          flags="2">
         <points bottom="175.0" top="255.0">
             <point x="1281.5002" y="1048.3143"/>
             <point x="1303.9481" y="1065.2653"/>
@@ -118,7 +123,8 @@
             <point x="1274.7522" y="1032.7251"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="ESOTERRACE_COURTYARD_300250000" area_type="POLYGON" zone_type="SUB" priority="12" flags="2">
+    <zone mapid="300250000" name="ESOTERRACE_COURTYARD_300250000" area_type="POLYGON" zone_type="SUB" priority="12"
+          flags="2">
         <points bottom="50.0" top="550.0">
             <point x="665.4822" y="996.07556"/>
             <point x="865.18726" y="997.6913"/>
@@ -130,7 +136,8 @@
             <point x="632.6858" y="904.3985"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="ESOTERRACE_SECRET_LABORATORY_300250000" area_type="POLYGON" zone_type="SUB" priority="12" flags="2">
+    <zone mapid="300250000" name="ESOTERRACE_SECRET_LABORATORY_300250000" area_type="POLYGON" zone_type="SUB"
+          priority="12" flags="2">
         <points bottom="50.0" top="550.0">
             <point x="1232.9457" y="1460.8665"/>
             <point x="1467.0211" y="1462.7391"/>
@@ -152,7 +159,8 @@
             <point x="1225.6589" y="1330.1797"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="ESOTERRACE_UNDERGROUND_LAIR_300250000" area_type="POLYGON" zone_type="SUB" priority="15" flags="2">
+    <zone mapid="300250000" name="ESOTERRACE_UNDERGROUND_LAIR_300250000" area_type="POLYGON" zone_type="SUB"
+          priority="15" flags="2">
         <points bottom="50.0" top="550.0">
             <point x="735.87085" y="1378.3857"/>
             <point x="863.4676" y="1511.4304"/>
@@ -178,7 +186,8 @@
             <point x="733.77576" y="1147.9594"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="LABORATORY_AIR_CONDITIONING_ROOM_300250000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
+    <zone mapid="300250000" name="LABORATORY_AIR_CONDITIONING_ROOM_300250000" area_type="POLYGON" zone_type="SUB"
+          priority="13" flags="2">
         <points bottom="50.0" top="550.0">
             <point x="740.3761" y="1149.596"/>
             <point x="838.4996" y="1150.3949"/>
@@ -190,7 +199,8 @@
             <point x="740.54706" y="995.6471"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="LABORATORY_WASTE_WATER_FACILITY_300250000" area_type="POLYGON" zone_type="SUB" priority="12" flags="2">
+    <zone mapid="300250000" name="LABORATORY_WASTE_WATER_FACILITY_300250000" area_type="POLYGON" zone_type="SUB"
+          priority="12" flags="2">
         <points bottom="242.77856" top="292.77856">
             <point x="1249.4115" y="826.2542"/>
             <point x="1249.4417" y="940.88873"/>
@@ -198,7 +208,8 @@
             <point x="1291.3754" y="825.5932"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="LABORATORY_YARD_300250000" area_type="POLYGON" zone_type="SUB" priority="13" flags="2">
+    <zone mapid="300250000" name="LABORATORY_YARD_300250000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="2">
         <points bottom="50.0" top="550.0">
             <point x="962.7967" y="833.0421"/>
             <point x="962.2104" y="998.2917"/>
@@ -208,7 +219,8 @@
             <point x="974.0086" y="821.36505"/>
         </points>
     </zone>
-    <zone mapid="300250000" name="NARAYANA_CANYON_300250000" area_type="POLYGON" zone_type="SUB" priority="15" flags="2">
+    <zone mapid="300250000" name="NARAYANA_CANYON_300250000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="2">
         <points bottom="50.0" top="550.0">
             <point x="32.484497" y="881.02997"/>
             <point x="166.36353" y="1243.1328"/>

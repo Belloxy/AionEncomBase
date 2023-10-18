@@ -1,64 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-	Tower Of Eternity 5.5
-	Spawn By (Encom)
- -->
-<spawns>
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!-- Tower of Eternity created by Falke_34 -->
 	<spawn_map map_id="220120000">
-		<!-- Mailbox -->
-	    <spawn npc_id="700079" respawn_time="295">
-            <spot x="505.59653" y="506.92575" z="302.38852" h="14"/>
-        </spawn>
-		<!-- Room Of The Sage Corridor
-		An Asmodians corridor that leads to the Room of the Sage inside the Tower of Eternity.
-		Located inside the Tower of Eternity.
-		-->
+		<!-- None ||| DF_Tower_SensoryArea_Q26800 -->
+		<spawn npc_id="206537" respawn_time="295">
+			<spot x="489.8007" y="499.52887" z="302.38846" h="0"/>
+		</spawn>
+		<!-- Corridor to the Room of the Wise ||| DF_Tower_FOBJ_Sage_Room_Q_Entrance -->
 		<spawn npc_id="731719" respawn_time="295">
-		    <spot x="551.0311" y="496.5512" z="300.03" h="60"/>
+			<spot x="545.9626" y="499.98706" z="299.85013" h="60"/>
 		</spawn>
-		<!-- Room Of The Sage Exit -->
+		<!-- Exit from the Room of the Wise ||| DF_Tower_FOBJ_Sage_Room_Q_Exit -->
 		<spawn npc_id="731720" respawn_time="295">
-		    <spot x="494.77728" y="499.80328" z="348.8464" h="2"/>
+			<spot x="507.80725" y="499.9244" z="348.8464" h="60"/>
 		</spawn>
-		<!-- Archives Of Eternity -->
+		<!-- Entrance to the Library of Knowledge ||| IDEternity_01_D_Entrance -->
 		<spawn npc_id="806029" respawn_time="295">
-			<spot x="371.17728" y="515.09894" z="322.94241" entity_id="9"/>
+			<spot x="370.9665" y="514.2861" z="321.5991" static_id="9"/>
 		</spawn>
-		<!-- Cradle Of Eternity -->
+		<!-- Entrance to the Garden of Knowledge ||| IDEternity_02_D_Entrance -->
 		<spawn npc_id="806031" respawn_time="295">
-			<spot x="373.19901" y="508.41525" z="357.63672" entity_id="1"/>
+			<spot x="371.95895" y="508.70117" z="354.9261" static_id="1"/>
 		</spawn>
-		<!-- Heart Of Eternity -->
+		<!-- Entrance to the Museum of Knowledge ||| IDEternity_03_D_Entrance -->
 		<spawn npc_id="806033" respawn_time="295">
-			<spot x="372.23135" y="501.32590" z="386.36182" entity_id="3"/>
+			<spot x="370.27295" y="502.34076" z="385.41144" static_id="3"/>
 		</spawn>
-		<!-- Aionic Ward -->
+		<!-- Magical Protective Circle ||| DF_Tower_Out_Portal -->
 		<spawn npc_id="806084" respawn_time="295">
-			<spot x="498.60571" y="499.99774" z="302.45605" entity_id="11"/>
+			<spot x="498.70068" y="500.00516" z="302.18674" static_id="11"/>
 		</spawn>
-		<!-- Astride
-		<Guardian Commander> -->
+		<!-- Epitana ||| DF_Tower_Enfitenta_E -->
 		<spawn npc_id="806233" respawn_time="295">
-		    <spot x="473.22833" y="499.9748" z="302.3885" h="60"/>
+			<spot x="474.8007" y="499.52887" z="302.38852"/>
 		</spawn>
-		<!-- Tower Of Eternity Guardian -->
+		<!-- Guardian of the Tower of Eternity ||| DF_Tower_Guard01_D_E -->
 		<spawn npc_id="806235" respawn_time="295">
-		    <spot x="484.8338" y="493.29144" z="302.3885" h="20"/>
-            <spot x="485.38068" y="506.70386" z="302.3885" h="104"/>
-            <spot x="512.1093" y="493.09662" z="302.3885" h="43"/>
-            <spot x="512.52344" y="506.85507" z="302.3885" h="81"/>
-            <spot x="465.09744" y="510.10986" z="299.85013" h="69"/>
-            <spot x="465.35916" y="489.31955" z="299.85013" h="48"/>
+			<spot x="462.2735" y="510.73895" z="299.85013" h="60"/>
+			<spot x="462.2735" y="488.1953" z="299.85013" h="60"/>
+			<spot x="485.2805" y="492.9543" z="302.3885" h="10"/>
+			<spot x="485.2805" y="506.9543" z="302.3885" h="110"/>
 		</spawn>
-		<!-- Wejabobo
-		<Sage Of The Tower Of Eternity> -->
-		<spawn npc_id="806296">
-		    <spot x="498.57922" y="499.92181" z="349.70886" h="0"/>
+		<!-- Wizabo ||| DF_Tower_Wizabobo_E -->
+		<spawn npc_id="806296" respawn_time="295">
+			<spot x="498.57922" y="499.9218" z="348.7913" h="60"/>
 		</spawn>
-		<!-- Barota
-		<Archon's Shadow Legion> -->
-		<spawn npc_id="806394">
-		    <spot x="551.13257" y="500.0916" z="299.85013" h="60"/>
+		<!-- Barota ||| DF6_Varotta_E -->
+		<spawn npc_id="806394" respawn_time="295">
+			<spot x="545.1003" y="502.2137" z="299.85013" h="65"/>
 		</spawn>
 	</spawn_map>
 </spawns>

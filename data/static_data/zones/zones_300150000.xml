@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300150000" name="CHAMBER_OF_GUIDANCE_300150000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
+    <zone mapid="300150000" name="CHAMBER_OF_GUIDANCE_300150000" area_type="POLYGON" zone_type="SUB" priority="1"
+          flags="0">
         <points bottom="100.0" top="200.0">
             <point x="473.6585" y="355.5182"/>
             <point x="544.21704" y="355.70483"/>
@@ -8,25 +9,13 @@
             <point x="473.84515" y="405.54376"/>
         </points>
     </zone>
-    <zone mapid="300150000" name="CHAMBER_OF_UNITY_300150000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
+    <zone mapid="300150000" name="CHAMBER_OF_UNITY_300150000" area_type="POLYGON" zone_type="SUB" priority="1"
+          flags="0">
         <points bottom="100.0" top="200.0">
             <point x="805.4285" y="336.87762"/>
             <point x="745.6722" y="336.87762"/>
             <point x="745.8416" y="264.71017"/>
             <point x="805.59796" y="264.71014"/>
-        </points>
-    </zone>
-    <zone mapid="300150000" name="DANUAR_VESTIBULE_300150000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
-        <points bottom="100.0" top="200.0">
-            <point x="600.1085" y="573.62775"/>
-            <point x="672.6223" y="573.84735"/>
-            <point x="672.511" y="629.34625"/>
-            <point x="655.0441" y="629.37946"/>
-            <point x="655.0794" y="664.7953"/>
-            <point x="636.9559" y="675.21277"/>
-            <point x="618.26154" y="663.2255"/>
-            <point x="618.40424" y="629.4045"/>
-            <point x="600.3636" y="629.3943"/>
         </points>
     </zone>
     <zone mapid="300150000" name="FRIARS_VAULT_300150000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
@@ -45,7 +34,8 @@
             <point x="579.5667" y="399.48706"/>
         </points>
     </zone>
-    <zone mapid="300150000" name="LODGE_OF_TORMENT_300150000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
+    <zone mapid="300150000" name="LODGE_OF_TORMENT_300150000" area_type="POLYGON" zone_type="SUB" priority="1"
+          flags="0">
         <points bottom="100.0" top="200.0">
             <point x="621.3787" y="681.10077"/>
             <point x="466.03662" y="737.1272"/>
@@ -54,7 +44,8 @@
             <point x="600.24255" y="621.40027"/>
         </points>
     </zone>
-    <zone mapid="300150000" name="MIDNIGHT_BAPTIZING_CHAMBER_300150000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
+    <zone mapid="300150000" name="MIDNIGHT_BAPTIZING_CHAMBER_300150000" area_type="POLYGON" zone_type="SUB" priority="2"
+          flags="0">
         <points bottom="100.0" top="200.0">
             <point x="416.2185" y="403.4882"/>
             <point x="553.96436" y="403.76147"/>
@@ -64,7 +55,8 @@
             <point x="415.7465" y="655.2375"/>
         </points>
     </zone>
-    <zone mapid="300150000" name="PATH_OF_ENLIGHTENMENT_300150000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
+    <zone mapid="300150000" name="PATH_OF_ENLIGHTENMENT_300150000" area_type="POLYGON" zone_type="SUB" priority="3"
+          flags="0">
         <points bottom="100.0" top="200.0">
             <point x="621.78357" y="686.82806"/>
             <point x="601.3205" y="628.4509"/>
@@ -76,7 +68,8 @@
             <point x="466.47034" y="742.20013"/>
         </points>
     </zone>
-    <zone mapid="300150000" name="PATH_OF_REFLECTION_300150000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
+    <zone mapid="300150000" name="PATH_OF_REFLECTION_300150000" area_type="POLYGON" zone_type="SUB" priority="3"
+          flags="0">
         <points bottom="100.0" top="200.0">
             <point x="670.6813" y="695.23816"/>
             <point x="670.511" y="575.4048"/>
@@ -98,7 +91,8 @@
             <point x="732.1756" y="434.7861"/>
         </points>
     </zone>
-    <zone mapid="300150000" name="REBIRTHING_CHAMBER_300150000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
+    <zone mapid="300150000" name="REBIRTHING_CHAMBER_300150000" area_type="POLYGON" zone_type="SUB" priority="1"
+          flags="0">
         <points bottom="100.0" top="200.0">
             <point x="525.31744" y="176.06871"/>
             <point x="595.876" y="176.25536"/>
@@ -112,6 +106,19 @@
             <point x="784.87085" y="386.29016"/>
             <point x="785.2201" y="431.34213"/>
             <point x="723.4046" y="430.64365"/>
+        </points>
+    </zone>
+    <zone mapid="300150000" name="TEMPLE_ENTRANCE_300150000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
+        <points bottom="100.0" top="200.0">
+            <point x="600.1085" y="573.62775"/>
+            <point x="672.6223" y="573.84735"/>
+            <point x="672.511" y="629.34625"/>
+            <point x="655.0441" y="629.37946"/>
+            <point x="655.0794" y="664.7953"/>
+            <point x="636.9559" y="675.21277"/>
+            <point x="618.26154" y="663.2255"/>
+            <point x="618.40424" y="629.4045"/>
+            <point x="600.3636" y="629.3943"/>
         </points>
     </zone>
     <zone mapid="300150000" name="UDAS_TEMPLE_300150000" area_type="POLYGON" zone_type="SUB" priority="4" flags="0">

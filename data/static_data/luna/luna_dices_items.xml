@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- parsed by Archsoft Development at 2017-07-23 12:17 -->
+<luna_dices_items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <luna_dices_item id="1" name="test_Monthly_01_a" is_flag="false" group_name="test_Monthly_01" race="All" reward_total="1">
+        <dicereward item_id="188053007" quantity="1" name="[Event] Hyperion's Mythic Weapon Chest"/>
+        <dicereward item_id="188053006" quantity="1" name="[Event] Hyperion's Mythic Armor Chest"/>
+        <dicereward item_id="188053005" quantity="1" name="[Event] Hyperion's Wing Chest"/>
+        <dicereward item_id="166200009" quantity="1" name="Mythic Weapon Tuning Scroll"/>
+        <dicereward item_id="166030005" quantity="1" name="Tempering Solution"/>
+        <dicereward item_id="188052560" quantity="1" name="Greater Felicitous Socketing Box (Mythic)"/>
+        <dicereward item_id="188052559" quantity="1" name="Greater Felicitous Socketing Box (Eternal)"/>
+        <dicereward item_id="168310018" quantity="1" name="Major Blessed Augment: Level 2"/>
+        <dicereward item_id="188052638" quantity="1" name="[Event] Fabled Godstone Bundle"/>
+        <dicereward item_id="188052652" quantity="1" name="Greater Enchantment Stone Bundle"/>
+        <dicereward item_id="188052741" quantity="1" name="[Event] Brilliant Composite Manastone Bundle"/>
+        <dicereward item_id="188053057" quantity="1" name="Suspicious Green Sack"/>
+        <dicereward item_id="188052740" quantity="1" name="[Event] Brilliant Ancient Manastone Bundle"/>
+        <dicereward item_id="188052717" quantity="3" name="[Event] Noble Idian Bundle"/>
+        <dicereward item_id="188051216" quantity="10" name="Greater Supplements Bag (Eternal)"/>
+        <dicereward item_id="188051928" quantity="1" name="[Event] Eternal Combat Items Bundle"/>
+        <dicereward item_id="165010001" quantity="1" name="Vindachinerk's Fine Combination Tool"/>
+        <dicereward item_id="188052484" quantity="1" name="Enchanting Chest"/>
+        <dicereward item_id="166200010" quantity="1" name="Mythic Armor Tuning Scroll"/>
+        <dicereward item_id="188052185" quantity="2" name="Composite Manastone Pouch"/>
+        <dicereward item_id="188052716" quantity="1" name="[Event] Lucky Scroll Pouch"/>
+        <dicereward item_id="188052496" quantity="2" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="188052639" quantity="1" name="[Event] Heroic Godstone Bundle"/>
+        <dicereward item_id="188052822" quantity="1" name="Noble Ancient Manastone Chest"/>
+        <dicereward item_id="188052568" quantity="2" name="Veteran's Manastone Bundle"/>
+    </luna_dices_item>
+    <luna_dices_item id="2" name="test_Monthly_02_a" is_flag="false" group_name="test_Monthly_02" race="All" reward_total="1">
+        <dicereward item_id="188053189" quantity="1" name="[Event] Timeless Weapon Box"/>
+        <dicereward item_id="188053190" quantity="1" name="[Event] Timeless Tunic Box"/>
+        <dicereward item_id="188053191" quantity="1" name="[Event] Timeless Pants Box"/>
+        <dicereward item_id="188053229" quantity="1" name="[Event] Kahrun's Lavish Box"/>
+        <dicereward item_id="188053192" quantity="1" name="[Event] Timeless Shoulder Box"/>
+        <dicereward item_id="188053193" quantity="1" name="[Event] Timeless Glove Box"/>
+        <dicereward item_id="188053194" quantity="1" name="[Event] Timeless Shoe Box"/>
+        <dicereward item_id="188950017" quantity="1" name="Special Courier Pass (Abyss Eternal/Lv. 61-65)"/>
+        <dicereward item_id="186000242" quantity="10" name="Ceramium Medal"/>
+        <dicereward item_id="165020014" quantity="1" name="Weapon Wrapping Scroll (Eternal/Lv. 65 and lower)"/>
+        <dicereward item_id="188950015" quantity="1" name="Special Courier Pass (Eternal/Lv. 61-65)"/>
+        <dicereward item_id="166030005" quantity="1" name="Tempering Solution"/>
+        <dicereward item_id="186000051" quantity="10" name="Major Ancient Crown"/>
+        <dicereward item_id="165020015" quantity="1" name="Armor Wrapping Scroll (Eternal/Lv. 65 and lower)"/>
+        <dicereward item_id="188052479" quantity="1" name="Courier Pass Bundle"/>
+        <dicereward item_id="186000236" quantity="150" name="Blood Mark"/>
+        <dicereward item_id="165020016" quantity="1" name="Accessory Wrapping Scroll (Eternal/Lv. 65 and lower)"/>
+        <dicereward item_id="188052933" quantity="2" name="Courage Insignia Box"/>
+        <dicereward item_id="186000242" quantity="2" name="Ceramium Medal"/>
+        <dicereward item_id="188052590" quantity="5" name="Cuperine Ceramium Piece Case"/>
+        <dicereward item_id="188052384" quantity="1" name="Mithril Coin Pouch"/>
+        <dicereward item_id="186000237" quantity="200" name="Ancient Coin"/>
+        <dicereward item_id="186000051" quantity="2" name="Major Ancient Crown"/>
+        <dicereward item_id="188052745" quantity="10" name="[Event] Silverine Token Chest"/>
+        <dicereward item_id="188052746" quantity="10" name="[Event] Merry and Green Token Chest"/>
+        <dicereward item_id="186000201" quantity="5" name="Protectorate Coin"/>
+        <dicereward item_id="188052195" quantity="4" name="[Event] Legion Coin Chest"/>
+        <dicereward item_id="186000147" quantity="5" name="Mithril Medal"/>
+        <dicereward item_id="186000231" quantity="30" name="Ceramium Coin"/>
+        <dicereward item_id="188052102" quantity="10" name="[Event] Crucible Insignia Bundle"/>
+    </luna_dices_item>
+    <luna_dices_item id="3" name="test_Monthly_03_a" is_flag="false" group_name="test_Monthly_03" race="All" reward_total="1">
+        <dicereward item_id="190100131" quantity="1" name="Lustrous Skymane"/>
+        <dicereward item_id="190070017" quantity="1" name="Sidekick Akumu Summoning Lamp"/>
+        <dicereward item_id="188950017" quantity="1" name="Special Courier Pass (Abyss Eternal/Lv. 61-65)"/>
+        <dicereward item_id="190020175" quantity="1" name="Tahabata Egg"/>
+        <dicereward item_id="188053543" quantity="1" name="Shu-Ghost's Egg and Aether Cherry Box"/>
+        <dicereward item_id="187060148" quantity="1" name="Silvered Steampunk Wings"/>
+        <dicereward item_id="169660000" quantity="1" name="Gender Switch Ticket"/>
+        <dicereward item_id="169405376" quantity="1" name="Purified Essence"/>
+        <dicereward item_id="166030005" quantity="1" name="Tempering Solution"/>
+        <dicereward item_id="188053338" quantity="1" name="Exquisite Daeva's Outfit Box"/>
+        <dicereward item_id="188052652" quantity="1" name="Greater Enchantment Stone Bundle"/>
+        <dicereward item_id="188052131" quantity="2" name="[Event] Dye Bundle"/>
+        <dicereward item_id="188052651" quantity="1" name="Title Card Box"/>
+        <dicereward item_id="182007162" quantity="5" name="Aether Cherry"/>
+        <dicereward item_id="170190048" quantity="1" name="Chocolate Enchantment Stone Hearthbloom"/>
+        <dicereward item_id="165010001" quantity="1" name="Vindachinerk's Fine Combination Tool"/>
+        <dicereward item_id="188053251" quantity="1" name="[Event] Noble Commander Card"/>
+        <dicereward item_id="188053300" quantity="1" name="Expeditionary Force Ceramium Medal Box"/>
+        <dicereward item_id="188053335" quantity="1" name="Sensible Daeva's Box"/>
+        <dicereward item_id="188052715" quantity="1" name="[Event] Summoning Stone Letter"/>
+        <dicereward item_id="188052722" quantity="1" name="[Event] Daeva's Day Kisk Present"/>
+        <dicereward item_id="169629002" quantity="1" name="Lucky Vinna II"/>
+        <dicereward item_id="188052478" quantity="1" name="Instant Scroll Bundle"/>
+        <dicereward item_id="188052135" quantity="1" name="[Event] Victory Banquet Food Box"/>
+        <dicereward item_id="162002030" quantity="50" name="[Event] Premium Restoration Serum"/>
+    </luna_dices_item>
+    <luna_dices_item id="4" name="test_Component_gotcha_01" is_flag="false" group_name="test_Component_Schedule_01" race="All" reward_total="1">
+        <dicereward item_id="188055460" quantity="1" name="Luna Material Chest"/>
+    </luna_dices_item>
+    <luna_dices_item id="5" name="test_Component_gotcha_02" is_flag="false" group_name="test_Component_Schedule_02" race="All" reward_total="1">
+        <dicereward item_id="188055460" quantity="1" name="Luna Material Chest"/>
+    </luna_dices_item>
+    <luna_dices_item id="6" name="test_Component_gotcha_03" is_flag="false" group_name="test_Component_Schedule_03" race="All" reward_total="1">
+        <dicereward item_id="188055460" quantity="1" name="Luna Material Chest"/>
+    </luna_dices_item>
+    <luna_dices_item id="7" name="dicereward_gotcha_01_a" is_flag="false" group_name="dicereward_gotcha_01" race="All" reward_total="1">
+    </luna_dices_item>
+    <luna_dices_item id="8" name="test_dicereward_gotcha_01_a" is_flag="false" group_name="test_dicereward_gotcha_01" race="All" reward_total="1">
+    </luna_dices_item>
+    <luna_dices_item id="9" name="dicereward_gotcha_01" is_flag="false" group_name="dicereward_common_gotcha_01" race="All" reward_total="1">
+        <dicereward item_id="188057669" quantity="1" name="Prime Royal Captain Weapon Box"/>
+        <dicereward item_id="188057670" quantity="1" name="Prime Royal Captain Armor Box"/>
+        <dicereward item_id="188057671" quantity="1" name="Prime Royal Captain Accessory Box"/>
+        <dicereward item_id="166030007" quantity="1" name="[Event] Tempering Solution"/>
+        <dicereward item_id="166020003" quantity="1" name="[Event] Omega Enchantment Stone"/>
+        <dicereward item_id="188053786" quantity="1" name="Major Stigma Bundle"/>
+        <dicereward item_id="188055183" quantity="1" name="Major Felicitous Socketing Box (Mythic)"/>
+        <dicereward item_id="188055337" quantity="1" name="+6 Manastone Bundle"/>
+        <dicereward item_id="188055338" quantity="1" name="+5 Manastone Bundle"/>
+        <dicereward item_id="165050001" quantity="1" name="Unbinding Stone"/>
+        <dicereward item_id="166230005" quantity="1" name="Skill Boost Reassignment Scroll"/>
+        <dicereward item_id="165060002" quantity="1" name="[Event] Level Reduction Stone"/>
+        <dicereward item_id="186000454" quantity="1" name="Spinel Medal"/>
+        <dicereward item_id="188053785" quantity="1" name="Greater Stigma Bundle"/>
+        <dicereward item_id="188053564" quantity="1" name="Illusion Godstone Bundle"/>
+        <dicereward item_id="166000196" quantity="3" name="Enchantment Stone"/>
+        <dicereward item_id="186000242" quantity="2" name="Ceramium Medal"/>
+        <dicereward item_id="186000051" quantity="2" name="Major Ancient Crown"/>
+        <dicereward item_id="188054347" quantity="10" name="[Event] Blood Medal Bundle"/>
+        <dicereward item_id="186000236" quantity="30" name="Blood Mark"/>
+        <dicereward item_id="188052070" quantity="1" name="[Event] Fabled Godstone Bundle"/>
+        <dicereward item_id="188053002" quantity="1" name="[Event] Noble Composite Manastone Bundle"/>
+        <dicereward item_id="188100335" quantity="2000" name="Enchantment Stone Dust"/>
+        <dicereward item_id="188051732" quantity="1" name="[Event] Heroic Godstone Bundle"/>
+        <dicereward item_id="169405339" quantity="10" name="Pallasite Crystal"/>
+        <dicereward item_id="186000237" quantity="100" name="Ancient Coin"/>
+        <dicereward item_id="188052131" quantity="1" name="[Event] Dye Bundle"/>
+        <dicereward item_id="162001013" quantity="1" name="Tea of Repose - 100% Recovery"/>
+        <dicereward item_id="188100391" quantity="10" name="Fragmented Spinel"/>
+        <dicereward item_id="164000076" quantity="10" name="Greater Running Scroll"/>
+        <dicereward item_id="164000134" quantity="10" name="Greater Awakening Scroll"/>
+        <dicereward item_id="164000073" quantity="10" name="Greater Courage Scroll"/>
+        <dicereward item_id="164002167" quantity="5" name="[Event] Drana Coffee"/>
+        <dicereward item_id="160002497" quantity="20" name="Fresh Oily Plucar Dragon Salad"/>
+        <dicereward item_id="160002499" quantity="20" name="Fresh Oily Plucar Dragon Soup"/>
+    </luna_dices_item>
+    <luna_dices_item id="10" name="luna_dice_gotcha_C_01_01" set_name="luna_gotcha_dice_set_00" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="1">
+        <dicereward item_id="162000181" quantity="10" name="Vital Recovery Serum"/>
+        <dicereward item_id="188056819" quantity="1" name="Special +4 Manastone Bundle"/>
+        <dicereward item_id="188052674" quantity="1" name="[Event] Heroic Godstone Bundle I"/>
+        <dicereward item_id="186000051" quantity="1" name="Major Ancient Crown"/>
+        <dicereward item_id="186000414" quantity="20" name="Blood Medal"/>
+        <dicereward item_id="186000237" quantity="10" name="Ancient Coin"/>
+        <dicereward item_id="186000236" quantity="20" name="Blood Mark"/>
+        <dicereward item_id="188100335" quantity="250" name="Enchantment Stone Dust"/>
+        <dicereward item_id="188052496" quantity="1" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="162001062" quantity="1" name="Berdin's Lucky Star"/>
+        <dicereward item_id="188058251" quantity="1" name="[Event] Archdaeva Bonus Entry Scroll Bundle"/>
+        <dicereward item_id="186000237" quantity="25" name="Ancient Coin"/>
+        <dicereward item_id="188100391" quantity="350" name="Fragmented Spinel"/>
+        <dicereward item_id="186000469" quantity="350" name="Petra Medal"/>
+        <dicereward item_id="190200000" quantity="25" name="Minium"/>
+        <dicereward item_id="169650000" quantity="1" name="Plastic Surgery Ticket"/>
+        <dicereward item_id="188054345" quantity="1" name="[Event] Beritra's Equipment Box"/>
+        <dicereward item_id="188054348" quantity="1" name="[Event] Beritra's Phantom Wing Pack"/>
+        <dicereward item_id="166010001" quantity="1" name="Shining Enchantment Stone"/>
+        <dicereward item_id="188055680" quantity="1" name="Shiny +7 Manastone Bundle"/>
+        <dicereward item_id="165060001" quantity="1" name="Level Reduction Stone"/>
+        <dicereward item_id="187300002" quantity="1" name="Essence Core"/>
+        <dicereward item_id="190080005" quantity="1" name="Lesser Minion Contract"/>
+    </luna_dices_item>
+    <luna_dices_item id="11" name="luna_dice_gotcha_C_02_01" set_name="luna_gotcha_dice_set_01" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="2">
+        <dicereward item_id="162000181" quantity="10" name="Vital Recovery Serum"/>
+        <dicereward item_id="188056819" quantity="1" name="Special +4 Manastone Bundle"/>
+        <dicereward item_id="188052674" quantity="1" name="[Event] Heroic Godstone Bundle I"/>
+        <dicereward item_id="186000051" quantity="1" name="Major Ancient Crown"/>
+        <dicereward item_id="186000414" quantity="20" name="Blood Medal"/>
+        <dicereward item_id="186000237" quantity="10" name="Ancient Coin"/>
+        <dicereward item_id="186000236" quantity="20" name="Blood Mark"/>
+        <dicereward item_id="188100335" quantity="250" name="Enchantment Stone Dust"/>
+        <dicereward item_id="188052496" quantity="1" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="162001062" quantity="1" name="Berdin's Lucky Star"/>
+        <dicereward item_id="188058251" quantity="1" name="[Event] Archdaeva Bonus Entry Scroll Bundle"/>
+        <dicereward item_id="186000237" quantity="25" name="Ancient Coin"/>
+        <dicereward item_id="188100391" quantity="350" name="Fragmented Spinel"/>
+        <dicereward item_id="186000469" quantity="350" name="Petra Medal"/>
+        <dicereward item_id="190200000" quantity="25" name="Minium"/>
+        <dicereward item_id="169650000" quantity="1" name="Plastic Surgery Ticket"/>
+        <dicereward item_id="188054345" quantity="1" name="[Event] Beritra's Equipment Box"/>
+        <dicereward item_id="188054348" quantity="1" name="[Event] Beritra's Phantom Wing Pack"/>
+        <dicereward item_id="166010001" quantity="1" name="Shining Enchantment Stone"/>
+        <dicereward item_id="188055680" quantity="1" name="Shiny +7 Manastone Bundle"/>
+        <dicereward item_id="165060001" quantity="1" name="Level Reduction Stone"/>
+        <dicereward item_id="187300002" quantity="1" name="Essence Core"/>
+        <dicereward item_id="190080005" quantity="1" name="Lesser Minion Contract"/>
+    </luna_dices_item>
+    <luna_dices_item id="12" name="luna_dice_gotcha_C_03_01" set_name="luna_gotcha_dice_set_02" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="3">
+        <dicereward item_id="162000181" quantity="10" name="Vital Recovery Serum"/>
+        <dicereward item_id="188056819" quantity="1" name="Special +4 Manastone Bundle"/>
+        <dicereward item_id="188052674" quantity="1" name="[Event] Heroic Godstone Bundle I"/>
+        <dicereward item_id="186000051" quantity="1" name="Major Ancient Crown"/>
+        <dicereward item_id="186000414" quantity="20" name="Blood Medal"/>
+        <dicereward item_id="186000237" quantity="10" name="Ancient Coin"/>
+        <dicereward item_id="186000236" quantity="20" name="Blood Mark"/>
+        <dicereward item_id="188100335" quantity="250" name="Enchantment Stone Dust"/>
+        <dicereward item_id="188052496" quantity="1" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="162001062" quantity="1" name="Berdin's Lucky Star"/>
+        <dicereward item_id="188058251" quantity="1" name="[Event] Archdaeva Bonus Entry Scroll Bundle"/>
+        <dicereward item_id="186000237" quantity="25" name="Ancient Coin"/>
+        <dicereward item_id="188100391" quantity="350" name="Fragmented Spinel"/>
+        <dicereward item_id="186000469" quantity="350" name="Petra Medal"/>
+        <dicereward item_id="190200000" quantity="25" name="Minium"/>
+        <dicereward item_id="169650000" quantity="1" name="Plastic Surgery Ticket"/>
+        <dicereward item_id="188054345" quantity="1" name="[Event] Beritra's Equipment Box"/>
+        <dicereward item_id="188054348" quantity="1" name="[Event] Beritra's Phantom Wing Pack"/>
+        <dicereward item_id="166010001" quantity="1" name="Shining Enchantment Stone"/>
+        <dicereward item_id="188055680" quantity="1" name="Shiny +7 Manastone Bundle"/>
+        <dicereward item_id="165060001" quantity="1" name="Level Reduction Stone"/>
+        <dicereward item_id="187300002" quantity="1" name="Essence Core"/>
+        <dicereward item_id="190080005" quantity="1" name="Lesser Minion Contract"/>
+    </luna_dices_item>
+    <luna_dices_item id="13" name="luna_dice_gotcha_B_01_01" set_name="luna_gotcha_dice_set_03" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="1">
+        <dicereward item_id="188052496" quantity="1" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="162001062" quantity="3" name="Berdin's Lucky Star"/>
+        <dicereward item_id="188058251" quantity="1" name="[Event] Archdaeva Bonus Entry Scroll Bundle"/>
+        <dicereward item_id="186000237" quantity="25" name="Ancient Coin"/>
+        <dicereward item_id="188100391" quantity="500" name="Fragmented Spinel"/>
+        <dicereward item_id="186000469" quantity="500" name="Petra Medal"/>
+        <dicereward item_id="190200000" quantity="50" name="Minium"/>
+        <dicereward item_id="169650000" quantity="1" name="Plastic Surgery Ticket"/>
+        <dicereward item_id="188055199" quantity="1" name="[Event] Weapon Box of Thunder"/>
+        <dicereward item_id="188055200" quantity="1" name="[Event] Armor Box of Thunder"/>
+        <dicereward item_id="166010001" quantity="1" name="Shining Enchantment Stone"/>
+        <dicereward item_id="188055680" quantity="1" name="Shiny +7 Manastone Bundle"/>
+        <dicereward item_id="165060001" quantity="1" name="Level Reduction Stone"/>
+        <dicereward item_id="187300002" quantity="1" name="Essence Core"/>
+        <dicereward item_id="190080005" quantity="1" name="Lesser Minion Contract"/>
+        <dicereward item_id="166030005" quantity="1" name="Tempering Solution"/>
+        <dicereward item_id="166020000" quantity="1" name="Omega Enchantment Stone"/>
+        <dicereward item_id="188056735" quantity="1" name="Skill Card Bundle"/>
+        <dicereward item_id="188055183" quantity="1" name="Major Felicitous Socketing Box (Mythic)"/>
+        <dicereward item_id="188055197" quantity="1" name="[Event] Weapon Box of the Full Moon"/>
+        <dicereward item_id="188055198" quantity="1" name="[Event] Armor Box of the Full Moon"/>
+        <dicereward item_id="190080008" quantity="1" name="Cute Minion Contract"/>
+    </luna_dices_item>
+    <luna_dices_item id="14" name="luna_dice_gotcha_B_02_01" set_name="luna_gotcha_dice_set_04" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="2">
+        <dicereward item_id="188052496" quantity="1" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="162001062" quantity="3" name="Berdin's Lucky Star"/>
+        <dicereward item_id="188058251" quantity="1" name="[Event] Archdaeva Bonus Entry Scroll Bundle"/>
+        <dicereward item_id="186000237" quantity="25" name="Ancient Coin"/>
+        <dicereward item_id="188100391" quantity="500" name="Fragmented Spinel"/>
+        <dicereward item_id="186000469" quantity="500" name="Petra Medal"/>
+        <dicereward item_id="190200000" quantity="50" name="Minium"/>
+        <dicereward item_id="169650000" quantity="1" name="Plastic Surgery Ticket"/>
+        <dicereward item_id="188055199" quantity="1" name="[Event] Weapon Box of Thunder"/>
+        <dicereward item_id="188055200" quantity="1" name="[Event] Armor Box of Thunder"/>
+        <dicereward item_id="166010001" quantity="1" name="Shining Enchantment Stone"/>
+        <dicereward item_id="188055680" quantity="1" name="Shiny +7 Manastone Bundle"/>
+        <dicereward item_id="165060001" quantity="1" name="Level Reduction Stone"/>
+        <dicereward item_id="187300002" quantity="1" name="Essence Core"/>
+        <dicereward item_id="190080005" quantity="1" name="Lesser Minion Contract"/>
+        <dicereward item_id="166030005" quantity="1" name="Tempering Solution"/>
+        <dicereward item_id="166020000" quantity="1" name="Omega Enchantment Stone"/>
+        <dicereward item_id="188056735" quantity="1" name="Skill Card Bundle"/>
+        <dicereward item_id="188055183" quantity="1" name="Major Felicitous Socketing Box (Mythic)"/>
+        <dicereward item_id="188055197" quantity="1" name="[Event] Weapon Box of the Full Moon"/>
+        <dicereward item_id="188055198" quantity="1" name="[Event] Armor Box of the Full Moon"/>
+        <dicereward item_id="190080008" quantity="1" name="Cute Minion Contract"/>
+    </luna_dices_item>
+    <luna_dices_item id="15" name="luna_dice_gotcha_A_01" set_name="luna_gotcha_dice_set_05" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="1">
+        <dicereward item_id="188052496" quantity="5" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="162001062" quantity="10" name="Berdin's Lucky Star"/>
+        <dicereward item_id="188100391" quantity="500" name="Fragmented Spinel"/>
+        <dicereward item_id="186000469" quantity="500" name="Petra Medal"/>
+        <dicereward item_id="190200000" quantity="100" name="Minium"/>
+        <dicereward item_id="169650000" quantity="1" name="Plastic Surgery Ticket"/>
+        <dicereward item_id="188055199" quantity="1" name="[Event] Weapon Box of Thunder"/>
+        <dicereward item_id="188055200" quantity="1" name="[Event] Armor Box of Thunder"/>
+        <dicereward item_id="166010001" quantity="1" name="Shining Enchantment Stone"/>
+        <dicereward item_id="188055681" quantity="1" name="Shiny +8 Manastone Bundle"/>
+        <dicereward item_id="187300002" quantity="1" name="Essence Core"/>
+        <dicereward item_id="190080005" quantity="1" name="Lesser Minion Contract"/>
+        <dicereward item_id="166030005" quantity="1" name="Tempering Solution"/>
+        <dicereward item_id="166020000" quantity="1" name="Omega Enchantment Stone"/>
+        <dicereward item_id="188056735" quantity="1" name="Skill Card Bundle"/>
+        <dicereward item_id="188055183" quantity="1" name="Major Felicitous Socketing Box (Mythic)"/>
+        <dicereward item_id="188055197" quantity="1" name="[Event] Weapon Box of the Full Moon"/>
+        <dicereward item_id="188055198" quantity="1" name="[Event] Armor Box of the Full Moon"/>
+        <dicereward item_id="190080008" quantity="1" name="Cute Minion Contract"/>
+        <dicereward item_id="188057669" quantity="1" name="Prime Royal Captain Weapon Box"/>
+        <dicereward item_id="188057670" quantity="1" name="Prime Royal Captain Armor Box"/>
+        <dicereward item_id="188056802" quantity="1" name="Pure Frigida Legion Weapon Box"/>
+        <dicereward item_id="188056803" quantity="1" name="Pure Frigida Legion Armor Box"/>
+    </luna_dices_item>
+    <luna_dices_item id="16" name="luna_dice_gotcha_AA_01" set_name="luna_gotcha_dice_set_05" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="1">
+        <dicereward item_id="188052496" quantity="5" name="Large Greater Supplements Bag (Mythic)"/>
+        <dicereward item_id="162001062" quantity="10" name="Berdin's Lucky Star"/>
+        <dicereward item_id="188100391" quantity="500" name="Fragmented Spinel"/>
+        <dicereward item_id="186000469" quantity="500" name="Petra Medal"/>
+        <dicereward item_id="190200000" quantity="100" name="Minium"/>
+        <dicereward item_id="169650000" quantity="1" name="Plastic Surgery Ticket"/>
+        <dicereward item_id="188055199" quantity="1" name="[Event] Weapon Box of Thunder"/>
+        <dicereward item_id="188055200" quantity="1" name="[Event] Armor Box of Thunder"/>
+        <dicereward item_id="166010001" quantity="1" name="Shining Enchantment Stone"/>
+        <dicereward item_id="188055681" quantity="1" name="Shiny +8 Manastone Bundle"/>
+        <dicereward item_id="187300002" quantity="1" name="Essence Core"/>
+        <dicereward item_id="190080005" quantity="1" name="Lesser Minion Contract"/>
+        <dicereward item_id="166030005" quantity="1" name="Tempering Solution"/>
+        <dicereward item_id="166020000" quantity="1" name="Omega Enchantment Stone"/>
+        <dicereward item_id="188056735" quantity="1" name="Skill Card Bundle"/>
+        <dicereward item_id="188055183" quantity="1" name="Major Felicitous Socketing Box (Mythic)"/>
+        <dicereward item_id="188055197" quantity="1" name="[Event] Weapon Box of the Full Moon"/>
+        <dicereward item_id="188055198" quantity="1" name="[Event] Armor Box of the Full Moon"/>
+        <dicereward item_id="190080008" quantity="1" name="Cute Minion Contract"/>
+        <dicereward item_id="188057669" quantity="1" name="Prime Royal Captain Weapon Box"/>
+        <dicereward item_id="188057670" quantity="1" name="Prime Royal Captain Armor Box"/>
+        <dicereward item_id="188056802" quantity="1" name="Pure Frigida Legion Weapon Box"/>
+        <dicereward item_id="188056803" quantity="1" name="Pure Frigida Legion Armor Box"/>
+    </luna_dices_item>
+    <luna_dices_item id="17" name="luna_dice_gotcha_S_01" set_name="luna_gotcha_dice_set_06" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="1">
+        <dicereward item_id="166010001" quantity="5" name="Shining Enchantment Stone"/>
+        <dicereward item_id="166030005" quantity="3" name="Tempering Solution"/>
+        <dicereward item_id="166020000" quantity="3" name="Omega Enchantment Stone"/>
+        <dicereward item_id="188056735" quantity="1" name="Skill Card Bundle"/>
+        <dicereward item_id="188055183" quantity="1" name="Major Felicitous Socketing Box (Mythic)"/>
+        <dicereward item_id="190080008" quantity="2" name="Cute Minion Contract"/>
+        <dicereward item_id="188057669" quantity="1" name="Prime Royal Captain Weapon Box"/>
+        <dicereward item_id="188057670" quantity="1" name="Prime Royal Captain Armor Box"/>
+        <dicereward item_id="188055791" quantity="1" name="[Event] Provenance Weapon Box"/>
+        <dicereward item_id="188056805" quantity="1" name="Sophisticated Frigida Legion Weapon Box"/>
+        <dicereward item_id="188056806" quantity="1" name="Sophisticated Frigida Legion Armor Box"/>
+    </luna_dices_item>
+    <luna_dices_item id="18" name="luna_dice_gotcha_SS_01" set_name="luna_gotcha_dice_set_07" is_flag="true" group_name="luna_dice_gotcha_01" race="All" reward_total="1">
+        <dicereward item_id="166030005" quantity="5" name="Tempering Solution"/>
+        <dicereward item_id="166020000" quantity="5" name="Omega Enchantment Stone"/>
+        <dicereward item_id="188057669" quantity="1" name="Prime Royal Captain Weapon Box"/>
+        <dicereward item_id="188057670" quantity="1" name="Prime Royal Captain Armor Box"/>
+        <dicereward item_id="188055791" quantity="1" name="[Event] Provenance Weapon Box"/>
+        <dicereward item_id="188056805" quantity="1" name="Sophisticated Frigida Legion Weapon Box"/>
+        <dicereward item_id="188056806" quantity="1" name="Sophisticated Frigida Legion Armor Box"/>
+    </luna_dices_item>
+</luna_dices_items>

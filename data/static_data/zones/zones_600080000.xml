@@ -8,7 +8,8 @@
             <point x="1344.8359" y="1684.8555"/>
         </points>
     </zone>
-    <zone mapid="600080000" name="LIVE_PARTY_CONCERT_HALL_600080000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="600080000" name="LIVE_PARTY_CONCERT_HALL_600080000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="542.521" top="642.521">
             <point x="1658.2488" y="1677.075"/>
             <point x="1334.1305" y="1679.9521"/>
@@ -16,7 +17,7 @@
             <point x="1657.7864" y="1348.8907"/>
         </points>
     </zone>
-    <zone mapid="600080000" name="PVP_53_600080000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="600080000" name="PVP_53_600080000" area_type="POLYGON" zone_type="PVP" flags="0">
         <points bottom="532.6942" top="632.6942">
             <point x="1653.0109" y="1685.5421"/>
             <point x="1344.6094" y="1684.9253"/>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300050000" name="CARPUS_ISLE_STOREROOM_300050000" area_type="POLYGON" zone_type="SUB" priority="16" flags="2">
+    <zone mapid="300050000" name="ASTERIA_CHAMBER_300050000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="2">
         <points bottom="168.97421" top="268.9742">
             <point x="454.98685" y="566.6676"/>
             <point x="500.51764" y="716.2975"/>

@@ -36,7 +36,8 @@
             <point x="3053.3164" y="366.32404"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="ANANGKE_EXCAVATION_CAMP_210060000" area_type="POLYGON" zone_type="SUB" priority="9" flags="55">
+    <zone mapid="210060000" name="ANANGKE_EXCAVATION_CAMP_210060000" area_type="POLYGON" zone_type="SUB" priority="9"
+          flags="55">
         <points bottom="121.32855" top="271.32855">
             <point x="2654.74" y="819.6536"/>
             <point x="2672.1067" y="784.09344"/>
@@ -46,7 +47,8 @@
             <point x="2658.1978" y="844.1046"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="BLACK_ROCK_HOT_SPRING_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="BLACK_ROCK_HOT_SPRING_210060000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="88.310776" y="1827.742"/>
             <point x="173.39803" y="1806.6726"/>
@@ -58,7 +60,8 @@
             <point x="67.45358" y="1896.2488"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="BOUNTY_HUNTER_CAMPSITE_210060000" area_type="POLYGON" zone_type="SUB" priority="9" flags="55">
+    <zone mapid="210060000" name="BOUNTY_HUNTER_CAMPSITE_210060000" area_type="POLYGON" zone_type="SUB" priority="9"
+          flags="55">
         <points bottom="50.0" top="150.0">
             <point x="460.2793" y="2090.6318"/>
             <point x="476.51483" y="2082.6443"/>
@@ -70,7 +73,8 @@
             <point x="455.58243" y="2110.3638"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="BROKEN_FANG_BRIDGE_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="BROKEN_FANG_BRIDGE_210060000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="100.0" top="200.0">
             <point x="330.95447" y="299.43713"/>
             <point x="355.54358" y="283.55347"/>
@@ -82,7 +86,8 @@
             <point x="333.752" y="314.8242"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="CALYDON_CAVERN_HOUSE_210060000" area_type="POLYGON" zone_type="SUB" priority="9" flags="55">
+    <zone mapid="210060000" name="CALYDON_CAVERN_HOUSE_210060000" area_type="POLYGON" zone_type="SUB" priority="9"
+          flags="55">
         <points bottom="50.0" top="150.0">
             <point x="792.19" y="1790.03"/>
             <point x="808.42554" y="1782.0425"/>
@@ -94,7 +99,8 @@
             <point x="787.49316" y="1809.762"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="CALYDON_VILLAGE_210060000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="210060000" name="CALYDON_VILLAGE_210060000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="1339.4292" y="845.16144"/>
             <point x="1255.7488" y="902.92993"/>
@@ -229,7 +235,8 @@
             <point x="1297.9033" y="767.9178"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="CASCADE_SPRINGS_210060000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="210060000" name="CASCADE_SPRINGS_210060000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="3049.1758" y="2167.9802"/>
             <point x="2963.8516" y="2170.093"/>
@@ -267,7 +274,8 @@
             <point x="3053.5945" y="983.94507"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="CRIMSON_BARRENS_210060000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="210060000" name="CRIMSON_BARRENS_210060000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="1.0" top="201.0">
             <point x="1232.7605" y="1571.6528"/>
             <point x="1289.5162" y="1689.3123"/>
@@ -426,7 +434,8 @@
             <point x="1030.754" y="286.77414"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="EMPYREAN_LORDS_SANCTUARY_210060000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="210060000" name="EMPYREAN_LORDS_SANCTUARY_210060000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="1613.8599" y="2527.7783"/>
             <point x="1757.5267" y="2618.7957"/>
@@ -470,7 +479,8 @@
             <point x="1604.6351" y="2501.2314"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="FREGIONS_FLAME_210060000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
+    <zone mapid="210060000" name="FREGIONS_FLAME_210060000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="9.377895" y="3060.0413"/>
             <point x="8.902588" y="2011.2175"/>
@@ -523,7 +533,8 @@
             <point x="447.88647" y="844.20874"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="HONGRAS_CAMPSITE_210060000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="210060000" name="HONGRAS_CAMPSITE_210060000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="54.441055" top="404.44104">
             <point x="1201.9404" y="346.6148"/>
             <point x="1191.7006" y="344.15686"/>
@@ -597,7 +608,8 @@
             <point x="896.5284" y="2758.7476"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="LATHERON_COAST_BASE_CAMP_210060000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="210060000" name="LATHERON_COAST_BASE_CAMP_210060000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="36.52127" top="286.52127">
             <point x="2737.3833" y="2108.868"/>
             <point x="2732.459" y="2121.0146"/>
@@ -686,7 +698,8 @@
             <point x="1217.9453" y="223.02487"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="MARLA_CAVE_ENTRANCE_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="MARLA_CAVE_ENTRANCE_210060000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="301.0">
             <point x="1066.227" y="368.7502"/>
             <point x="1098.2765" y="387.50043"/>
@@ -696,7 +709,8 @@
             <point x="1070.1385" y="328.59238"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="MARLA_CAVE_EXIT_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="MARLA_CAVE_EXIT_210060000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="301.0">
             <point x="1993.9264" y="147.08936"/>
             <point x="2112.6675" y="207.3131"/>
@@ -707,7 +721,8 @@
             <point x="1976.9485" y="99.47154"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="MENIHERKS_FIRST_EXCAVATION_SITE_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="MENIHERKS_FIRST_EXCAVATION_SITE_210060000" area_type="POLYGON" zone_type="SUB"
+          priority="10" flags="55">
         <points bottom="1.0" top="201.0">
             <point x="1482.2568" y="1266.2183"/>
             <point x="1480.684" y="1292.2867"/>
@@ -719,7 +734,8 @@
             <point x="1503.0919" y="1245.8329"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="MENIHERKS_SECOND_EXCAVATION_SITE_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="MENIHERKS_SECOND_EXCAVATION_SITE_210060000" area_type="POLYGON" zone_type="SUB"
+          priority="10" flags="55">
         <points bottom="1.0" top="201.0">
             <point x="1762.8591" y="1435.883"/>
             <point x="1781.7662" y="1481.0696"/>
@@ -729,7 +745,8 @@
             <point x="1788.2257" y="1392.2366"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="MENIHERKS_THIRD_EXCAVATION_SITE_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="MENIHERKS_THIRD_EXCAVATION_SITE_210060000" area_type="POLYGON" zone_type="SUB"
+          priority="10" flags="55">
         <points bottom="1.0" top="201.0">
             <point x="2049.7314" y="1372.2372"/>
             <point x="2083.7437" y="1424.9058"/>
@@ -739,7 +756,8 @@
             <point x="2052.2039" y="1358.0317"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="MENIHERK_EXCAVATION_CAMP_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="MENIHERK_EXCAVATION_CAMP_210060000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="201.0">
             <point x="1246.8777" y="1460.4895"/>
             <point x="1285.8232" y="1609.8112"/>
@@ -750,7 +768,8 @@
             <point x="1294.9313" y="1394.1288"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="NORTHERN_LATHERON_COAST_210060000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="210060000" name="NORTHERN_LATHERON_COAST_210060000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="2180.0117" y="2514.8306"/>
             <point x="2299.4019" y="2505.0352"/>
@@ -769,7 +788,8 @@
             <point x="2064.8325" y="2541.377"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="OBSERVATORY_VILLAGE_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="OBSERVATORY_VILLAGE_210060000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="2250.1138" y="2047.029"/>
             <point x="2333.8416" y="2084.0686"/>
@@ -782,7 +802,8 @@
             <point x="2195.6445" y="2048.8396"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="PARCHED_BARRENS_210060000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="210060000" name="PARCHED_BARRENS_210060000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="1981.9473" y="1833.402"/>
             <point x="1983.6624" y="1851.6959"/>
@@ -850,7 +871,8 @@
             <point x="2774.8047" y="784.5061"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="REVENGE_VALLEY_210060000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="210060000" name="REVENGE_VALLEY_210060000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="1.0" top="201.0">
             <point x="1143.6616" y="584.80255"/>
             <point x="1155.6465" y="666.4268"/>
@@ -885,7 +907,8 @@
             <point x="2689.2698" y="1537.9869"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="SOUTHERN_LATHERON_COAST_210060000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="210060000" name="SOUTHERN_LATHERON_COAST_210060000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="2964.035" y="2169.3076"/>
             <point x="3048.9807" y="2166.9692"/>
@@ -907,7 +930,8 @@
             <point x="2763.3604" y="2069.9387"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="STALACTITE_SPRING_210060000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="210060000" name="STALACTITE_SPRING_210060000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="60.0" top="140.0">
             <point x="1689.73" y="253.16"/>
             <point x="1724.2676" y="245.2933"/>
@@ -919,7 +943,8 @@
             <point x="1663.4734" y="228.61078"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="THEOBOMOS_RUINS_210060000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="210060000" name="THEOBOMOS_RUINS_210060000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="1.0" top="201.0">
             <point x="1641.3416" y="834.9948"/>
             <point x="1619.5232" y="876.90375"/>
@@ -950,7 +975,8 @@
             <point x="1755.4347" y="835.3055"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="THEOBOMOS_STRONGHOLD_210060000" area_type="POLYGON" zone_type="SUB" priority="13" flags="55">
+    <zone mapid="210060000" name="THEOBOMOS_STRONGHOLD_210060000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="3053.3464" y="368.80066"/>
             <point x="2895.5527" y="365.52393"/>
@@ -994,7 +1020,8 @@
             <point x="3053.1882" y="12.987183"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="THE_SCORCHLANDS_210060000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="210060000" name="THE_SCORCHLANDS_210060000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="1.0" top="201.0">
             <point x="1924.4451" y="1347.3558"/>
             <point x="1745.4731" y="1493.4219"/>
@@ -1025,7 +1052,8 @@
             <point x="2058.2888" y="1448.3923"/>
         </points>
     </zone>
-    <zone mapid="210060000" name="THE_STALKING_GROUNDS_210060000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="210060000" name="THE_STALKING_GROUNDS_210060000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="5.0" top="305.0">
             <point x="1078.9315" y="1975.9657"/>
             <point x="1014.841" y="1984.4113"/>

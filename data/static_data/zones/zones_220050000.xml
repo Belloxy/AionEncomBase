@@ -72,7 +72,8 @@
             <point x="1689.6567" y="95.65981"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="ADMA_STRONGHOLD_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="ADMA_STRONGHOLD_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="200.0" top="400.0">
             <point x="2111.71" y="89.343636"/>
             <point x="2111.9832" y="215.87495"/>
@@ -87,7 +88,8 @@
             <point x="2132.0054" y="79.49287"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="BALTASAR_CEMETERY_220050000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220050000" name="BALTASAR_CEMETERY_220050000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="952.34344" y="2348.1995"/>
             <point x="928.5326" y="2608.873"/>
@@ -209,7 +211,8 @@
             <point x="978.8519" y="2337.3286"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="BALTASAR_HILL_VILLAGE_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="BALTASAR_HILL_VILLAGE_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="1229.5198" y="1826.0126"/>
             <point x="1228.3818" y="1833.8939"/>
@@ -236,7 +239,8 @@
             <point x="1404.259" y="1807.374"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="BLACK_OPAL_SHIP_ANCHORAGE_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="BLACK_OPAL_SHIP_ANCHORAGE_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="218.58926" y="45.335167"/>
             <point x="192.32867" y="66.81481"/>
@@ -399,7 +403,8 @@
             <point x="149.16687" y="2560.1475"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="BRUSTHONIN_MITHRIL_MINE_220050000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220050000" name="BRUSTHONIN_MITHRIL_MINE_220050000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="912.83" y="2214.2593"/>
             <point x="907.3504" y="2223.8318"/>
@@ -468,7 +473,8 @@
             <point x="922.8982" y="2218.8318"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="BUBU_CHANS_HIDEOUT_220050000" area_type="POLYGON" zone_type="SUB" priority="13" flags="55">
+    <zone mapid="220050000" name="BUBU_CHANS_HIDEOUT_220050000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="55">
         <points bottom="1.0" top="451.0">
             <point x="57.09" y="1031.84"/>
             <point x="52.25371" y="1037.751"/>
@@ -510,7 +516,8 @@
             <point x="431.6205" y="734.2389"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="CANYON_SCOUT_POST_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="CANYON_SCOUT_POST_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="849.83" y="616.39"/>
             <point x="836.2064" y="626.3992"/>
@@ -523,7 +530,8 @@
             <point x="874.71387" y="615.13885"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="CAROBIAN_COAST_220050000" area_type="POLYGON" zone_type="SUB" priority="12" flags="55">
+    <zone mapid="220050000" name="CAROBIAN_COAST_220050000" area_type="POLYGON" zone_type="SUB" priority="12"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="46.549095" y="4.271041"/>
             <point x="40.28106" y="286.83716"/>
@@ -623,7 +631,8 @@
             <point x="463.70685" y="1623.5383"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="DECOMPOSED_GREENS_220050000" area_type="POLYGON" zone_type="SUB" priority="9" flags="55">
+    <zone mapid="220050000" name="DECOMPOSED_GREENS_220050000" area_type="POLYGON" zone_type="SUB" priority="9"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="1260.7017" y="1058.8363"/>
             <point x="1249.918" y="1071.1355"/>
@@ -652,7 +661,8 @@
             <point x="1326.4028" y="2039.3192"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="EDGE_OF_TORMENT_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="EDGE_OF_TORMENT_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="200.0" top="300.0">
             <point x="1518.11" y="363.64"/>
             <point x="1513.0109" y="381.30304"/>
@@ -662,7 +672,8 @@
             <point x="1536.4077" y="363.85278"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="GRIFFONS_CLAW_ENCAMPMENT_220050000" area_type="POLYGON" zone_type="SUB" priority="18" flags="55">
+    <zone mapid="220050000" name="GRIFFONS_CLAW_ENCAMPMENT_220050000" area_type="POLYGON" zone_type="SUB" priority="18"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="2369.92" y="1293.55"/>
             <point x="2395.7727" y="1290.6726"/>
@@ -692,7 +703,8 @@
             <point x="2362.5586" y="1296.4785"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="HAVENJARK_CEMETERY_220050000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220050000" name="HAVENJARK_CEMETERY_220050000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="30.0" top="430.0">
             <point x="1828.7594" y="2577.9753"/>
             <point x="1821.472" y="2585.8208"/>
@@ -711,7 +723,8 @@
             <point x="1846.3413" y="2573.672"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="HAVENJARK_FARM_220050000" area_type="POLYGON" zone_type="SUB" priority="20" flags="55">
+    <zone mapid="220050000" name="HAVENJARK_FARM_220050000" area_type="POLYGON" zone_type="SUB" priority="20"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="2280.4114" y="1587.4972"/>
             <point x="2251.79" y="1617.4056"/>
@@ -1245,7 +1258,8 @@
             <point x="216.7539" y="604.2806"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="IOLLU_OVERLOOK_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="IOLLU_OVERLOOK_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="280.0" top="380.0">
             <point x="843.74" y="1993.4926"/>
             <point x="841.6209" y="1978.0391"/>
@@ -1259,7 +1273,8 @@
             <point x="854.16" y="2005.2836"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="KAMSTOWS_BARRACKS_220050000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
+    <zone mapid="220050000" name="KAMSTOWS_BARRACKS_220050000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="55">
         <points bottom="186.77048" top="436.77048">
             <point x="256.651" y="2499.0674"/>
             <point x="236.51163" y="2502.2473"/>
@@ -1337,7 +1352,8 @@
             <point x="1471.2256" y="660.229"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="OLD_NAHOR_CASTLE_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="OLD_NAHOR_CASTLE_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="1721.685" y="723.934"/>
             <point x="1671.9675" y="761.44183"/>
@@ -1380,7 +1396,8 @@
             <point x="301.03036" y="1906.9469"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="POLLUTED_WASTE_220050000" area_type="POLYGON" zone_type="SUB" priority="18" flags="55">
+    <zone mapid="220050000" name="POLLUTED_WASTE_220050000" area_type="POLYGON" zone_type="SUB" priority="18"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="2461.7761" y="1802.9047"/>
             <point x="2455.6409" y="1807.5599"/>
@@ -1566,7 +1583,8 @@
             <point x="2535.8735" y="1775.8221"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="SETTLERS_CAMPSITE_220050000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220050000" name="SETTLERS_CAMPSITE_220050000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="2854.54" y="2450.68"/>
             <point x="2830.5312" y="2506.9941"/>
@@ -1625,7 +1643,8 @@
             <point x="1053.2126" y="2881.4978"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="STRAGGLERS_SHELTER_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="STRAGGLERS_SHELTER_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="513.5336" y="452.09943"/>
             <point x="504.8186" y="459.80942"/>
@@ -1798,7 +1817,8 @@
             <point x="938.89197" y="1529.0411"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="THE_COASTAL_PASS_220050000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220050000" name="THE_COASTAL_PASS_220050000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="1196.3" y="86.27"/>
             <point x="1167.5261" y="105.814545"/>
@@ -2007,7 +2027,8 @@
             <point x="1109.5532" y="1287.1213"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="THE_GOLDEN_COAST_220050000" area_type="POLYGON" zone_type="SUB" priority="18" flags="55">
+    <zone mapid="220050000" name="THE_GOLDEN_COAST_220050000" area_type="POLYGON" zone_type="SUB" priority="18"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="2336.06" y="2721.7412"/>
             <point x="2304.284" y="2797.9722"/>
@@ -2041,7 +2062,8 @@
             <point x="2381.3938" y="2710.5664"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="THE_LEGEND_SHRINE_220050000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220050000" name="THE_LEGEND_SHRINE_220050000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="1247.1069" y="2514.2576"/>
             <point x="1219.3464" y="2545.384"/>
@@ -2071,7 +2093,8 @@
             <point x="1274.5364" y="2493.4363"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="THE_NORTHWEALD_220050000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220050000" name="THE_NORTHWEALD_220050000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="914.89" y="1014.39"/>
             <point x="894.72754" y="1329.3079"/>
@@ -2377,7 +2400,8 @@
             <point x="2370.404" y="1292.1548"/>
         </points>
     </zone>
-    <zone mapid="220050000" name="WAILING_CLIFFS_220050000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220050000" name="WAILING_CLIFFS_220050000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="1.0" top="401.0">
             <point x="1514.1821" y="2812.0073"/>
             <point x="1508.8232" y="2955.617"/>

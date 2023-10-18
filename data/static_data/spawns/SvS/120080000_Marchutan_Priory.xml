@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	[S.V.S Panesterra]
-	使うとマルクタン 4.7
-	Spawn By (Encom)
- -->
 <spawns>
     <spawn_map map_id="120080000">
-		<!-- [SVS MARCHUTAN PRIORY] -->
 		<svs_spawn id="4">
 			<svs_type pstate="SVS">
 				<!-- Advance Corridor For Commanders -->
 				<spawn npc_id="730941">
-			        <spot x="341.85892" y="250.86435" z="98.213425" entity_id="338"/>
+			        <spot x="342.298065" y="251.134995" z="100.274193" h="60" static_id="338"/>
 				</spawn>
 				<!-- Advance Corridor For Contributors -->
 				<spawn npc_id="730943">
-			        <spot x="393.32999" y="236.80151" z="92.533409" entity_id="337"/>
+			        <spot x="393.32126" y="236.96341" z="95.668396" h="119" static_id="337"/>
 				</spawn>
 				<!-- Walk Of Honor -->
 				<spawn npc_id="731194">
-			        <spot x="393.32999" y="264.18402" z="92.533409" entity_id="336"/>
+			        <spot x="393.47595" y="263.70447" z="95.572456" h="119" static_id="336"/>
 				</spawn>
-				<!-- Lander
-				<Panesterra Entrance Guide> -->
-				<spawn npc_id="802542">
-				    <spot x="393.23776" y="259.92493" z="93.112526" h="0"/>
-				</spawn>
-				<!-- Ingdora
-				<Panesterra Entrance Guide> -->
-				<spawn npc_id="802543">
-				    <spot x="393.3249" y="240.94469" z="93.112526" h="0"/>
-				</spawn>
+                <!-- Revink ||| GAb1_Leaivink_E -->
+                <spawn npc_id="802542">
+                    <spot x="395.38806" y="241.07704" z="93.11252"/>
+                </spawn>
+                <!-- Krondel ||| GAb1_Krondel_E -->
+                <spawn npc_id="802543">
+                    <spot x="395.44803" y="259.84583" z="93.112526"/>
+                </spawn>
 			</svs_type>
 			<svs_type pstate="PEACE">
 			</svs_type>

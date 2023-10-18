@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="310020000" name="AFIRA_OBELISK_1_310020000" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+    <zone mapid="310020000" name="AFIRA_OBELISK_1_310020000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="6">
         <points bottom="0.1" top="500.1">
             <point x="46.0" y="152.0"/>
             <point x="116.0" y="180.0"/>
@@ -8,7 +9,8 @@
             <point x="35.0" y="188.0"/>
         </points>
     </zone>
-    <zone mapid="310020000" name="FLOATING_ISLAND_C_1_310020000" area_type="POLYGON" zone_type="SUB" priority="16" flags="6">
+    <zone mapid="310020000" name="FLOATING_ISLAND_C_1_310020000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="6">
         <points bottom="0.1" top="500.1">
             <point x="409.0" y="444.0"/>
             <point x="410.0" y="374.0"/>

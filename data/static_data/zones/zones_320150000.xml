@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="320150000" name="PADMARASHKAS_CAVE_320150000" area_type="POLYGON" zone_type="SUB" priority="20" flags="4">
+    <zone mapid="320150000" name="PADMARASHKAS_CAVE_320150000" area_type="POLYGON" zone_type="LIMIT" flags="22">
         <points bottom="-32.529015" top="317.47098">
             <point x="410.3506" y="182.66966"/>
             <point x="455.0542" y="137.9911"/>
@@ -38,7 +38,7 @@
             <point x="403.70175" y="209.71774"/>
         </points>
     </zone>
-    <zone mapid="320150000" name="PADMARASHKAS_NEST_320150000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="320150000" name="PADMARASHKAS_NEST_320150000" area_type="POLYGON" zone_type="LIMIT" flags="22">
         <points bottom="-7.400612" top="292.5994">
             <point x="530.56976" y="355.52762"/>
             <point x="521.7087" y="346.87418"/>
@@ -61,7 +61,7 @@
             <point x="542.5064" y="397.78528"/>
         </points>
     </zone>
-    <zone mapid="320150000" name="REIAN_FOOTHOLD_320150000" area_type="POLYGON" zone_type="SUB" priority="18" flags="4">
+    <zone mapid="320150000" name="REIAN_FOOTHOLD_320150000" area_type="POLYGON" zone_type="LIMIT" flags="22">
         <points bottom="-33.715164" top="266.28485">
             <point x="499.57507" y="323.5431"/>
             <point x="469.26663" y="352.86957"/>

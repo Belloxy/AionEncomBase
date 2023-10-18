@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	[R.V.R Heiron]
-	エリュシオン 4.9.1
-	"Brigade General's Urgent Order"
-	Spawn By (Encom)
- -->
 <spawns>
     <spawn_map map_id="210040000">
-		<!--
-		TAURIC ISLAND
-		WEST POYA ISLAND
-		CACOON ISLAND
-		EAST POYA ISLAND -->
 		<rvr_spawn id="1">
 			<rvr_type rstate="RVR">
 			    <!-- Legion Infiltration Corridor -->

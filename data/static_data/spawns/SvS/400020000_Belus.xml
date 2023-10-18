@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	[S.V.S Transidium Annex]
-	벨로스 영지 4.7
-	Spawn By (Encom)
- -->
 <spawns>
     <spawn_map map_id="400020000">
 		<svs_spawn id="5">

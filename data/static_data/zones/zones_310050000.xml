@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="310050000" name="AETHEROGENETICS_LAB_310050000" area_type="POLYGON" zone_type="SUB" priority="18" flags="2">
+    <zone mapid="310050000" name="AETHEROGENETICS_LAB_310050000" area_type="POLYGON" zone_type="SUB" priority="18"
+          flags="2">
         <points bottom="100.0" top="230.0">
             <point x="167.92" y="196.11"/>
             <point x="306.52863" y="193.32773"/>
@@ -17,7 +18,8 @@
             <point x="171.49744" y="361.22705"/>
         </points>
     </zone>
-    <zone mapid="310050000" name="BIO_EXPERIMENT_LAB_310050000" area_type="POLYGON" zone_type="SUB" priority="16" flags="2">
+    <zone mapid="310050000" name="BIO_EXPERIMENT_LAB_310050000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="2">
         <points bottom="100.19997" top="230.19997">
             <point x="173.27074" y="200.02017"/>
             <point x="244.8068" y="200.5747"/>

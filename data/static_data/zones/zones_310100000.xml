@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="310100000" name="AZOTURAN_FORTRESS_310100000" area_type="POLYGON" zone_type="SUB" priority="20" flags="14">
+    <zone mapid="310100000" name="AZOTURAN_FORTRESS_310100000" area_type="POLYGON" zone_type="SUB" priority="20"
+          flags="14">
         <points bottom="825.68066" top="1325.6807">
             <point x="-439.945" y="-310.81656"/>
             <point x="1000.51825" y="-313.2334"/>
@@ -8,7 +9,8 @@
             <point x="-432.69443" y="1356.8336"/>
         </points>
     </zone>
-    <zone mapid="310100000" name="AZOTURAN_FORTRESS_INTERIOR_1_310100000" area_type="POLYGON" zone_type="SUB" priority="9" flags="14">
+    <zone mapid="310100000" name="AZOTURAN_FORTRESS_INTERIOR_1_310100000" area_type="POLYGON" zone_type="SUB"
+          priority="9" flags="14">
         <points bottom="1031.4352" top="1051.4352">
             <point x="457.2077" y="417.47507"/>
             <point x="454.81363" y="437.60022"/>
@@ -28,7 +30,8 @@
             <point x="460.88953" y="413.68137"/>
         </points>
     </zone>
-    <zone mapid="310100000" name="AZOTURAN_FORTRESS_INTERIOR_310100000" area_type="POLYGON" zone_type="SUB" priority="12" flags="14">
+    <zone mapid="310100000" name="AZOTURAN_FORTRESS_INTERIOR_310100000" area_type="POLYGON" zone_type="SUB"
+          priority="12" flags="14">
         <points bottom="1037.981" top="1072.981">
             <point x="408.36215" y="416.76898"/>
             <point x="418.9284" y="417.82108"/>
@@ -75,7 +78,8 @@
             <point x="407.2004" y="414.91452"/>
         </points>
     </zone>
-    <zone mapid="310100000" name="AZOTURAN_FORTRESS_SUBLEVEL_1_310100000" area_type="POLYGON" zone_type="SUB" priority="8" flags="14">
+    <zone mapid="310100000" name="AZOTURAN_FORTRESS_SUBLEVEL_1_310100000" area_type="POLYGON" zone_type="SUB"
+          priority="8" flags="14">
         <points bottom="1024.7749" top="1037.7749">
             <point x="491.18707" y="399.73834"/>
             <point x="510.57236" y="400.3386"/>
@@ -83,7 +87,8 @@
             <point x="492.56824" y="424.99155"/>
         </points>
     </zone>
-    <zone mapid="310100000" name="AZOTURAN_FORTRESS_SUBLEVEL_310100000" area_type="POLYGON" zone_type="SUB" priority="5" flags="14">
+    <zone mapid="310100000" name="AZOTURAN_FORTRESS_SUBLEVEL_310100000" area_type="POLYGON" zone_type="SUB" priority="5"
+          flags="14">
         <points bottom="987.6658" top="1030.6658">
             <point x="426.80292" y="381.7128"/>
             <point x="416.61804" y="389.113"/>

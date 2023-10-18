@@ -2,7 +2,7 @@
 <zones>
     <zone mapid="140010000" name="FATEBOUND_ABBEY_140010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="50">
         <points bottom="95.739693" top="145.739693">
-			<point x="200.483902" y="239.131744"/>
+            <point x="200.483902" y="239.131744"/>
             <point x="243.530899" y="235.215439"/>
             <point x="268.509918" y="240.398941"/>
             <point x="276.692413" y="258.458252"/>

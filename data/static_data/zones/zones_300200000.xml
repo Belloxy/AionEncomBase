@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300200000" name="HAMERUNS_OFFICE_300200000" area_type="POLYGON" zone_type="SUB" priority="10" flags="4">
+    <zone mapid="300200000" name="HAMERUNS_OFFICE_300200000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="4">
         <points bottom="130.95428" top="200.95428">
             <point x="173.23476" y="250.28477"/>
             <point x="272.2898" y="249.7194"/>
@@ -24,7 +25,8 @@
             <point x="33.820194" y="104.29539"/>
         </points>
     </zone>
-    <zone mapid="300200000" name="HARAMEL_SKYLIFT_300200000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="300200000" name="HARAMEL_SKYLIFT_300200000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="4">
         <points bottom="55.893158" top="205.89316">
             <point x="275.33688" y="343.93033"/>
             <point x="345.16226" y="384.47015"/>
@@ -62,7 +64,8 @@
             <point x="357.4644" y="262.69028"/>
         </points>
     </zone>
-    <zone mapid="300200000" name="ODELLA_PROCESSING_PLANT_300200000" area_type="POLYGON" zone_type="SUB" priority="14" flags="4">
+    <zone mapid="300200000" name="ODELLA_PROCESSING_PLANT_300200000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="4">
         <points bottom="64.39965" top="144.39966">
             <point x="266.59863" y="255.27649"/>
             <point x="292.40503" y="233.73389"/>
@@ -82,7 +85,8 @@
             <point x="114.1576" y="120.83049"/>
         </points>
     </zone>
-    <zone mapid="300200000" name="ODIUM_STRIP_MINE_300200000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="300200000" name="ODIUM_STRIP_MINE_300200000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="4">
         <points bottom="116.08385" top="196.08385">
             <point x="69.41727" y="63.35978"/>
             <point x="58.71523" y="75.49252"/>

@@ -10,7 +10,8 @@
             <point x="1448.2379" y="963.3681"/>
         </points>
     </zone>
-    <zone mapid="310060000" name="SLIVER_OF_DARKNESS_310060000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="310060000" name="SLIVER_OF_DARKNESS_310060000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="4">
         <points bottom="339.80133" top="1939.8014">
             <point x="1547.5719" y="295.4935"/>
             <point x="1324.0077" y="1042.6215"/>

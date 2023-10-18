@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	[S.V.S Panesterra]
-	パンデモニウム 4.7
-	Spawn By (Encom)
- -->
 <spawns>
     <spawn_map map_id="120010000">
-		<!-- [SVS PANDAEMONIUM] -->
 		<svs_spawn id="3">
 			<svs_type pstate="SVS">
 			    <!-- Pandaemonium To Belus -->

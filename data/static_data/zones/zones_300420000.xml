@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300420000" name="ALQUIMIA_CULVERT_1_300420000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="300420000" name="ALQUIMIA_CULVERT_1_300420000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="4">
         <points bottom="5.343835" top="605.3438">
             <point x="1804.735" y="1339.8204"/>
             <point x="1807.886" y="1116.7059"/>
@@ -16,7 +17,8 @@
             <point x="2036.4231" y="857.7831"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="COLLAPSED_WIND_TOWER_2_300420000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="300420000" name="COLLAPSED_WIND_TOWER_2_300420000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="4">
         <points bottom="5.143829" top="605.1438">
             <point x="1164.3971" y="1150.5538"/>
             <point x="10.70752" y="1123.2686"/>
@@ -24,7 +26,8 @@
             <point x="1174.3522" y="2035.0754"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="DECAYED_GARDEN_1_300420000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="300420000" name="DECAYED_GARDEN_1_300420000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="4">
         <points bottom="-13.471315" top="586.5287">
             <point x="499.49652" y="427.61462"/>
             <point x="944.44037" y="426.9063"/>
@@ -180,96 +183,50 @@
             <point x="1864.0269" y="1846.8531"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="IDARENA_PVP_ITEMUSEAREA_ALL_LOSE_2" area_type="POLYGON" zone_type="ITEM_USE" flags="4">
-        <points bottom="68.69406" top="668.69403">
-            <point x="1944.8145" y="1788.6808"/>
-            <point x="1943.8145" y="1715.1808"/>
-            <point x="1922.0645" y="1651.9308"/>
-            <point x="1854.5645" y="1624.6808"/>
-            <point x="1762.3145" y="1653.1808"/>
-            <point x="1856.3145" y="1296.1808"/>
-            <point x="2003.8145" y="1297.4308"/>
-            <point x="2004.2223" y="1143.646"/>
-            <point x="1864.0985" y="1138.2714"/>
-            <point x="1868.9141" y="1022.4624"/>
-            <point x="2019.4032" y="1025.9175"/>
-            <point x="2025.9296" y="853.5461"/>
-            <point x="1873.9048" y="845.48413"/>
-            <point x="1861.62" y="1018.6234"/>
-            <point x="1398.7935" y="984.6218"/>
-            <point x="854.31445" y="348.9308"/>
-            <point x="865.31445" y="135.43079"/>
-            <point x="611.56445" y="134.93079"/>
-            <point x="510.06445" y="256.6808"/>
-            <point x="568.31445" y="442.1808"/>
-            <point x="852.31445" y="348.6808"/>
-            <point x="1398.1936" y="984.9562"/>
-            <point x="1269.8707" y="994.09796"/>
-            <point x="1268.6473" y="1152.0012"/>
-            <point x="1398.7203" y="1149.4817"/>
-            <point x="1399.2037" y="985.88184"/>
-            <point x="1867.3785" y="1021.6946"/>
-            <point x="1862.5629" y="1138.6553"/>
-            <point x="1855.0645" y="1293.9308"/>
-            <point x="1761.5645" y="1652.1808"/>
-            <point x="723.31445" y="1786.4308"/>
-            <point x="716.31445" y="1749.4308"/>
-            <point x="685.31445" y="1734.4308"/>
-            <point x="646.56445" y="1734.1808"/>
-            <point x="632.06445" y="1780.4308"/>
-            <point x="650.06445" y="1819.9308"/>
-            <point x="702.56445" y="1822.4308"/>
-            <point x="723.31445" y="1788.1808"/>
-            <point x="1760.8145" y="1653.1808"/>
-            <point x="1739.5645" y="1728.4308"/>
-            <point x="1765.5645" y="1825.9308"/>
-            <point x="1864.3145" y="1844.1808"/>
-        </points>
-    </zone>
     <zone mapid="300420000" name="IDARENA_PVP_ITEMUSEAREA_ALL_T_2" area_type="POLYGON" zone_type="ITEM_USE" flags="4">
         <points bottom="68.69406" top="668.69403">
-            <point x="1946.8048" y="1791.7507"/>
-            <point x="1945.8048" y="1718.2507"/>
-            <point x="1924.0548" y="1655.0007"/>
-            <point x="1856.5548" y="1627.7507"/>
-            <point x="1764.3048" y="1656.2507"/>
-            <point x="1858.3048" y="1299.2507"/>
-            <point x="2005.8048" y="1300.5007"/>
-            <point x="2011.6576" y="1148.3431"/>
-            <point x="1862.3202" y="1132.2194"/>
-            <point x="1858.0548" y="1017.25073"/>
-            <point x="2016.6483" y="1023.9593"/>
-            <point x="2022.7908" y="848.13275"/>
-            <point x="1879.9796" y="848.1327"/>
-            <point x="1879.9796" y="1013.97784"/>
-            <point x="1400.7838" y="987.6918"/>
-            <point x="856.3048" y="352.00073"/>
-            <point x="867.3048" y="138.50073"/>
-            <point x="613.5548" y="138.00073"/>
-            <point x="512.0548" y="259.75073"/>
-            <point x="570.3048" y="445.25073"/>
-            <point x="854.3048" y="351.75073"/>
-            <point x="1400.184" y="988.0261"/>
-            <point x="1271.8611" y="997.1679"/>
-            <point x="1270.6377" y="1155.0712"/>
-            <point x="1400.7107" y="1152.5516"/>
-            <point x="1401.1941" y="988.9518"/>
-            <point x="1856.8048" y="1017.25073"/>
-            <point x="1860.7845" y="1131.8354"/>
-            <point x="1857.0548" y="1297.0007"/>
-            <point x="1763.5548" y="1655.2507"/>
-            <point x="725.3048" y="1789.5007"/>
-            <point x="718.3048" y="1752.5007"/>
-            <point x="687.3048" y="1737.5007"/>
-            <point x="648.5548" y="1737.2507"/>
-            <point x="634.0548" y="1783.5007"/>
-            <point x="652.0548" y="1823.0007"/>
-            <point x="704.5548" y="1825.5007"/>
-            <point x="725.3048" y="1791.2507"/>
-            <point x="1762.8048" y="1656.2507"/>
-            <point x="1741.5548" y="1731.5007"/>
-            <point x="1767.5548" y="1829.0007"/>
-            <point x="1866.3048" y="1847.2507"/>
+            <point x="1943.658" y="1791.2887"/>
+            <point x="1942.658" y="1717.7887"/>
+            <point x="1920.908" y="1654.5387"/>
+            <point x="1853.408" y="1627.2887"/>
+            <point x="1761.158" y="1655.7887"/>
+            <point x="1855.158" y="1298.7887"/>
+            <point x="2002.658" y="1300.0387"/>
+            <point x="2008.5107" y="1147.8811"/>
+            <point x="1859.1733" y="1131.7573"/>
+            <point x="1854.908" y="1016.7887"/>
+            <point x="2013.5015" y="1023.49725"/>
+            <point x="2019.6439" y="847.6707"/>
+            <point x="1876.8328" y="847.67065"/>
+            <point x="1876.8328" y="1013.5158"/>
+            <point x="1397.637" y="987.22974"/>
+            <point x="853.15796" y="351.5387"/>
+            <point x="864.15796" y="138.0387"/>
+            <point x="610.40796" y="137.5387"/>
+            <point x="508.90796" y="259.2887"/>
+            <point x="567.15796" y="444.7887"/>
+            <point x="851.15796" y="351.2887"/>
+            <point x="1397.0371" y="987.5641"/>
+            <point x="1268.7142" y="996.7059"/>
+            <point x="1267.4908" y="1154.6091"/>
+            <point x="1397.5638" y="1152.0896"/>
+            <point x="1398.0472" y="988.48975"/>
+            <point x="1853.658" y="1016.7887"/>
+            <point x="1857.6377" y="1131.3734"/>
+            <point x="1853.908" y="1296.5387"/>
+            <point x="1760.408" y="1654.7887"/>
+            <point x="722.15796" y="1789.0387"/>
+            <point x="715.15796" y="1752.0387"/>
+            <point x="684.15796" y="1737.0387"/>
+            <point x="645.40796" y="1736.7887"/>
+            <point x="630.90796" y="1783.0387"/>
+            <point x="648.90796" y="1822.5387"/>
+            <point x="701.40796" y="1825.0387"/>
+            <point x="722.15796" y="1790.7887"/>
+            <point x="1759.658" y="1655.7887"/>
+            <point x="1738.408" y="1731.0387"/>
+            <point x="1764.408" y="1828.5387"/>
+            <point x="1863.158" y="1846.7887"/>
         </points>
     </zone>
     <zone mapid="300420000" name="MUMU_FARM_300420000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
@@ -280,7 +237,8 @@
             <point x="1279.0183" y="748.0903"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="PLAZA_OF_STRUGGLE_1_300420000" area_type="POLYGON" zone_type="SUB" priority="16" flags="4">
+    <zone mapid="300420000" name="PLAZA_OF_STRUGGLE_1_300420000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="4">
         <points bottom="1.872734" top="1001.87274">
             <point x="2034.7129" y="1453.1599"/>
             <point x="2027.9946" y="2047.0404"/>
@@ -288,7 +246,7 @@
             <point x="1262.1671" y="1460.8949"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="PVP_152_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300420000" name="PVP_59_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="282.1" top="332.1">
             <point x="1785.0" y="1675.0"/>
             <point x="1785.0" y="1791.0"/>
@@ -296,7 +254,7 @@
             <point x="1895.0" y="1675.0"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="PVP_153_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300420000" name="PVP_60_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="213.1" top="263.1">
             <point x="1884.0" y="855.0"/>
             <point x="1884.0" y="1013.0"/>
@@ -304,7 +262,7 @@
             <point x="2016.0" y="855.0"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="PVP_154_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300420000" name="PVP_61_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="474.09998" top="524.1">
             <point x="603.0" y="222.0"/>
             <point x="603.0" y="315.0"/>
@@ -312,7 +270,7 @@
             <point x="707.0" y="222.0"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="PVP_155_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300420000" name="PVP_62_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="139.1" top="239.1">
             <point x="623.0" y="1714.0"/>
             <point x="623.0" y="1830.0"/>
@@ -320,7 +278,7 @@
             <point x="733.0" y="1714.0"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="PVP_156_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300420000" name="PVP_63_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="264.1" top="314.1">
             <point x="1866.0" y="1152.0"/>
             <point x="1867.0" y="1290.0"/>
@@ -328,7 +286,7 @@
             <point x="1998.0" y="1152.0"/>
         </points>
     </zone>
-    <zone mapid="300420000" name="PVP_157_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300420000" name="PVP_64_300420000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="312.1" top="362.1">
             <point x="1269.0" y="1002.0"/>
             <point x="1270.0" y="1140.0"/>

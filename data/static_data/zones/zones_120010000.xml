@@ -18,7 +18,8 @@
             <point x="1088.9097" y="1063.0747"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="APELLBINE_TAVERN_120010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="120010000" name="APELLBINE_TAVERN_120010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1375.3" y="1175.81"/>
             <point x="1375.3" y="1189.7357"/>
@@ -30,7 +31,8 @@
             <point x="1406.4453" y="1175.81"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="CAPITOL_BUILDING_120010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="120010000" name="CAPITOL_BUILDING_120010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1224.22" y="1149.18"/>
             <point x="1224.22" y="1244.1437"/>
@@ -42,7 +44,8 @@
             <point x="1325.8774" y="1148.7819"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="CRANDALE_DISTRICT_120010000" area_type="POLYGON" zone_type="SUB" priority="20" flags="54">
+    <zone mapid="120010000" name="CRANDALE_DISTRICT_120010000" area_type="POLYGON" zone_type="SUB" priority="20"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1095.23" y="1168.22"/>
             <point x="1091.8505" y="1186.8665"/>
@@ -216,7 +219,8 @@
             <point x="1392.1279" y="1387.7946"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="PANDAEMONIUM_PLAZA_120010000" area_type="POLYGON" zone_type="SUB" priority="18" flags="54">
+    <zone mapid="120010000" name="PANDAEMONIUM_PLAZA_120010000" area_type="POLYGON" zone_type="SUB" priority="18"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1105.26" y="1251.01"/>
             <point x="1105.0304" y="1315.407"/>
@@ -279,7 +283,8 @@
             <point x="1123.347" y="1251.0524"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="PROSPERITY_ROAD_120010000" area_type="POLYGON" zone_type="SUB" priority="20" flags="54">
+    <zone mapid="120010000" name="PROSPERITY_ROAD_120010000" area_type="POLYGON" zone_type="SUB" priority="20"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="933.42" y="1378.33"/>
             <point x="924.573" y="1382.1979"/>
@@ -335,7 +340,8 @@
             <point x="1172.1786" y="1299.0237"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="TEMPLE_OF_ARTISANS_120010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="120010000" name="TEMPLE_OF_ARTISANS_120010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1226.07" y="1448.15"/>
             <point x="1220.7723" y="1461.8328"/>
@@ -359,7 +365,8 @@
             <point x="1240.9379" y="1453.622"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="TEMPLE_OF_GOLD_120010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="120010000" name="TEMPLE_OF_GOLD_120010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1329.6" y="1435.65"/>
             <point x="1317.1807" y="1441.1239"/>
@@ -389,7 +396,8 @@
             <point x="1343.1602" y="1437.0394"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="TEMPLE_OF_KNOWLEDGE_120010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="120010000" name="TEMPLE_OF_KNOWLEDGE_120010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1325.26" y="1022.05"/>
             <point x="1325.4037" y="1089.4753"/>
@@ -401,7 +409,8 @@
             <point x="1411.9707" y="1021.82526"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="TRINIEL_COLISEUM_120010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="120010000" name="TRINIEL_COLISEUM_120010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="1031.1" y="1495.78"/>
             <point x="1008.0907" y="1518.8827"/>
@@ -419,7 +428,8 @@
             <point x="1039.275" y="1503.5939"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="VANAHAL_BOUTIQUE_120010000" area_type="POLYGON" zone_type="SUB" priority="15" flags="54">
+    <zone mapid="120010000" name="VANAHAL_BOUTIQUE_120010000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="54">
         <points bottom="0.1" top="300.1">
             <point x="804.19" y="1418.48"/>
             <point x="834.00525" y="1388.9541"/>
@@ -431,7 +441,8 @@
             <point x="840.3736" y="1455.6768"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="VANAHAL_DISTRICT_120010000" area_type="POLYGON" zone_type="SUB" priority="16" flags="54">
+    <zone mapid="120010000" name="VANAHAL_DISTRICT_120010000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="54">
         <points bottom="0.0" top="300.0">
             <point x="841.07" y="1321.07"/>
             <point x="797.2962" y="1277.0671"/>
@@ -455,7 +466,8 @@
             <point x="851.3634" y="1310.7753"/>
         </points>
     </zone>
-    <zone mapid="120010000" name="VIFROST_BRIDGE_120010000" area_type="POLYGON" zone_type="SUB" priority="18" flags="54">
+    <zone mapid="120010000" name="VIFROST_BRIDGE_120010000" area_type="POLYGON" zone_type="SUB" priority="18"
+          flags="54">
         <points bottom="180.0" top="480.0">
             <point x="1455.16" y="1392.64"/>
             <point x="1455.3835" y="1409.1573"/>

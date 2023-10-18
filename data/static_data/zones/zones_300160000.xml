@@ -8,7 +8,8 @@
             <point x="531.0493" y="1326.4752"/>
         </points>
     </zone>
-    <zone mapid="300160000" name="BREECHING_TUNNEL_300160000" area_type="POLYGON" zone_type="SUB" priority="1" flags="0">
+    <zone mapid="300160000" name="BREECHING_TUNNEL_300160000" area_type="POLYGON" zone_type="SUB" priority="1"
+          flags="0">
         <points bottom="50.0" top="350.0">
             <point x="1010.2245" y="880.0815"/>
             <point x="1099.387" y="743.5522"/>
@@ -20,7 +21,8 @@
             <point x="1175.4661" y="1240.8223"/>
         </points>
     </zone>
-    <zone mapid="300160000" name="DEBILKARIMS_FORGE_300160000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
+    <zone mapid="300160000" name="DEBILKARIMS_FORGE_300160000" area_type="POLYGON" zone_type="SUB" priority="3"
+          flags="0">
         <points bottom="50.000004" top="350.0">
             <point x="529.43054" y="1484.9993"/>
             <point x="529.07336" y="1116.0074"/>
@@ -104,7 +106,8 @@
             <point x="995.564" y="748.02295"/>
         </points>
     </zone>
-    <zone mapid="300160000" name="LOWER_UDAS_TEMPLE_300160000" area_type="POLYGON" zone_type="SUB" priority="5" flags="0">
+    <zone mapid="300160000" name="LOWER_UDAS_TEMPLE_300160000" area_type="POLYGON" zone_type="SUB" priority="5"
+          flags="0">
         <points bottom="50.0" top="350.0">
             <point x="365.62488" y="195.3496"/>
             <point x="1677.5319" y="192.19116"/>

@@ -44,7 +44,8 @@
             <point x="522.98975" y="816.10846"/>
         </points>
     </zone>
-    <zone mapid="300210000" name="CHANTRA_DREDGION_300210000" area_type="POLYGON" zone_type="SUB" priority="5" flags="0">
+    <zone mapid="300210000" name="CHANTRA_DREDGION_300210000" area_type="POLYGON" zone_type="SUB" priority="5"
+          flags="0">
         <points bottom="200.0" top="700.0">
             <point x="863.6485" y="808.6563"/>
             <point x="721.5655" y="-469.59915"/>
@@ -114,18 +115,15 @@
     </zone>
     <zone mapid="300210000" name="IDDREADGION_02_ITEMUSEAREA_Q3722" area_type="POLYGON" zone_type="ITEM_USE" flags="0">
         <points bottom="135.038" top="635.03796">
+            <point x="261.36862" y="218.55266"/>
             <point x="389.3857" y="201.912"/>
             <point x="429.8653" y="173.03"/>
             <point x="538.2965" y="171.23274"/>
             <point x="580.65985" y="201.9273"/>
-            <point x="676.18884" y="231.43631"/>
-            <point x="676.3136" y="352.65454"/>
-            <point x="691.0485" y="376.42337"/>
-            <point x="690.9602" y="435.4633"/>
-            <point x="669.4296" y="471.6482"/>
-            <point x="667.9494" y="1045.0885"/>
-            <point x="265.36572" y="1045.3054"/>
-            <point x="262.55667" y="258.5301"/>
+            <point x="766.90125" y="223.5029"/>
+            <point x="760.445" y="1081.8268"/>
+            <point x="219.55194" y="1070.306"/>
+            <point x="216.63052" y="234.09247"/>
         </points>
     </zone>
     <zone mapid="300210000" name="LOADING_ZONE_300210000" area_type="POLYGON" zone_type="SUB" priority="3" flags="0">
@@ -140,7 +138,8 @@
             <point x="362.59085" y="166.66463"/>
         </points>
     </zone>
-    <zone mapid="300210000" name="LOGISTICS_MANAGEMENT_300210000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
+    <zone mapid="300210000" name="LOGISTICS_MANAGEMENT_300210000" area_type="POLYGON" zone_type="SUB" priority="2"
+          flags="0">
         <points bottom="200.0" top="600.0">
             <point x="413.01" y="720.66"/>
             <point x="390.02072" y="734.3202"/>
@@ -150,7 +149,8 @@
             <point x="417.00818" y="696.0048"/>
         </points>
     </zone>
-    <zone mapid="300210000" name="LOGISTICS_STORAGE_300210000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
+    <zone mapid="300210000" name="LOGISTICS_STORAGE_300210000" area_type="POLYGON" zone_type="SUB" priority="2"
+          flags="0">
         <points bottom="200.0" top="600.0">
             <point x="602.43" y="718.06"/>
             <point x="581.9337" y="733.396"/>
@@ -160,7 +160,8 @@
             <point x="595.594" y="688.7502"/>
         </points>
     </zone>
-    <zone mapid="300210000" name="LOWER_WEAPONS_DECK_300210000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
+    <zone mapid="300210000" name="LOWER_WEAPONS_DECK_300210000" area_type="POLYGON" zone_type="SUB" priority="2"
+          flags="0">
         <points bottom="200.00002" top="600.0">
             <point x="638.32654" y="543.6739"/>
             <point x="611.8034" y="540.3823"/>
@@ -204,7 +205,8 @@
             <point x="549.352" y="530.13184"/>
         </points>
     </zone>
-    <zone mapid="300210000" name="SECONDARY_ESCAPE_HATCH_300210000" area_type="POLYGON" zone_type="SUB" priority="2" flags="0">
+    <zone mapid="300210000" name="SECONDARY_ESCAPE_HATCH_300210000" area_type="POLYGON" zone_type="SUB" priority="2"
+          flags="0">
         <points bottom="200.0" top="600.0">
             <point x="602.6526" y="162.92169"/>
             <point x="577.2408" y="197.62578"/>

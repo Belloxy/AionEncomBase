@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="220030000" name="ALTAR_OF_TIAMAT_220030000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="220030000" name="ALTAR_OF_TIAMAT_220030000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1505.31" y="869.57"/>
             <point x="1561.2357" y="833.33655"/>
@@ -12,7 +13,8 @@
             <point x="1498.6147" y="873.5084"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ALTGARD_EAST_GATE_220030000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220030000" name="ALTGARD_EAST_GATE_220030000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="116.79535" top="916.79535">
             <point x="1678.5437" y="2022.0355"/>
             <point x="1666.3633" y="2066.911"/>
@@ -24,7 +26,8 @@
             <point x="1679.4617" y="2021.0233"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ALTGARD_FORTRESS_220030000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220030000" name="ALTGARD_FORTRESS_220030000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="-20.0" top="780.0">
             <point x="1519.6198" y="1825.1958"/>
             <point x="1538.5042" y="1720.7122"/>
@@ -42,7 +45,8 @@
             <point x="1539.454" y="1921.1306"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ALTGARD_FORTRESS_DUNGEON_220030000" area_type="POLYGON" zone_type="SUB" priority="9" flags="55">
+    <zone mapid="220030000" name="ALTGARD_FORTRESS_DUNGEON_220030000" area_type="POLYGON" zone_type="SUB" priority="9"
+          flags="55">
         <points bottom="190.0" top="248.0">
             <point x="1650.8063" y="1727.3907"/>
             <point x="1631.8492" y="1751.1804"/>
@@ -58,7 +62,8 @@
             <point x="1664.3706" y="1715.9207"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ALTGARD_FORTRESS_DUNGEON_ENTRANCE_220030000" area_type="POLYGON" zone_type="SUB" priority="8" flags="55">
+    <zone mapid="220030000" name="ALTGARD_FORTRESS_DUNGEON_ENTRANCE_220030000" area_type="POLYGON" zone_type="SUB"
+          priority="8" flags="55">
         <points bottom="235.0" top="265.0">
             <point x="1615.54" y="1699.86"/>
             <point x="1625.5676" y="1721.8141"/>
@@ -79,7 +84,8 @@
             <point x="1582.692" y="1716.4521"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ALTGARD_ICE_LAKE_220030000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="220030000" name="ALTGARD_ICE_LAKE_220030000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1293.794" y="1624.4866"/>
             <point x="1390.2067" y="2053.0137"/>
@@ -98,7 +104,8 @@
             <point x="1308.1768" y="1585.2762"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ALTGARD_OBSERVATORY_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="ALTGARD_OBSERVATORY_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="30.0" top="830.0">
             <point x="1433.87" y="2521.53"/>
             <point x="1457.2177" y="2504.0806"/>
@@ -110,7 +117,8 @@
             <point x="1427.9717" y="2535.7844"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="BASFELT_HUNTING_GROUND_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="BASFELT_HUNTING_GROUND_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="65.01" top="565.01">
             <point x="1279.3" y="704.03"/>
             <point x="1334.7728" y="783.3621"/>
@@ -127,7 +135,8 @@
             <point x="1257.2869" y="626.4037"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="BASFELT_VILLAGE_220030000" area_type="POLYGON" zone_type="SUB" priority="13" flags="55">
+    <zone mapid="220030000" name="BASFELT_VILLAGE_220030000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1957.82" y="707.02"/>
             <point x="1974.3597" y="709.9388"/>
@@ -151,7 +160,8 @@
             <point x="1951.1235" y="690.8815"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="BLACK_CLAW_OUTPOST_220030000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="220030000" name="BLACK_CLAW_OUTPOST_220030000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1732.63" y="2327.26"/>
             <point x="1774.8416" y="2227.859"/>
@@ -167,7 +177,8 @@
             <point x="1760.2051" y="2372.1338"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="BLACK_CLAW_VILLAGE_220030000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220030000" name="BLACK_CLAW_VILLAGE_220030000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="2403.5654" y="1875.3002"/>
             <point x="2183.97" y="2084.0327"/>
@@ -303,7 +314,8 @@
             <point x="1426.0955" y="1908.7352"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="GERGER_VILLAGE_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="GERGER_VILLAGE_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="2322.31" y="820.5"/>
             <point x="2328.2927" y="804.2611"/>
@@ -319,7 +331,8 @@
             <point x="2291.1143" y="842.2943"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="GRAVE_ROBBERS_DEN_220030000" area_type="POLYGON" zone_type="SUB" priority="10" flags="55">
+    <zone mapid="220030000" name="GRAVE_ROBBERS_DEN_220030000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1271.776" y="449.87946"/>
             <point x="1320.596" y="418.52625"/>
@@ -334,7 +347,8 @@
             <point x="1253.8787" y="509.75006"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="GRIBADE_CANYON_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="GRIBADE_CANYON_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1849.4727" y="628.7504"/>
             <point x="1926.169" y="474.37622"/>
@@ -351,7 +365,8 @@
             <point x="1871.6404" y="662.5565"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="GRIBADE_CRATER_LAKE_220030000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
+    <zone mapid="220030000" name="GRIBADE_CRATER_LAKE_220030000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="2205.1248" y="821.887"/>
             <point x="2398.4236" y="674.9611"/>
@@ -364,7 +379,8 @@
             <point x="2257.7576" y="1018.81287"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="GUNMARSONS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="15" flags="55">
+    <zone mapid="220030000" name="GUNMARSONS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="15"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1603.52" y="747.56"/>
             <point x="1616.747" y="739.0903"/>
@@ -377,7 +393,11 @@
             <point x="1599.5199" y="753.1056"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="HEART_OF_IMPETUSIUM_220030000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220030000" name="HARAMEL_SECRET_ENTRANCE_220030000" area_type="SPHERE" zone_type="SUB" priority="14" flags="55">
+        <sphere x="2906.4685" y="1469.8403" z="252.59264" r="15"/>
+    </zone>
+    <zone mapid="220030000" name="HEART_OF_IMPETUSIUM_220030000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="2551.16" y="1643.388"/>
             <point x="2591.8523" y="1599.9828"/>
@@ -425,7 +445,8 @@
             <point x="2543.6228" y="1336.3977"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="KAIBECHS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="KAIBECHS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1186.68" y="977.58"/>
             <point x="1193.5717" y="971.6228"/>
@@ -438,7 +459,8 @@
             <point x="1185.0448" y="996.3859"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="KARLS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220030000" name="KARLS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1734.3326" y="891.2826"/>
             <point x="1751.0875" y="885.556"/>
@@ -447,7 +469,8 @@
             <point x="1735.0105" y="908.8392"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="LEPHARIST_ENCAMPMENT_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="LEPHARIST_ENCAMPMENT_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1718.65" y="2581.89"/>
             <point x="1701.8588" y="2586.0142"/>
@@ -461,7 +484,8 @@
             <point x="1731.9064" y="2582.7737"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="MAHINDEL_SWAMP_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="MAHINDEL_SWAMP_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1417.9827" y="2104.41"/>
             <point x="1379.4125" y="2231.4255"/>
@@ -478,7 +502,8 @@
             <point x="1442.8126" y="2086.53"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="MANIRS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="16" flags="55">
+    <zone mapid="220030000" name="MANIRS_CAMPSITE_220030000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1459.2468" y="1158.3136"/>
             <point x="1475.201" y="1179.048"/>
@@ -503,7 +528,8 @@
             <point x="1138.8722" y="1047.8859"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="MOSBEAR_HABITAT_220030000" area_type="POLYGON" zone_type="SUB" priority="17" flags="55">
+    <zone mapid="220030000" name="MOSBEAR_HABITAT_220030000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="55">
         <points bottom="50.0" top="550.0">
             <point x="1107.97" y="888.52"/>
             <point x="1142.6265" y="1050.6644"/>
@@ -518,7 +544,8 @@
             <point x="1142.3875" y="839.6306"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="MOSLAN_CROSSROAD_220030000" area_type="POLYGON" zone_type="SUB" priority="14" flags="55">
+    <zone mapid="220030000" name="MOSLAN_CROSSROAD_220030000" area_type="POLYGON" zone_type="SUB" priority="14"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="1595.2056" y="1429.1559"/>
             <point x="1613.826" y="1413.2698"/>
@@ -631,7 +658,8 @@
             <point x="1239.4279" y="290.1281"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ROAD_TO_MORHEIM_220030000" area_type="POLYGON" zone_type="SUB" priority="13" flags="55">
+    <zone mapid="220030000" name="ROAD_TO_MORHEIM_220030000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="55">
         <points bottom="50.0" top="650.0">
             <point x="2837.29" y="1281.0"/>
             <point x="2926.7368" y="1356.7876"/>
@@ -671,7 +699,8 @@
             <point x="2638.9238" y="998.9103"/>
         </points>
     </zone>
-    <zone mapid="220030000" name="ZEMURRUS_GRAVE_220030000" area_type="POLYGON" zone_type="SUB" priority="13" flags="55">
+    <zone mapid="220030000" name="ZEMURRUS_GRAVE_220030000" area_type="POLYGON" zone_type="SUB" priority="13"
+          flags="55">
         <points bottom="50.0" top="850.0">
             <point x="2421.61" y="2479.68"/>
             <point x="2448.7178" y="2421.9663"/>

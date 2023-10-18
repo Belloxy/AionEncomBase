@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-	Made by (Encom)
- -->
+<!-- parsed by Ione542 Development at 2018-04-26 09:05 --> 
 <skill_skins xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<skill_skin id="1" name="Skill Skin test" skill_group="Ar_SongofFire" motion_name="SongGravity01" ammo_speed="30"/>
 	<skill_skin id="2" name="Skill Skin test 3" skill_group="Ar_SongofCold" motion_name="Shockattack01" ammo_speed="30"/>

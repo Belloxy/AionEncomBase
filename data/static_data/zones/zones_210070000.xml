@@ -492,4 +492,12 @@
             <point x="1540.762329" y="1339.738770"/>
         </points>
     </zone>
+    <zone mapid="210070000" name="LF5_ItemUseArea_Q10502" area_type="POLYGON" zone_type="SUB" flags="55">
+        <points bottom="553.353027" top="653.353027">
+            <point x="855.761353" y="693.922974"/>
+            <point x="853.232849" y="652.253235"/>
+            <point x="912.619202" y="649.531189"/>
+            <point x="915.968079" y="688.387085"/>
+        </points>
+    </zone>
 </zones>

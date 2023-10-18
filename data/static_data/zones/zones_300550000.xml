@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="300550000" name="ALQUIMIA_CULVERT_300550000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="300550000" name="ALQUIMIA_CULVERT_300550000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="227.58298" top="827.58295">
             <point x="1265.7256" y="1535.1422"/>
             <point x="2067.8494" y="1526.248"/>
@@ -8,7 +9,8 @@
             <point x="1278.4932" y="2021.4073"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="ANCIENT_SANDY_SHRINE_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="300550000" name="ANCIENT_SANDY_SHRINE_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="230.18112" top="830.18115">
             <point x="84.10742" y="858.96704"/>
             <point x="811.46893" y="864.3354"/>
@@ -16,7 +18,8 @@
             <point x="83.237" y="1393.9214"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="COLLAPSED_WIND_TOWER_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="300550000" name="COLLAPSED_WIND_TOWER_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="35.530533" top="835.5305">
             <point x="88.281006" y="1564.3932"/>
             <point x="1008.445" y="1557.8458"/>
@@ -172,7 +175,7 @@
             <point x="747.4728" y="1893.1476"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="PVP_128_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300550000" name="PVP_53_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="365.53336" top="565.5334">
             <point x="419.51932" y="1060.4325"/>
             <point x="575.31726" y="1060.0818"/>
@@ -180,7 +183,7 @@
             <point x="413.92386" y="1216.6392"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="PVP_129_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300550000" name="PVP_54_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="161.599" top="261.599">
             <point x="591.29266" y="1766.8097"/>
             <point x="749.934" y="1764.7252"/>
@@ -188,7 +191,7 @@
             <point x="591.0418" y="1882.8094"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="PVP_130_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300550000" name="PVP_55_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="487.78845" top="687.78845">
             <point x="1569.0826" y="208.12299"/>
             <point x="1658.2844" y="204.8349"/>
@@ -196,7 +199,7 @@
             <point x="1565.7599" y="307.74316"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="PVP_131_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300550000" name="PVP_56_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="225.23505" top="425.23505">
             <point x="1615.9948" y="1581.7758"/>
             <point x="1925.8147" y="1583.4159"/>
@@ -204,7 +207,7 @@
             <point x="1620.6115" y="1882.1802"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="PVP_132_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300550000" name="PVP_57_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="306.59592" top="406.59592">
             <point x="1825.9872" y="1081.2903"/>
             <point x="1898.1218" y="1081.2462"/>
@@ -212,7 +215,7 @@
             <point x="1823.9742" y="1184.7445"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="PVP_133_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
+    <zone mapid="300550000" name="PVP_58_300550000" area_type="POLYGON" zone_type="PVP" flags="64">
         <points bottom="140.42245" top="340.42245">
             <point x="418.2469" y="307.44772"/>
             <point x="578.5336" y="304.09976"/>
@@ -220,7 +223,8 @@
             <point x="421.95944" y="467.61203"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="RED_SAND_ARENA_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="300550000" name="RED_SAND_ARENA_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="157.97813" top="857.97815">
             <point x="1253.4924" y="774.48596"/>
             <point x="2188.6196" y="771.42004"/>
@@ -228,7 +232,8 @@
             <point x="1250.4263" y="1427.542"/>
         </points>
     </zone>
-    <zone mapid="300550000" name="TREPONE_FLOATING_TOWER_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17" flags="4">
+    <zone mapid="300550000" name="TREPONE_FLOATING_TOWER_1_300550000" area_type="POLYGON" zone_type="SUB" priority="17"
+          flags="4">
         <points bottom="16.5" top="616.5">
             <point x="15.807068" y="-9.01104"/>
             <point x="954.3092" y="-0.346245"/>

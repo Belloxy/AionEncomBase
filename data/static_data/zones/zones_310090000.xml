@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <zones>
-    <zone mapid="310090000" name="INDRATU_FORTRESS_310090000" area_type="POLYGON" zone_type="SUB" priority="16" flags="2">
+    <zone mapid="310090000" name="INDRATU_FORTRESS_310090000" area_type="POLYGON" zone_type="SUB" priority="16"
+          flags="2">
         <points bottom="878.54895" top="1108.549">
             <point x="519.74" y="298.1786"/>
             <point x="619.1944" y="237.6217"/>
@@ -25,7 +26,8 @@
             <point x="389.3998" y="360.93683"/>
         </points>
     </zone>
-    <zone mapid="310090000" name="INDRATU_FORTRESS_INTERIOR_310090000" area_type="POLYGON" zone_type="SUB" priority="10" flags="2">
+    <zone mapid="310090000" name="INDRATU_FORTRESS_INTERIOR_310090000" area_type="POLYGON" zone_type="SUB" priority="10"
+          flags="2">
         <points bottom="1005.5311" top="1055.5311">
             <point x="513.3436" y="486.9205"/>
             <point x="531.98566" y="496.2503"/>
@@ -43,7 +45,8 @@
             <point x="500.2199" y="479.66342"/>
         </points>
     </zone>
-    <zone mapid="310090000" name="INDRATU_FORTRESS_SUBLEVEL_1_310090000" area_type="POLYGON" zone_type="SUB" priority="5" flags="2">
+    <zone mapid="310090000" name="INDRATU_FORTRESS_SUBLEVEL_1_310090000" area_type="POLYGON" zone_type="SUB"
+          priority="5" flags="2">
         <points bottom="1003.8745" top="1013.8745">
             <point x="502.5548" y="547.22833"/>
             <point x="516.365" y="554.7474"/>
@@ -51,7 +54,8 @@
             <point x="496.37213" y="561.30865"/>
         </points>
     </zone>
-    <zone mapid="310090000" name="INDRATU_FORTRESS_SUBLEVEL_2_310090000" area_type="POLYGON" zone_type="SUB" priority="5" flags="2">
+    <zone mapid="310090000" name="INDRATU_FORTRESS_SUBLEVEL_2_310090000" area_type="POLYGON" zone_type="SUB"
+          priority="5" flags="2">
         <points bottom="962.3919" top="1005.3919">
             <point x="455.41818" y="526.91565"/>
             <point x="452.75644" y="507.51437"/>
@@ -73,7 +77,8 @@
             <point x="479.10648" y="559.91724"/>
         </points>
     </zone>
-    <zone mapid="310090000" name="INDRATU_FORTRESS_SUBLEVEL_310090000" area_type="POLYGON" zone_type="SUB" priority="5" flags="2">
+    <zone mapid="310090000" name="INDRATU_FORTRESS_SUBLEVEL_310090000" area_type="POLYGON" zone_type="SUB" priority="5"
+          flags="2">
         <points bottom="1003.2444" top="1013.2444">
             <point x="472.8953" y="532.8026"/>
             <point x="487.3165" y="539.0122"/>
