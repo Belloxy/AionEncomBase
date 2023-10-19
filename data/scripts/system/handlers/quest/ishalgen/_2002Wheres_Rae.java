@@ -145,7 +145,7 @@ public class _2002Wheres_Rae extends QuestHandler {
                                 // Create instance
                                 WorldMapInstance newInstance = InstanceService.getNextAvailableInstance(320010000);
                                 InstanceService.registerPlayerWithInstance(newInstance, player);
-                                TeleportService2.teleportTo(player, 320010000, newInstance.getInstanceId(), 457.65f, 426.8f, 230.4f);
+                                TeleportService2.teleportTo(player, 320010000, newInstance.getInstanceId(), 457.65f, 426.8f, 230.4f, (byte) 75);
                                 return true;
                             }
                         case CHECK_COLLECTED_ITEMS:
