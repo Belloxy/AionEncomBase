@@ -271,7 +271,7 @@
 		</spawn>
 		<!-- Skuld ||| Skuld -->
 		<spawn npc_id="203546" respawn_time="295">
-			<spot x="1108.5421" y="1728.2675" z="268.94424" h="60"/>
+			<spot h="56" z="270.0326" y="1707.8242" x="1107.7393"/>
 		</spawn>
 		<!-- Delle ||| Erre -->
 		<spawn npc_id="203547" respawn_time="295">
