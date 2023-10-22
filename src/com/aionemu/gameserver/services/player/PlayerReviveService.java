@@ -47,6 +47,7 @@ import com.aionemu.gameserver.world.knownlist.Visitor;
 
 public class PlayerReviveService {
 	public static final void duelRevive(Player player) {
+		System.out.println("REVIVE DEBUG : DUEL REVIVE");
 		revive(player, 25, 25, false, 0);
 		player.getController().startProtectionActiveTask();
 		player.setPortAnimation(4);
@@ -59,6 +60,7 @@ public class PlayerReviveService {
 	}
 
 	public static final void skillRevive(Player player) {
+		System.out.println("REVIVE DEBUG : SKILL REVIVE");
 		revive(player, 25, 25, true, player.getResurrectionSkill());
 		player.getController().startProtectionActiveTask();
 		player.setPortAnimation(4);
@@ -83,6 +85,7 @@ public class PlayerReviveService {
 	}
 
 	public static final void rebirthRevive(Player player) {
+		System.out.println("REVIVE DEBUG : REBIRTH REVIVE");
 		if (!player.canUseRebirthRevive()) {
 			return;
 		}
@@ -119,6 +122,7 @@ public class PlayerReviveService {
 	}
 
 	public static final void bindRevive(Player player, int skillId) {
+		System.out.println("REVIVE DEBUG : BIND REVIVE");
 		revive(player, 25, 25, true, skillId);
 		player.getController().startProtectionActiveTask();
 		player.setPortAnimation(4);
@@ -181,10 +185,13 @@ public class PlayerReviveService {
 	}
 
 	public static final void instanceRevive(Player player, int skillId) {
+		System.out.println("REVIVE DEBUG : INSTANCE REVIVE");
+
 		if (player.getPosition().getWorldMapInstance().getInstanceHandler().onReviveEvent(player)) {
 			return;
 		}
 		WorldMap map = World.getInstance().getWorldMap(player.getWorldId());
+		System.out.println("REVIVE DEBUG : GETTING MAP : " + map.getMapId());
 		if (map == null) {
 			bindRevive(player);
 			return;
@@ -198,6 +205,8 @@ public class PlayerReviveService {
 		PacketSendUtility.sendPacket(player,
 				new SM_MOTION(player.getObjectId(), player.getMotions().getActiveMotions()));
 		InstanceReviveStartPoints revivePoint = TeleportService2.getReviveInstanceStartPoints(map.getMapId());
+		System.out.println("REVIVE DEBUG : INSTANCE HAS REVIVE POINT : " + (revivePoint != null));
+
 		if (map.isInstanceType() && revivePoint != null) {
 			TeleportService2.teleportTo(player, revivePoint.getReviveWorld(), revivePoint.getX(), revivePoint.getY(),
 					revivePoint.getZ(), revivePoint.getH());
