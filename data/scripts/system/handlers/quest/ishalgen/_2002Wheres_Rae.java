@@ -20,6 +20,7 @@ import com.aionemu.gameserver.model.EmotionType;
 import com.aionemu.gameserver.model.gameobjects.Npc;
 import com.aionemu.gameserver.model.gameobjects.player.Player;
 import com.aionemu.gameserver.model.gameobjects.state.CreatureState;
+import com.aionemu.gameserver.model.TeleportAnimation;
 import com.aionemu.gameserver.network.aion.serverpackets.SM_DIALOG_WINDOW;
 import com.aionemu.gameserver.network.aion.serverpackets.SM_EMOTION;
 import com.aionemu.gameserver.questEngine.handlers.QuestHandler;
@@ -143,9 +144,10 @@ public class _2002Wheres_Rae extends QuestHandler {
                                 updateQuestStatus(env);
                                 PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 0));
                                 // Create instance
+								System.out.println("TP DEBUG : CREATING ATAXIAR INSTANCE");	
                                 WorldMapInstance newInstance = InstanceService.getNextAvailableInstance(320010000);
                                 InstanceService.registerPlayerWithInstance(newInstance, player);
-                                TeleportService2.teleportTo(player, 320010000, newInstance.getInstanceId(), 457.65f, 426.8f, 230.4f, (byte) 75, TeleportAnimation.BEAM_ANIMATION);
+                                TeleportService2.teleportTo(player, 320010000, newInstance.getInstanceId(), 457.65f, 426.8f, 230.4f, (byte) 75, TeleportAnimation.FIRE_ANIMATION);
                                 return true;
                             }
                         case CHECK_COLLECTED_ITEMS:

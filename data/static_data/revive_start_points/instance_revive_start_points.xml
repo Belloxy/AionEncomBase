@@ -165,9 +165,9 @@
 	<!-- Divine Tower L -->
 	<instance_revive_start_point world_id="310160000" name="" x="79.03465" y="207.17049" z="419.29254" h="4"/>
 	<!-- Ataxiar A [Quest] -->
-	<instance_revive_start_point world_id="320010000" name="" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<instance_revive_start_point world_id="320010000" name="" x="457.65" y="426.8" z="230.4" h="75"/>
 	<!-- Ataxiar B [Quest] -->
-	<instance_revive_start_point world_id="320020000" name="" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<instance_revive_start_point world_id="320020000" name="" x="457.65" y="426.8" z="230.4" h="75"/>
 	<!-- Bregirun [Quest] -->
 	<instance_revive_start_point world_id="320030000" name="" x="274.2" y="171.7" z="204.3" h="0"/>
 	<!-- Nidalber [Quest] -->

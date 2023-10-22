@@ -18,6 +18,7 @@ package com.aionemu.gameserver.services.player;
 
 import com.aionemu.gameserver.configs.administration.AdminConfig;
 import com.aionemu.gameserver.model.EmotionType;
+import com.aionemu.gameserver.model.TeleportAnimation;
 import com.aionemu.gameserver.model.gameobjects.Item;
 import com.aionemu.gameserver.model.gameobjects.Kisk;
 import com.aionemu.gameserver.model.gameobjects.VisibleObject;
@@ -204,12 +205,19 @@ public class PlayerReviveService {
 		PacketSendUtility.sendPacket(player, new SM_PLAYER_INFO(player, false));
 		PacketSendUtility.sendPacket(player,
 				new SM_MOTION(player.getObjectId(), player.getMotions().getActiveMotions()));
-		InstanceReviveStartPoints revivePoint = TeleportService2.getReviveInstanceStartPoints(map.getMapId());
-		System.out.println("REVIVE DEBUG : INSTANCE HAS REVIVE POINT : " + (revivePoint != null));
+		if (map.isInstanceType()) {
+			InstanceReviveStartPoints revivePoint = TeleportService2.getReviveInstanceStartPoints(map.getMapId());
+			System.out.println("REVIVE DEBUG : IS INSTANCE : " + map.isInstanceType());
+			System.out.println("REVIVE DEBUG : INSTANCE HAS REVIVE POINT : " + (revivePoint != null));
+			System.out.println("REVIVE DEBUG : INSTANCE POS :");
+			System.out.println(".......... World : " + revivePoint.getReviveWorld());
+			System.out.println(".......... X : " + revivePoint.getX());
+			System.out.println(".......... Y : " + revivePoint.getY());
+			System.out.println(".......... Z : " + revivePoint.getZ());
+			System.out.println(".......... H : " + revivePoint.getH());
 
-		if (map.isInstanceType() && revivePoint != null) {
 			TeleportService2.teleportTo(player, revivePoint.getReviveWorld(), revivePoint.getX(), revivePoint.getY(),
-					revivePoint.getZ(), revivePoint.getH());
+					revivePoint.getZ(), revivePoint.getH(), TeleportAnimation.NO_ANIMATION);
 		} else {
 			bindRevive(player);
 		}

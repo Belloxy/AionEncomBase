@@ -350,6 +350,8 @@ public class TeleportService2 {
 
 	public static boolean teleportTo(final Player player, final int worldId, final int instanceId, final float x,
 			final float y, final float z, final byte heading, TeleportAnimation animation) {
+
+		System.out.println("TELEPORT DEBUG IS DEAD : " + player.getLifeStats().isAlreadyDead());
 		if (player.getLifeStats().isAlreadyDead()) {
 			return false;
 		}
